@@ -1,0 +1,99 @@
+# ── Personal data — NEVER commit these ────────────────────────────────────────
+
+# Your actual profile (keep the .example.yml in git, not this)
+config/profile.yml
+
+# Your live portal config (keep templates/portals.example.yml in git, not this)
+portals.yml
+
+CLAUDE.md
+
+# Your CV source files
+cv/EnglishCVtemplate.tex
+cv/GermanCVtemplate.tex
+cv/coverletter.docx
+cv/ElamRedCrop.png
+cv.md
+
+# Your personal AI context layer
+modes/_profile.md
+
+# Portfolio proof points
+article-digest.md
+
+# ── Generated / tracked data ──────────────────────────────────────────────────
+
+# Application tracker
+data/applications.jsonl
+data/scan-history.jsonl
+
+# Pipeline inbox (your personal pending URLs)
+data/pipeline.md
+
+# Catch-all for any other data files you create here
+data/*.jsonl
+data/*.tsv
+data/*.md
+data/*.json
+
+# Evaluation reports
+reports/
+!reports/.gitkeep
+
+# Generated CV PDFs
+output/
+!output/.gitkeep
+
+docs/*
+!docs/.gitkeep
+!docs/SETUP.md
+
+# Saved job descriptions (local copies of private/gated JDs)
+jds/
+!jds/.gitkeep
+
+# Interview prep notes and story bank
+interview-prep/
+!interview-prep/.gitkeep
+
+# ── Build artefacts ───────────────────────────────────────────────────────────
+
+# LaTeX compilation leftovers
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# PDFs anywhere outside output/ (e.g. root-level test runs)
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# ── Editor / OS ───────────────────────────────────────────────────────────────
+.env
+.env.local
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/settings.json

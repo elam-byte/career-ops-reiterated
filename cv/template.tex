@@ -1,0 +1,159 @@
+%% Career Ops Reiterated — ATS-Optimised LaTeX CV Template
+%% Engine: XeLaTeX (recommended) or pdfLaTeX
+%%
+%% USAGE:
+%%   1. Copy this file to cv/cv.tex
+%%   2. Replace all placeholder values (search for YOUR_)
+%%   3. Compile: python cv/generate_pdf.py --company "Acme" --role "AI Architect"
+%%
+%% ATS NOTES:
+%%   - Single-column layout maximises ATS parse accuracy
+%%   - No tables for the main body — plain text sections
+%%   - Standard section headings: Experience, Education, Skills
+%%   - UTF-8 throughout (xelatex handles special chars natively)
+%%
+%% TAILORED BUILDS:
+%%   generate_pdf.py injects \renewcommand{\TargetCompany}{...} after
+%%   \begin{document}, overriding the \providecommand defaults below.
+
+\documentclass[11pt, a4paper]{article}
+
+% ── Fonts & encoding ──────────────────────────────────────────────────────────
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+% For XeLaTeX with system fonts, uncomment:
+% \usepackage{fontspec}
+% \setmainfont{Inter}[BoldFont=Inter Bold, ItalicFont=Inter Italic]
+
+% ── Layout ────────────────────────────────────────────────────────────────────
+\usepackage[top=18mm, bottom=18mm, left=20mm, right=20mm]{geometry}
+\usepackage{parskip}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+% ── Colors ────────────────────────────────────────────────────────────────────
+\definecolor{accent}{HTML}{1a73e8}   % change to your preferred accent color
+\definecolor{muted}{HTML}{6b7280}
+
+% ── Hyperlinks ────────────────────────────────────────────────────────────────
+\hypersetup{colorlinks=true, urlcolor=accent, linkcolor=accent, hidelinks}
+
+% ── Section headings ──────────────────────────────────────────────────────────
+\titleformat{\section}
+  {\large\bfseries\color{accent}}{}{0em}{}[\color{muted}\titlerule]
+\titlespacing*{\section}{0pt}{10pt}{4pt}
+
+% ── Bullet style ──────────────────────────────────────────────────────────────
+\setlist[itemize]{leftmargin=1.4em, topsep=2pt, itemsep=1pt, parsep=0pt}
+
+% ── Job-specific variables (overridden by generate_pdf.py) ────────────────────
+\providecommand{\TargetCompany}{General Application}
+\providecommand{\TargetRole}{YOUR_TARGET_ROLE}
+\providecommand{\JobKeywords}{}
+
+% ── Helpers ───────────────────────────────────────────────────────────────────
+\newcommand{\cventry}[4]{%    {Company}{Role}{Dates}{Location}
+  \textbf{#1} \hfill \textit{\small #3} \\
+  \textit{#2} \hfill \textit{\small\color{muted} #4}
+  \vspace{1pt}
+}
+\newcommand{\cveducation}[4]{%    {Institution}{Degree}{Dates}{Location}
+  \textbf{#1} \hfill \textit{\small #3} \\
+  \textit{#2} \hfill \textit{\small\color{muted} #4}
+  \vspace{1pt}
+}
+
+% ═════════════════════════════════════════════════════════════════════════════
+\begin{document}
+\pagestyle{empty}
+
+% ── Header ────────────────────────────────────────────────────────────────────
+\begin{center}
+  {\LARGE\bfseries YOUR\_FULL\_NAME}\\[4pt]
+  \small
+  YOUR\_CITY, YOUR\_COUNTRY
+  $\cdot$ \href{mailto:your@email.com}{your@email.com}
+  $\cdot$ +XX XXX XXXXXXX \\
+  \href{https://linkedin.com/in/yourprofile}{linkedin.com/in/yourprofile}
+  $\cdot$ \href{https://github.com/yourusername}{github.com/yourusername}
+\end{center}
+
+\vspace{4pt}
+
+% ── Summary ───────────────────────────────────────────────────────────────────
+\section{Summary}
+
+% 2–3 sentences. Lead with your title + years of experience.
+% End with what you're looking for or what makes you distinctive.
+YOUR\_PROFESSIONAL\_SUMMARY
+
+% ── Experience ────────────────────────────────────────────────────────────────
+\section{Experience}
+
+\cventry
+  {Company Name}{Job Title}{Mon YYYY -- Present}{City, Country}
+\begin{itemize}
+  \item \textbf{[Quantified achievement]} — action verb + metric + context.
+  \item Led cross-functional team of \textbf{N engineers} to deliver [outcome].
+  \item Reduced [metric] from \textbf{X} to \textbf{Y} by [specific action].
+  \item [Next achievement — action verb + metric + context]
+\end{itemize}
+
+\vspace{6pt}
+
+\cventry
+  {Previous Company}{Job Title}{Mon YYYY -- Mon YYYY}{City, Country}
+\begin{itemize}
+  \item [Achievement with metric]
+  \item [Achievement with metric]
+  \item [Achievement with metric]
+\end{itemize}
+
+\vspace{6pt}
+
+\cventry
+  {Earlier Company}{Job Title}{Mon YYYY -- Mon YYYY}{City, Country}
+\begin{itemize}
+  \item [Achievement with metric]
+  \item [Achievement with metric]
+\end{itemize}
+
+% ── Projects / Portfolio ──────────────────────────────────────────────────────
+\section{Projects}
+
+\textbf{Project Name} \hfill
+\href{https://github.com/yourusername/project}{github.com/yourusername/project}\\
+One-line description. Hero metric: \textbf{KEY\_RESULT}. Stack: Python, FastAPI, PostgreSQL.
+
+\vspace{4pt}
+
+\textbf{Another Project} \hfill
+\href{https://github.com/yourusername/project2}{github.com/yourusername/project2}\\
+One-line description. Hero metric: \textbf{KEY\_RESULT}. Stack: Go, Kubernetes, Kafka.
+
+% ── Skills ────────────────────────────────────────────────────────────────────
+\section{Skills}
+
+\begin{itemize}[leftmargin=0pt, label={}]
+  \item \textbf{AI / ML:}          LLM APIs, RAG, vector databases, evals, MLflow
+  \item \textbf{Cloud:}            AWS (EKS, Lambda, RDS), Azure, GCP, Terraform, Kubernetes
+  \item \textbf{Languages:}        Python, Go, TypeScript
+  \item \textbf{Architecture:}     Distributed systems, event-driven (Kafka), microservices, gRPC
+  \item \textbf{Leadership:}       Cross-functional teams, technical roadmaps, OKR planning
+\end{itemize}
+
+% ── Education ─────────────────────────────────────────────────────────────────
+\section{Education}
+
+\cveducation
+  {University Name}{B.Sc. / M.Sc. in Computer Science}{YYYY}{City, Country}
+
+% ── Languages ─────────────────────────────────────────────────────────────────
+\section{Languages}
+
+English (fluent) \quad German (professional working proficiency) \quad [Your native language] (native)
+
+\end{document}

@@ -1,0 +1,85 @@
+# Career-Ops Reiterated — Profile Configuration
+# ─────────────────────────────────────────────────────────────────────────────
+# Copy this file to config/profile.yml and fill in your details.
+# profile.yml is gitignored — it never gets committed.
+# This example file is safe to commit (no real personal data).
+# ─────────────────────────────────────────────────────────────────────────────
+
+candidate:
+  full_name: "Jane Smith"
+  email: "jane@example.com"
+  phone: "+49 123 456789"
+  location: "Munich, Germany"
+  linkedin: "linkedin.com/in/janesmith"
+  portfolio_url: ""          # optional: your personal site or portfolio
+  github: ""                 # optional: github.com/username
+  twitter: ""                # optional
+
+target_roles:
+  # Your North Star roles — what you're optimizing for
+  primary:
+    - "Senior AI Architect"
+    - "Staff Solutions Engineer"
+    - "Principal Engineer"
+  # Archetypes help the evaluation system score role fit.
+  # fit: primary = dream role | secondary = good fit | adjacent = stretch
+  archetypes:
+    - name: "AI Architect"
+      level: "Senior/Staff"
+      fit: "primary"
+    - name: "Program Manager"
+      level: "Senior"
+      fit: "secondary"
+    - name: "Solutions Architect"
+      level: "Mid-Senior"
+      fit: "adjacent"
+
+narrative:
+  # One-line professional headline
+  headline: "Principal Engineer with 10+ years in AI, cloud, and distributed systems"
+  # Your exit story — what makes you distinctive
+  exit_story: "Built and managed enterprise software products at scale. Now focused on applied AI — from system design to production deployment."
+  # Top 3–5 superpowers
+  superpowers:
+    - "End-to-end product ownership"
+    - "Fast prototype-to-production (idea to MVP in 2 weeks)"
+    - "Cross-functional communication (eng ↔ exec)"
+    - "Distributed systems design"
+  # Proof points — concrete projects with measurable impact
+  proof_points:
+    - name: "ML Inference Platform"
+      url: ""
+      hero_metric: "Reduced p99 latency from 2.1s to 380ms"
+    - name: "Internal Developer Platform"
+      url: ""
+      hero_metric: "Onboarded 200 engineers, cut deploy time 60%"
+
+compensation:
+  target_range: "€100k–120k"    # Your target total comp
+  currency: "Euro"
+  minimum: "€90k"               # Walk-away number
+  location_flexibility: "Remote and onsite, no relocation constraints"
+
+location:
+  country: "Germany"
+  city: "Munich"
+  timezone: "CET"
+  visa_status: "No sponsorship needed (EU)"
+
+# ── Job search geography ────────────────────────────────────────────────────
+# The scanner filters tracked_companies and search_queries by these country
+# codes. DE is always on. Uncomment any country to activate it.
+# Codes: DE CH AT IT IN GB US FR REMOTE
+#   REMOTE = include fully-remote roles regardless of company location
+search:
+  countries:
+    - DE        # Germany (default — always on)
+    # - CH      # Switzerland
+    # - AT      # Austria
+    # - IT      # Italy
+    # - IN      # India
+    # - GB      # United Kingdom
+    # - US      # United States
+    # - FR      # France
+    # - REMOTE  # Fully-remote anywhere
+  include_remote: true   # always include companies tagged REMOTE
