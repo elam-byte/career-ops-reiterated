@@ -9,7 +9,7 @@ Processes job URLs accumulated in `data/pipeline.md`. The user adds URLs wheneve
    a. Calculate the next sequential `REPORT_NUM` (read `reports/`, take highest number + 1)
    b. **Extract JD** using Playwright (`browser_navigate` + `browser_snapshot`) → WebFetch → WebSearch
    c. If URL is inaccessible → mark as `- [!]` with a note and continue
-   d. **Run full auto-pipeline**: A-F evaluation → Report .md → LaTeX PDF (if score >= 3.0) → Tracker
+   d. **Run full auto-pipeline**: A-F evaluation → Report .md → LaTeX PDF (if score >= 4.0, ask user first) → Tracker
    e. **Move from "Pending" to "Processed"**: `- [x] #NNN | URL | Company | Role | Score/5 | PDF ✅/❌`
 3. **If 3+ pending URLs**, launch parallel agents (Agent tool with `run_in_background`) for maximum speed.
 4. **When done**, show summary table:
@@ -47,14 +47,6 @@ Processes job URLs accumulated in `data/pipeline.md`. The user adds URLs wheneve
 1. List all files in `reports/`
 2. Extract the number prefix (e.g., `142-company-...` → 142)
 3. New number = highest found + 1
-
-## Sync check
-
-Before processing any URL, verify sync:
-```bash
-python scripts/check_sync.py
-```
-If out of sync, warn the user before continuing.
 
 ## Duplicate check
 

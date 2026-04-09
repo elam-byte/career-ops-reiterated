@@ -11,10 +11,6 @@
 
 ---
 
-## Origin
-
-This repository is a reiterated fork of **[santifer/career-ops](https://github.com/santifer/career-ops)** — an AI-powered job search pipeline built on Claude Code, originally created by [Santiago](https://santifer.io) who used it to evaluate 740+ job offers and land a Head of Applied AI role.
-
 **What this fork changes:**
 
 | Area | Original | This Fork |

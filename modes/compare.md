@@ -21,4 +21,6 @@ Final ranking + recommendation with time-to-offer considerations.
 Research market comp for each role independently (Block D logic from `modes/evaluate.md`).
 Add a "Comp suggestion" column to the comparison table.
 
+Detect the archetype of each offer using `_shared.md` and read framing from `_profile.md`. The "North Star alignment" score reflects how well each role matches Elam's target archetypes (Solution Architect, Systems Architect, AI Architect, Program Manager, TPM, Portfolio Manager, Engineering Manager, Technical PM).
+
 Ask the user for the offers if not already in context. They can be text, URLs, or references to already-evaluated offers in the tracker.

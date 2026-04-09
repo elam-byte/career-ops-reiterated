@@ -52,10 +52,16 @@ Classify every offer into one of these types (or hybrid of 2):
 |-----------|-------------------|
 | AI Platform / LLMOps | "observability", "evals", "pipelines", "monitoring", "reliability" |
 | Agentic / Automation | "agent", "HITL", "orchestration", "workflow", "multi-agent" |
-| Technical AI PM | "PRD", "roadmap", "discovery", "stakeholder", "product manager" |
-| AI Solutions Architect | "architecture", "enterprise", "integration", "design", "systems" |
+| Technical AI PM | "PRD", "roadmap", "discovery", "stakeholder", "AI product manager" |
+| AI Solutions Architect | "AI architecture", "LLM integration", "ML platform", "model serving", "AI governance" |
 | AI Forward Deployed | "client-facing", "deploy", "prototype", "fast delivery", "field" |
 | AI Transformation | "change management", "adoption", "enablement", "transformation" |
+| Program Manager | "program delivery", "release train", "PMO", "SteerCo", "RAID", "cross-functional", "milestone", "dependency management" |
+| Technical Program Manager | "TPM", "technical program", "engineering coordination", "release management", "multi-team delivery", "technical dependencies" |
+| Product Manager | "product strategy", "PRD", "go-to-market", "backlog", "product lifecycle", "discovery", "user stories", "product roadmap" |
+| Project Manager | "project delivery", "PMP", "Gantt", "budget tracking", "project plan", "risk register", "waterfall", "agile delivery" |
+| Solution Architect | "solution design", "enterprise architecture", "cloud architecture", "integration patterns", "technical authority", "architecture decision", "stakeholder alignment" |
+| Systems Architect | "systems architecture", "embedded systems", "safety-critical", "ASPICE", "ISO 26262", "cyber-physical", "MBSE", "hardware-software interface", "real-time systems" |
 
 After detecting archetype, read `modes/_profile.md` for the user's specific framing and proof points for that archetype.
 
@@ -76,7 +82,6 @@ After detecting archetype, read `modes/_profile.md` for the user's specific fram
 
 0. **Cover letter:** If the form allows it, ALWAYS include one. Same visual design as CV. JD quotes mapped to proof points. 1 page max.
 1. Read cv.md, _profile.md, and article-digest.md (if exists) before evaluating
-1b. **First evaluation of each session:** Run `node cv-sync-check.mjs`. If warnings, notify user.
 2. Detect the role archetype and adapt framing per _profile.md
 3. Cite exact lines from CV when matching
 4. Use WebSearch for comp and company data
@@ -99,7 +104,7 @@ After detecting archetype, read `modes/_profile.md` for the user's specific fram
 | Write | Temporary HTML for PDF, applications.md, reports .md |
 | Edit | Update tracker |
 | Canva MCP | Optional visual CV generation. Duplicate base design, edit text, export PDF. Requires `canva_resume_design_id` in profile.yml. |
-| Bash | `node generate-pdf.mjs` |
+| Bash | PDF generation via `python cv/generate_pdf.py` |
 
 ### Time-to-offer priority
 - Working demo + metrics > perfection
@@ -122,7 +127,7 @@ These rules apply to ALL generated text that ends up in candidate-facing documen
 - "demonstrated ability to" / "best practices" (name the practice)
 
 ### Unicode normalization for ATS
-`generate-pdf.mjs` automatically normalizes em-dashes, smart quotes, and zero-width characters to ASCII equivalents for maximum ATS compatibility. But avoid generating them in the first place.
+Avoid em-dashes, smart quotes, and zero-width characters in generated text — use ASCII equivalents for maximum ATS compatibility.
 
 ### Vary sentence structure
 - Don't start every bullet with the same verb

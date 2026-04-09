@@ -70,7 +70,7 @@ Each point must:
 - Directly mirror a key theme from the JD (use the JD's exact noun phrases)
 - Contain **2–4 bolded words or short phrases** that match JD terminology exactly — use `\textbf{}` in LaTeX
 - Stay grounded in the candidate's real experience (10+ years, ZF, portfolio/architecture/AI)
-- Be concise — 2–3 lines maximum per point
+- Be concise — 2 lines maximum per point
 
 **Example approach:**
 - Point 1 → maps to the primary technical dimension of the JD (e.g. "Enterprise Architecture", "AI Platform", "Program Governance")
@@ -188,10 +188,23 @@ Each bullet must:
 
 ## Keyword Injection Strategy (ethical, truth-based)
 
-Reformulate real experience using the JD's exact vocabulary:
+Reformulate real experience using the JD's exact vocabulary. Examples by archetype:
+
+**AI / LLMOps / Agentic:**
 - JD says "RAG pipelines" and CV says "LLM workflows with retrieval" → "RAG pipeline design and LLM orchestration workflows"
 - JD says "MLOps" and CV says "observability, evals, error handling" → "MLOps and observability: evals, error handling, cost monitoring"
+
+**Solution / Systems Architect:**
 - JD says "Enterprise Architecture" and CV says "system architecture" → "Enterprise Architecture across perception, planning, and platform subsystems"
+- JD says "MBSE" and CV says "model-based development" → "Model-Based Systems Engineering (MBSE) for autonomy stack architecture"
+
+**Program Manager / TPM:**
+- JD says "release train" and CV says "coordinated releases across teams" → "Agile Release Train coordination across 3 distributed sites"
+- JD says "RAID management" and CV says "risk and issue tracking" → "RAID management and SteerCo reporting for SAE L4 program"
+
+**Product Manager:**
+- JD says "product discovery" and CV says "requirements gathering" → "Product discovery: user interviews, backlog synthesis, and hypothesis-driven prioritisation"
+- JD says "go-to-market" and CV says "product launch" → "Go-to-market coordination across engineering, sales, and customer success"
 
 **NEVER add skills the candidate doesn't have. Only reformulate real experience using the JD's exact vocabulary.**
 
