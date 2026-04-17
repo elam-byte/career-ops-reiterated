@@ -19,6 +19,7 @@ cv.md
 modes/_profile.md
 
 node_modules/
+.playwright-mcp/
 
 # Portfolio proof points
 article-digest.md
