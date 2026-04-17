@@ -1,0 +1,370 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - link "Zum Inhalt springen" [ref=e4] [cursor=pointer]:
+        - /url: "#main-content"
+      - generic [ref=e6]:
+        - banner [ref=e9]:
+          - generic [ref=e11]:
+            - link "Liebherr" [ref=e14] [cursor=pointer]:
+              - /url: https://www.liebherr.com/de-int/karriere/karriere-5370600
+              - img "Liebherr" [ref=e15]
+            - generic [ref=e17]:
+              - generic:
+                - generic [ref=e18]: Karriere
+                - text: 
+            - generic [ref=e23] [cursor=pointer]: 
+            - button [ref=e24]:
+              - checkbox [ref=e26] [cursor=pointer]
+            - generic:
+              - generic:
+                - generic: 
+                - generic: 
+                - generic: 
+                - generic: 
+                - generic: 
+              - link "Weitere Produktsegmente " [ref=e30] [cursor=pointer]:
+                - /url: "#"
+                - text: Weitere Produktsegmente
+                - generic [ref=e32]: 
+              - generic [ref=e33] [cursor=pointer]:
+                - generic [ref=e34]:
+                  - generic [ref=e36]: 
+                  - generic [ref=e37]: Globale Website (de)
+                - text: 
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - text: 
+                            - generic:
+                              - generic:
+                                - generic:            
+        - text:                      
+      - main [ref=e42]:
+        - generic [ref=e43]:
+          - img "Technical AI-Consultant (m/w/d)" [ref=e47]
+          - generic [ref=e49]:
+            - generic [ref=e50]:
+              - heading "Technical AI-Consultant (m/w/d) Kirchdorf/Oberopfingen" [level=1] [ref=e52]:
+                - generic [ref=e53]: Technical AI-Consultant (m/w/d)
+                - generic [ref=e54]: Kirchdorf/Oberopfingen
+              - generic [ref=e56]:
+                - paragraph [ref=e57]: Sie begeistern sich für innovative KI-Lösungen und möchten die Zukunft der Arbeitswelt aktiv mitgestalten? Sie verbinden technisches Know-how mit strategischer Beratung, um KI-Lösungen in Unternehmen erfolgreich zu entwickeln und zu implementieren?
+                - paragraph [ref=e58]: Wir suchen zur Verstärkung des Teams Business Support Solutions einen Technical AI-Consultant (m/w/d). In spannenden Projekten rund um das Thema KI übernehmen Sie eine Schlüsselrolle, von der Beratung bis zur Implementierung.
+                - paragraph [ref=e59]:
+                  - text: "Bei der Liebherr-IT Services GmbH legen wir Wert auf die Entfaltung individueller und unternehmerischer Bedürfnisse und leben daher das Flex Office: Wir arbeiten im hybriden Modell bei flexiblen Arbeitszeiten – sowohl vor Ort als auch mobil."
+                  - text: "Liebherr-Interner Titel: Technical Consultant"
+                - 'heading "Faszinierendes schaffen: Ihre Aufgaben" [level=2] [ref=e60]'
+                - list [ref=e61]:
+                  - listitem [ref=e62]: – Beratung und Entwicklung von KI-Strategien, die auf Unternehmensziele von Liebherr abgestimmt sind
+                  - listitem [ref=e63]: – Analyse und Optimierung bestehender Geschäftsprozesse mithilfe von KI und im engen Austausch mit den jeweiligen Fachbereichen
+                  - listitem [ref=e64]: – Implementierung von KI-Lösungen, z.B. mit AI Low Code Platforms wie Microsoft Copilot Studio oder Azure AI Foundry
+                  - listitem [ref=e65]: – Integration von KI-Systemen in bestehenden IT-Landschaften
+                  - listitem [ref=e66]: – Begleitung von Projekten von der Anforderungsaufnahme bis zur erfolgreichen Implementierung
+                  - listitem [ref=e67]: – Kommunikation mit Fachbereichen, IT und Management
+                  - listitem [ref=e68]: – Dokumentation und Übergabe von Projektergebnissen
+                - 'heading "Stärken einbringen: Ihre Qualifikationen" [level=2] [ref=e69]'
+                - list [ref=e70]:
+                  - listitem [ref=e71]: – Abgeschlossenes Studium im Bereich Informatik, Wirtschaftsinformatik oder vergleichbare Qualifikation
+                  - listitem [ref=e72]: – Fundierte Kenntnisse in AI Low Code Platform wie Microsoft Copilot, Copilot Studio und Azure AI Foundry
+                  - listitem [ref=e73]: – Kenntnisse im Prompt Engineering und im Umgang mit LLMs (Large Language Models)
+                  - listitem [ref=e74]: – Erfahrung im Projektmanagement und in der Zusammenarbeit mit verschiedenen Stakeholdern
+                  - listitem [ref=e75]: – Sehr gute analytische und konzeptionelle Fähigkeiten
+                  - listitem [ref=e76]: – Selbstständige, strukturierte und lösungsorientierte Arbeitsweise
+                  - listitem [ref=e77]: – Ausgesprägte Kommunikations- und Teamfähigkeit
+                  - listitem [ref=e78]: – Sehr gute Deutsch- und Entlgischkenntnisse in Wort und Schrift
+                - 'heading "Freiraum nutzen: Ihre Vorteile" [level=2] [ref=e79]'
+                - paragraph [ref=e80]: "Die Firmengruppe Liebherr bietet Ihnen als international erfolgreiches Familienunternehmen einen sicheren Arbeitsplatz, eine einzigartige Vielfalt an Aufgaben und spannende Entwicklungsmöglichkeiten. Werden Sie noch heute Teil unseres starken Teams und lernen Sie die Firmengruppe Liebherr als zuverlässigen Partner kennen. Profitieren Sie von diesen Benefits:"
+                - list [ref=e81]:
+                  - listitem [ref=e82]: – Attraktive Vergütung und Sozialleistungen
+                  - listitem [ref=e83]: – Flexibles und mobiles Arbeiten
+                  - listitem [ref=e84]: – Freiräume für kreatives Arbeiten
+                  - listitem [ref=e85]: – Krisensicherer Arbeitsplatz
+                  - listitem [ref=e86]: – Individuelle Entwicklungs- und Weiterbildungsmöglichkeiten
+                  - listitem [ref=e87]: – Mitarbeitervorteile & Rabatte
+                  - listitem [ref=e88]: – Gesunde & regionale Verpflegung im Betriebsrestaurant
+                  - listitem [ref=e89]: – Betriebliches Gesundheitsmanagement
+                  - listitem [ref=e90]: – E-Gym-Wellpass
+                - paragraph [ref=e91]:
+                  - text: "Machen Sie sich Ihr eigenes Bild von unserem Standort Oberopfingen:"
+                  - link "Liebherr - Imagefilm Standort Oberopfingen - YouTube" [ref=e92] [cursor=pointer]:
+                    - /url: https://www.youtube.com/watch?v=CriM8oAD4G4
+                  - text: "und finden Sie Ihr perfektes Match in unserem Familienunternehmen:"
+                  - link "Liebherr - Finde dein perfektes Match! (youtube.com)" [ref=e93] [cursor=pointer]:
+                    - /url: https://www.youtube.com/watch?v=JvlAzpFl8I8&list=PLRWbihl-JTGWHZJVxWIG2FnqNcpAaZUtd&index=5
+                - paragraph [ref=e94]: Bitte nutzen Sie ausschließlich die Möglichkeit zur Online-Bewerbung.
+                - paragraph [ref=e95]: Haben wir Ihr Interesse geweckt? Dann freuen wir uns über Ihre Online-Bewerbung. Bei Fragen kontaktieren Sie bitte Ümit Arici.
+                - paragraph [ref=e96]:
+                  - strong [ref=e97]: One Passion. Many Opportunities.
+              - generic [ref=e99]:
+                - button "Jetzt bewerben " [ref=e103] [cursor=pointer]:
+                  - generic [ref=e104]: Jetzt bewerben
+                  - generic [ref=e107]: 
+                - generic [ref=e108]:
+                  - button " Download" [ref=e110] [cursor=pointer]:
+                    - generic [ref=e114]:
+                      - generic [ref=e117]: 
+                      - generic [ref=e118]: Download
+                  - button " Seite drucken" [ref=e120] [cursor=pointer]:
+                    - generic [ref=e124]:
+                      - generic [ref=e127]: 
+                      - generic [ref=e128]: Seite drucken
+                  - button " Teilen" [ref=e130] [cursor=pointer]:
+                    - generic [ref=e134]:
+                      - generic [ref=e137]: 
+                      - generic [ref=e138]: Teilen
+              - generic [ref=e146]:
+                - generic [ref=e147]:
+                  - img [ref=e150]
+                  - generic [ref=e153]: Externer Inhalt (Drittanbieter-Dienst)YouTube-Videos
+                - generic [ref=e155]:
+                  - text: Dieses Video wird von Google* bereitgestellt. Wenn Sie dieses Video laden, werden Ihre Daten, darunter Ihre IP-Adresse, an Google übermittelt und können von Google, auch zu eigenen Zwecken, außerhalb der EU bzw. des EWR und damit in einem Drittland, insbesondere in den USA**, gespeichert und verarbeitet werden. Auf die weitere Datenverarbeitung durch Google haben wir keinen Einfluss.
+                  - paragraph [ref=e156]: Indem Sie auf „AKZEPTIEREN“ klicken, willigen Sie für dieses Video gemäß Art. 6 Abs. 1 lit. a DSGVO in die Datenübermittlung an Google ein. Wenn Sie künftig nicht mehr zu jedem YouTube-Video einzeln einwilligen und diese ohne diesen Blocker laden können möchten, können Sie zusätzlich „YouTube-Videos immer akzeptieren“ auswählen und damit auch für alle weiteren YouTube-Videos, welche Sie zukünftig auf unserer Website noch aufrufen werden, in die jeweils damit verbundenen Datenübermittlungen an Google einwilligen.
+                  - paragraph [ref=e157]:
+                    - text: Erteilte Einwilligungen können Sie jederzeit mit Wirkung für die Zukunft widerrufen und damit die weitere Übermittlung Ihrer Daten verhindern, indem Sie den entsprechenden Dienst unter „Sonstige Dienste (optional)“ in den
+                    - link "Einstellungen" [ref=e158] [cursor=pointer]:
+                      - /url: "#"
+                    - text: abwählen (später auch aufrufbar über die „Datenschutzeinstellungen“ in der Fußzeile unserer Website ).
+                  - generic [ref=e159]:
+                    - text: . Weitere Informationen erhalten Sie in unserer
+                    - link "Datenschutzerklärung" [ref=e160] [cursor=pointer]:
+                      - /url: "#"
+                    - text: sowie in der
+                    - link "Google-Datenschutzerklärung.Datenschutzerklärung von Google" [ref=e161] [cursor=pointer]:
+                      - /url: https://policies.google.com/privacy
+                    - text: .
+                  - superscript [ref=e163]: "*Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland; Mutterunternehmen: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA"
+                  - superscript [ref=e165]: "** Hinweis: Die mit der Datenübermittlung an Google verbundene Datenübermittlung in die USA erfolgt auf Grundlage des Angemessenheitsbeschlusses der Europäischen Kommission vom 10. Juli 2023 (EU-U.S. Data Privacy Framework)."
+                - generic [ref=e166]:
+                  - generic [ref=e171] [cursor=pointer]:
+                    - checkbox "YouTube-Videos immer akzeptieren" [ref=e172]
+                    - generic [ref=e173]:
+                      - generic: YouTube-Videos immer akzeptieren
+                  - generic:
+                    - button "Akzeptieren" [disabled]:
+                      - generic: Akzeptieren
+            - generic [ref=e174]:
+              - generic [ref=e175]:
+                - generic [ref=e176]:
+                  - term [ref=e177]: Job-ID
+                  - definition [ref=e178] [cursor=pointer]: "80390"
+                  - term [ref=e179]: Unternehmensbereich
+                  - definition [ref=e180]: Liebherr International
+                  - term [ref=e181]: Gesellschaft
+                  - definition [ref=e182]: Liebherr-IT Services GmbH
+                  - term [ref=e183]: Einsatzbereich
+                  - definition [ref=e184]: Informationstechnologie / Software
+                  - term [ref=e185]: Land
+                  - definition [ref=e186]: Deutschland
+                  - term [ref=e187]: Einstiegslevel
+                  - definition [ref=e188]: Berufserfahrene
+                  - term [ref=e189]: Vertragsart
+                  - definition [ref=e190]: Vollzeit
+                - button "Jetzt bewerben " [ref=e194] [cursor=pointer]:
+                  - generic [ref=e195]: Jetzt bewerben
+                  - generic [ref=e198]: 
+              - generic [ref=e199]:
+                - paragraph [ref=e200]: Das Unternehmen
+                - paragraph [ref=e201]: Die Liebherr-IT Services GmbH mit Sitz in Oberopfingen bei Kirchdorf an der Iller erarbeitet IT-Lösungen für die gesamte Firmengruppe, koordiniert die standortübergreifenden IT-Anwendungen und berät die Gesellschaften der gesamten Firmengruppe in IT-Fragen.
+              - generic [ref=e202]:
+                - paragraph [ref=e203]: Standort
+                - generic [ref=e204]:
+                  - strong [ref=e205]: Liebherr-IT Services GmbH
+                  - text: 88457 Kirchdorf/Oberopfingen
+                  - text: Deutschland
+                - link "Zum Standort" [ref=e209] [cursor=pointer]:
+                  - /url: /de-de/firmengruppe/standort/kirchdorf-itservices-profil-3705460
+                  - generic [ref=e211]: Zum Standort
+              - generic [ref=e212]:
+                - paragraph [ref=e213]: Kontakt
+                - generic [ref=e217]:
+                  - generic [ref=e218]:
+                    - paragraph [ref=e219]: Ümit Arici
+                    - paragraph
+                  - button "Kontaktanfrage stellen" [ref=e222] [cursor=pointer]:
+                    - generic [ref=e223]: Kontaktanfrage stellen
+        - generic [ref=e228]:
+          - generic [ref=e229]:
+            - generic [ref=e234]:
+              - heading "Häufige Fragen" [level=2] [ref=e235]:
+                - link "Häufige Fragen" [ref=e236] [cursor=pointer]:
+                  - /url: /de-int/karriere/berufserfahrene/ihr-weg-zur-bewerbung-5370630
+              - paragraph [ref=e238]: Sie haben Fragen rund um das Thema Arbeiten bei Liebherr? Hier gibt es die Antworten!
+            - link "Ihr Weg zur Bewerbung" [ref=e245] [cursor=pointer]:
+              - /url: /de-int/karriere/berufserfahrene/ihr-weg-zur-bewerbung-5370630
+              - generic [ref=e247]: Ihr Weg zur Bewerbung
+          - generic [ref=e248]:
+            - generic [ref=e253]:
+              - heading "Initiativbewerbung" [level=2] [ref=e254]:
+                - link "Initiativbewerbung" [ref=e255] [cursor=pointer]:
+                  - /url: /de-int/karriere/initiativbewerbung-5370735
+              - paragraph [ref=e257]: Sie haben noch keine passende Stelle gefunden? Gerne können Sie sich bei uns auch initiativ bewerben.
+            - generic "Zu den Initiativbewerbungen" [ref=e262]:
+              - link "Zu den Initiativbewerbungen" [ref=e264] [cursor=pointer]:
+                - /url: /de-int/karriere/initiativbewerbung-5370735
+                - generic [ref=e266]: Zu den Initiativbewerbungen
+      - contentinfo [ref=e270]:
+        - generic [ref=e271]:
+          - generic [ref=e272]:
+            - generic [ref=e273]:
+              - generic [ref=e277]:
+                - generic [ref=e279] [cursor=pointer]: 
+                - generic [ref=e280] [cursor=pointer]: Globale Website (DE)
+              - generic [ref=e281]:
+                - generic:
+                  - link "Kontakt" [ref=e282] [cursor=pointer]:
+                    - /url: /de-int/firmengruppe/disclaimer/kontakt-3935435
+                    - generic [ref=e285]: Kontakt
+                  - link "Startseite Firmengruppe" [ref=e286] [cursor=pointer]:
+                    - /url: /de-int/firmengruppe/startseite-3935069
+                    - generic [ref=e289]: Startseite Firmengruppe
+            - generic [ref=e290]:
+              - generic [ref=e291]:
+                - generic [ref=e295]:
+                  - generic:
+                    - generic:
+                      - generic: Produkte
+                    - text: 
+                  - link "Kühlen und Gefrieren" [ref=e298] [cursor=pointer]:
+                    - /url: /de-int/gefrier-kuehlschraenke/hausgeraete-6609802
+                    - generic [ref=e301]: Kühlen und Gefrieren
+                - generic [ref=e305]:
+                  - generic:
+                    - generic:
+                      - generic: Karriere
+                    - text: 
+                  - generic [ref=e306]:
+                    - generic:
+                      - link "Offene Stellen" [ref=e308] [cursor=pointer]:
+                        - /url: /de-int/karriere/offene-stellen-5370609
+                        - generic [ref=e311]: Offene Stellen
+                      - link "Berufserfahrene" [ref=e313] [cursor=pointer]:
+                        - /url: /de-int/karriere/berufserfahrene-5370612
+                        - generic [ref=e316]: Berufserfahrene
+                      - link "Berufseinsteigende" [ref=e318] [cursor=pointer]:
+                        - /url: /de-int/karriere/berufseinsteigende-5370632
+                        - generic [ref=e321]: Berufseinsteigende
+                      - link "Studierende" [ref=e323] [cursor=pointer]:
+                        - /url: /de-int/karriere/studierende-5370640
+                        - generic [ref=e326]: Studierende
+                      - link "Wir als Arbeitgeber" [ref=e328] [cursor=pointer]:
+                        - /url: /de-int/karriere/wir-als-arbeitgeber-5370658
+                        - generic [ref=e331]: Wir als Arbeitgeber
+                      - link "Kontakt" [ref=e333] [cursor=pointer]:
+                        - /url: /de-int/karriere/kontakt-5370733
+                        - generic [ref=e336]: Kontakt
+                - generic [ref=e340]:
+                  - generic:
+                    - generic:
+                      - generic: Unternehmen
+                    - text: 
+                  - generic [ref=e341]:
+                    - generic:
+                      - link "Liebherr weltweit" [ref=e343] [cursor=pointer]:
+                        - /url: /de-int/firmengruppe/über-liebherr/liebherr-weltweit/liebherr-weltweit-3935382
+                        - generic [ref=e346]: Liebherr weltweit
+                      - link "Historie" [ref=e348] [cursor=pointer]:
+                        - /url: /de-int/firmengruppe/über-liebherr/historie/1949-1960-3935264
+                        - generic [ref=e351]: Historie
+                      - link "Service und Dienstleistungen" [ref=e353] [cursor=pointer]:
+                        - /url: /de-int/firmengruppe/über-liebherr/service-und-dienstleistungen/service-und-dienstleistungen-3935387
+                        - generic [ref=e356]: Service und Dienstleistungen
+                      - link "Vertriebs- und Servicepartner" [ref=e358] [cursor=pointer]:
+                        - /url: /de-int/firmengruppe/über-liebherr/service-und-dienstleistungen/vertriebs-und-servicepartner/vertrieb-und-service-3935389
+                        - generic [ref=e361]: Vertriebs- und Servicepartner
+                      - link "Liebherr-Shop" [ref=e363] [cursor=pointer]:
+                        - /url: https://liebherr-shop.liebherr.com/
+                        - generic [ref=e366]: Liebherr-Shop
+                      - link "Produkt-Cybersicherheit" [ref=e368] [cursor=pointer]:
+                        - /url: ""
+                        - generic [ref=e371]: Produkt-Cybersicherheit
+                - generic [ref=e375]:
+                  - generic:
+                    - generic:
+                      - generic: Aktuelles
+                    - text: 
+                  - generic [ref=e376]:
+                    - generic:
+                      - link "News und Pressemitteilungen" [ref=e378] [cursor=pointer]:
+                        - /url: /de-int/firmengruppe/aktuelles/news-und-pressemitteilungen/news-und-pressemitteilungen-3935640
+                        - generic [ref=e381]: News und Pressemitteilungen
+                      - link "Messen und Veranstaltungen" [ref=e383] [cursor=pointer]:
+                        - /url: /de-int/firmengruppe/aktuelles/messen-und-veranstaltungen/messen-und-veranstaltungen-3935643
+                        - generic [ref=e386]: Messen und Veranstaltungen
+              - generic [ref=e387]:
+                - generic:
+                  - generic [ref=e388]:
+                    - generic [ref=e389]:
+                      - generic:
+                        - generic:
+                          - generic: Besuchen Sie uns
+                        - text: 
+                      - generic [ref=e390]:
+                        - generic:
+                          - link " Instagram" [ref=e391] [cursor=pointer]:
+                            - /url: https://www.instagram.com/liebherrcareers/
+                            - generic [ref=e393]:
+                              - generic [ref=e395]: 
+                              - generic [ref=e396]: Instagram
+                          - link " Facebook" [ref=e397] [cursor=pointer]:
+                            - /url: https://www.facebook.com/LiebherrKarriere/
+                            - generic [ref=e399]:
+                              - generic [ref=e401]: 
+                              - generic [ref=e402]: Facebook
+                          - link " TikTok" [ref=e403] [cursor=pointer]:
+                            - /url: https://www.tiktok.com/@liebherr_group
+                            - generic [ref=e405]:
+                              - generic [ref=e407]: 
+                              - generic [ref=e408]: TikTok
+                          - link " Youtube" [ref=e409] [cursor=pointer]:
+                            - /url: https://www.youtube.com/user/liebherr
+                            - generic [ref=e411]:
+                              - generic [ref=e413]: 
+                              - generic [ref=e414]: Youtube
+                          - link " LinkedIn" [ref=e415] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/company/liebherr
+                            - generic [ref=e417]:
+                              - generic [ref=e419]: 
+                              - generic [ref=e420]: LinkedIn
+                          - link " Xing" [ref=e421] [cursor=pointer]:
+                            - /url: https://www.xing.com/pages/liebherr
+                            - generic [ref=e423]:
+                              - generic [ref=e425]: 
+                              - generic [ref=e426]: Xing
+                    - text: 
+                  - generic [ref=e427]:
+                    - generic [ref=e428]:
+                      - generic:
+                        - generic:
+                          - generic: Funktionen
+                        - text: 
+                      - generic [ref=e431]:
+                        - generic [ref=e433] [cursor=pointer]: 
+                        - generic [ref=e434] [cursor=pointer]: Teilen
+                    - text: 
+          - generic [ref=e435]:
+            - link "Liebherr" [ref=e437] [cursor=pointer]:
+              - /url: https://www.liebherr.com/de-int/karriere/karriere-5370600
+              - img "Liebherr" [ref=e438]
+            - generic [ref=e439]:
+              - generic:
+                - link "Impressum" [ref=e440] [cursor=pointer]:
+                  - /url: /de-int/cross-entry-point/de-de-int/corp_imprint
+                  - generic [ref=e443]: Impressum
+                - link "Datenschutzhinweis" [ref=e444] [cursor=pointer]:
+                  - /url: /de-int/cross-entry-point/de-de-int/corp_privacy
+                  - generic [ref=e447]: Datenschutzhinweis
+                - link "Kontakt" [ref=e448] [cursor=pointer]:
+                  - /url: /de-int/cross-entry-point/de-de-int/corp_contact
+                  - generic [ref=e451]: Kontakt
+                - generic [ref=e455] [cursor=pointer]: Privacy Settings
+                - link "Barrierefreiheitserklärung" [ref=e456] [cursor=pointer]:
+                  - /url: /de-int/cross-entry-point/de-de-int/corp_accessibility
+                  - generic [ref=e459]: Barrierefreiheitserklärung
+            - text: 
+    - status
+  - alert [ref=e460]

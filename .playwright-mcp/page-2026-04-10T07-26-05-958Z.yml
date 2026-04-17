@@ -1,0 +1,283 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "Zum Hauptinhalt wechseln" [ref=e3] [cursor=pointer]:
+      - /url: "#content"
+      - paragraph [ref=e4]: Zum Hauptinhalt wechseln
+    - generic [ref=e10]:
+      - generic [ref=e11]: Karriere
+      - list
+    - generic [ref=e14]:
+      - generic [ref=e15]: Öffnet sich in einem neuen Tab
+      - link "Homepage von Karriere" [ref=e16] [cursor=pointer]:
+        - /url: https://www.zeiss.com/career/de/home.html
+        - generic:
+          - generic:
+            - img
+      - generic [ref=e18]:
+        - navigation "Hauptnavigation" [ref=e19]:
+          - list [ref=e20]:
+            - listitem [ref=e21]:
+              - link "Arbeiten bei ZEISS" [ref=e22] [cursor=pointer]:
+                - /url: https://www.zeiss.com/career/de/arbeiten-bei-zeiss.html
+                - generic [ref=e23]: Arbeiten bei ZEISS
+            - listitem [ref=e24]:
+              - link "Arbeitsbereiche" [ref=e25] [cursor=pointer]:
+                - /url: https://www.zeiss.com/career/de/arbeitsbereiche.html
+                - generic [ref=e26]: Arbeitsbereiche
+                - img [ref=e30]
+            - listitem [ref=e32]:
+              - link "Standorte" [ref=e33] [cursor=pointer]:
+                - /url: https://www.zeiss.com/career/de/standorte.html
+                - generic [ref=e34]: Standorte
+                - img [ref=e38]
+            - listitem [ref=e40]:
+              - link "Bewerbung" [ref=e41] [cursor=pointer]:
+                - /url: https://www.zeiss.com/career/de/bewerbung.html
+                - generic [ref=e42]: Bewerbung
+        - navigation "Zusätzliche Navigation" [ref=e43]:
+          - list [ref=e44]:
+            - listitem [ref=e45]:
+              - link "ZEISS Karriere Kontakt" [ref=e46] [cursor=pointer]:
+                - /url: https://www.zeiss.com/career/de/kontakt.html
+                - generic [ref=e47]: Kontakt
+      - generic [ref=e48]:
+        - link "Auf Website suchen" [ref=e51] [cursor=pointer]:
+          - /url: "#search"
+          - generic:
+            - generic:
+              - img
+        - link "Stellensuche" [ref=e55] [cursor=pointer]:
+          - /url: https://www.zeiss.com/career/de/stellensuche.html
+          - generic:
+            - generic: Stellensuche
+            - generic:
+              - generic:
+                - img
+  - main [ref=e57]:
+    - generic [ref=e59]:
+      - generic [ref=e71]:
+        - heading "Jobsuche" [level=1] [ref=e72]:
+          - generic [ref=e73]: Jobsuche
+        - generic [ref=e74]: Stellenangebote bei ZEISS
+      - generic [ref=e80]:
+        - paragraph [ref=e86]: "Hier findest Du eine Übersicht unserer offenen Jobs weltweit. Über die Filterfunktion oder Stichwortsuche kannst Du die ausgeschriebenen Stellen nach Deinen Präferenzen eingrenzen. Bei Fragen schaue gerne in unserem FAQ-Bereich unter dem Reiter Bewerbung vorbei. Bewirb Dich jetzt und werde Teil von #teamZEISS."
+        - generic [ref=e101]:
+          - generic [ref=e104]:
+            - generic [ref=e105]:
+              - generic [ref=e107]: Filters
+              - paragraph [ref=e109] [cursor=pointer]: reset filters
+            - generic [ref=e113] [cursor=pointer]:
+              - generic: Search by role or keyword
+              - textbox "Search by role or keyword" [ref=e115]
+            - generic [ref=e119] [cursor=pointer]:
+              - generic: Location
+              - textbox "Location" [ref=e121]
+            - generic [ref=e125] [cursor=pointer]:
+              - generic: Job category
+              - textbox "Job category" [ref=e127]
+            - generic [ref=e131] [cursor=pointer]:
+              - generic: Employment type
+              - button [ref=e133]
+            - generic [ref=e134]:
+              - paragraph [ref=e135]: Search results
+              - generic [ref=e137]: "0"
+          - paragraph [ref=e140]: Sorry, no results match your search for "". Try adjusting your filters or using a different term.
+  - contentinfo [ref=e141]:
+    - link "Zurück nach oben" [ref=e146] [cursor=pointer]:
+      - /url: "#to-top"
+      - generic [ref=e147]: Zurück nach oben
+      - img [ref=e150]
+    - generic [ref=e158]:
+      - generic [ref=e159]: Verwandte ZEISS Websites
+      - link "ZEISS Gruppe" [ref=e160] [cursor=pointer]:
+        - /url: https://www.zeiss.de
+    - generic [ref=e165]:
+      - generic [ref=e166]:
+        - list [ref=e169]:
+          - listitem [ref=e170]:
+            - button "Häufig verwendet":
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Häufig verwendet
+            - generic [ref=e172]:
+              - link "Arbeitsbereiche" [ref=e173] [cursor=pointer]:
+                - /url: https://www.zeiss.com/career/de/arbeitsbereiche.html
+              - link "Bewerbungsablauf" [ref=e174] [cursor=pointer]:
+                - /url: https://www.zeiss.com/career/de/bewerbung.html
+              - link "ZEISS in Deutschland" [ref=e175] [cursor=pointer]:
+                - /url: https://www.zeiss.com/career/de/standorte/deutschland.html
+        - list [ref=e178]:
+          - listitem [ref=e179]:
+            - button "Über ZEISS":
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Über ZEISS
+            - generic [ref=e181]:
+              - link "ZEISS im Überblick" [ref=e182] [cursor=pointer]:
+                - /url: https://www.zeiss.de/unternehmen
+              - link "Karriere" [ref=e183] [cursor=pointer]:
+                - /url: https://www.zeiss.de/karriere
+              - link "Newsroom" [ref=e184] [cursor=pointer]:
+                - /url: https://www.zeiss.de/newsroom
+              - link "Compliance" [ref=e185] [cursor=pointer]:
+                - /url: https://www.zeiss.de/compliance
+        - list [ref=e188]:
+          - listitem [ref=e189]:
+            - button "Social Media":
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Social Media
+            - generic [ref=e191]:
+              - link "Facebook" [ref=e192] [cursor=pointer]:
+                - /url: https://www.facebook.com/zeisskarriere
+              - link "Instagram" [ref=e193] [cursor=pointer]:
+                - /url: https://www.instagram.com/zeisscareer/
+              - link "LinkedIn" [ref=e194] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/zeiss/
+              - link "YouTube" [ref=e195] [cursor=pointer]:
+                - /url: https://www.youtube.com/@ZEISSCareer
+      - generic [ref=e196]:
+        - generic [ref=e198] [cursor=pointer]:
+          - generic [ref=e199]: ZEISS Bereich wählen
+          - generic [ref=e200]: ZEISS Gruppe
+          - img [ref=e203]
+        - generic [ref=e205]:
+          - list [ref=e207]:
+            - listitem [ref=e208]:
+              - link "Cinematography" [ref=e209] [cursor=pointer]:
+                - /url: https://www.zeiss.de/photonics-and-optics/cinematografie.html
+            - listitem [ref=e210]:
+              - link "Hunting" [ref=e211] [cursor=pointer]:
+                - /url: https://www.zeiss.de/photonics-and-optics/jagd.html
+            - listitem [ref=e212]:
+              - link "Nature Observation" [ref=e213] [cursor=pointer]:
+                - /url: https://www.zeiss.de/photonics-and-optics/naturbeobachtung.html
+            - listitem [ref=e214]:
+              - link "Planetariums" [ref=e215] [cursor=pointer]:
+                - /url: https://www.zeiss.de/planetariums/home.html
+            - listitem [ref=e216]:
+              - link "Simulation Projection Solutions" [ref=e217] [cursor=pointer]:
+                - /url: https://www.zeiss.de/simulation-projection-solutions/home.html
+            - listitem [ref=e218]:
+              - link "Vision Care" [ref=e219] [cursor=pointer]:
+                - /url: https://www.zeiss.de/vision-care/home.html
+          - list [ref=e221]:
+            - listitem [ref=e222]:
+              - link "Digital Solutions & Software Development" [ref=e223] [cursor=pointer]:
+                - /url: https://www.zeiss.de/digital-innovation/home.html
+            - listitem [ref=e224]:
+              - link "Industrial Quality Solutions" [ref=e225] [cursor=pointer]:
+                - /url: https://www.zeiss.de/messtechnik/home.html
+            - listitem [ref=e226]:
+              - link "OEM Solutions" [ref=e227] [cursor=pointer]:
+                - /url: https://www.zeiss.com/oem-solutions/home.html
+            - listitem [ref=e228]:
+              - link "Research Microscopy Solutions" [ref=e229] [cursor=pointer]:
+                - /url: https://www.zeiss.de/mikroskopie/home.html
+            - listitem [ref=e230]:
+              - link "Spectroscopy" [ref=e231] [cursor=pointer]:
+                - /url: https://www.zeiss.de/spectroscopy/home.html
+            - listitem [ref=e232]:
+              - link "ZEISS Group" [ref=e233] [cursor=pointer]:
+                - /url: https://www.zeiss.de/corporate/home.html
+          - list [ref=e235]:
+            - listitem [ref=e236]:
+              - link "Extended Reality" [ref=e237] [cursor=pointer]:
+                - /url: https://www.zeiss.com/extended-reality/en/home.html
+            - listitem [ref=e238]:
+              - link "Medical Technology" [ref=e239] [cursor=pointer]:
+                - /url: https://www.zeiss.de/meditec/home.html
+            - listitem [ref=e240]:
+              - link "Photography" [ref=e241] [cursor=pointer]:
+                - /url: https://www.zeiss.de/photonics-and-optics/fotografie.html
+            - listitem [ref=e242]:
+              - link "Semiconductor Manufacturing Technology" [ref=e243] [cursor=pointer]:
+                - /url: https://www.zeiss.de/semiconductor-manufacturing-technology/home.html
+            - listitem [ref=e244]:
+              - link "Sunlens" [ref=e245] [cursor=pointer]:
+                - /url: https://www.zeiss.com/sunlens/de/home.html
+        - generic [ref=e247] [cursor=pointer]:
+          - generic [ref=e248]: Website auswählen
+          - generic [ref=e249]: Internationale Website (Deutsch)
+          - img [ref=e252]
+        - list [ref=e255]:
+          - listitem [ref=e256]:
+            - button "Sprache auswählen":
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Sprache auswählen
+            - list [ref=e260]:
+              - listitem [ref=e261]:
+                - link "Seite in Global website (English) öffnen" [ref=e262] [cursor=pointer]:
+                  - /url: https://www.zeiss.com/career/en/job-search.html
+                  - text: Global website (English)
+              - listitem [ref=e263]:
+                - link "Seite in Internationale Website (Deutsch) öffnen" [ref=e264] [cursor=pointer]:
+                  - /url: https://www.zeiss.com/career/de/stellensuche.html
+                  - text: Internationale Website (Deutsch)
+              - listitem [ref=e265]:
+                - link "Seite in 全球网站（中文 (简体)） öffnen" [ref=e266] [cursor=pointer]:
+                  - /url: https://www.zeiss.com/career/zh_cn/job-search.html
+                  - text: 全球网站（中文 (简体)）
+              - listitem [ref=e267]:
+                - link "Seite in 全球網站 (中文 (繁體)) öffnen" [ref=e268] [cursor=pointer]:
+                  - /url: https://www.zeiss.com/career/zh_tw/job-search.html
+                  - text: 全球網站 (中文 (繁體))
+              - listitem [ref=e269]:
+                - link "Seite in Sitio web global (Español) öffnen" [ref=e270] [cursor=pointer]:
+                  - /url: https://www.zeiss.com/career/es/busqueda-de-empleo.html
+                  - text: Sitio web global (Español)
+              - listitem [ref=e271]:
+                - link "Seite in Site web international (Français) öffnen" [ref=e272] [cursor=pointer]:
+                  - /url: https://www.zeiss.com/career/fr/recherche-demploi.html
+                  - text: Site web international (Français)
+          - listitem [ref=e273]:
+            - button "Standort wählen":
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Standort wählen
+    - list [ref=e283]:
+      - listitem [ref=e284]:
+        - generic [ref=e286]:
+          - link "Kontakt" [ref=e287] [cursor=pointer]:
+            - /url: https://www.zeiss.com/career/de/kontakt.html
+          - link "Impressum" [ref=e288] [cursor=pointer]:
+            - /url: https://www.zeiss.de/impressum
+          - link "Rechtshinweise" [ref=e289] [cursor=pointer]:
+            - /url: https://www.zeiss.de/corporate/rechtliches/rechtshinweise.html
+          - link "Datenschutz" [ref=e290] [cursor=pointer]:
+            - /url: https://www.zeiss.de/datenschutz
+            - text: Datenschutzhinweis
+          - link "Cookie-Hinweis" [ref=e291] [cursor=pointer]:
+            - /url: https://www.zeiss.de/cookies
+          - link "Cookie-Einstellungen" [ref=e292] [cursor=pointer]:
+            - /url: "#"
+  - dialog "Datenschutzeinstellungen" [ref=e295]:
+    - generic [ref=e296]:
+      - generic [ref=e297]:
+        - generic:
+          - heading "Datenschutzeinstellungen" [level=2] [ref=e298]
+          - generic [ref=e299]:
+            - generic [ref=e300]:
+              - paragraph [ref=e301]: Wir nutzen verschiedene Tracking-Technologien, um dir ein besseres Website-Erlebnis zu bieten. Wenn du auf „Alle akzeptieren“ klickst, stimmst du der Verwendung von Tracking-Technologien zu, um Anmeldedaten zu speichern und eine sichere Anmeldung zu ermöglichen (technisch notwendig), um Statistiken zu sammeln, die unsere Website-Funktionalität verbessern (Statistiken), um erweiterte Funktionen bereitzustellen (funktional) und um auf deine Interessen zugeschnittene Inhalte zu liefern (Marketing). Wenn du der Verwendung von Marketing-Cookies zustimmst, erlaubst du uns auch, Browser-Fingerprinting-Technologien zu aktivieren, um die Website-Analyse und Leistungserkenntnisse zu verbessern. Weitere Infos und Anpassungsoptionen findest du unter „Cookie-Einstellungen“, wo du deine Einstellungen ändern kannst. Du kannst deine Zustimmung jederzeit widerrufen.
+              - paragraph [ref=e302]:
+                - text: Weitere Informationen zur Nutzung von Trackingtechnologien finden Sie in unserer
+                - link "Datenschutzhinweis" [ref=e303] [cursor=pointer]:
+                  - /url: https://www.zeiss.de/datenschutz
+                - text: .
+            - link "Weitere Informationen zum Datenschutz, wird in neuer registerkarte geöffnet" [ref=e304] [cursor=pointer]:
+              - /url: https://www.zeiss.de/cookies
+              - text: Cookie-Hinweis
+            - link "Cookie-Hinweis, wird in neuer registerkarte geöffnet" [ref=e305] [cursor=pointer]:
+              - /url: https://www.zeiss.com/publisher
+              - text: Rechtliche Hinweise
+      - generic [ref=e307]:
+        - button "Cookie-Einstellungen, Öffnet das Einstellungscenter-Dialogfeld" [ref=e308] [cursor=pointer]: Cookie-Einstellungen
+        - generic [ref=e309]:
+          - button "Alle ablehnen" [ref=e310] [cursor=pointer]
+          - button "Alle akzeptieren" [ref=e311] [cursor=pointer]

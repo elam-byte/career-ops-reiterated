@@ -79,7 +79,7 @@ Read `modes/{mode}.md`
 Applies to: `tracker`, `deep`, `training`, `project`
 
 ### Modes delegated to subagent:
-For `scan`, `apply` (with Playwright), and `pipeline` (3+ URLs): launch as Agent with the content of `_shared.md` + `modes/{mode}.md` injected into the subagent prompt.
+Only `pipeline` (3+ URLs): launch as Agent with the content of `_shared.md` + `modes/{mode}.md` injected into the subagent prompt.
 
 ```
 Agent(
@@ -88,5 +88,7 @@ Agent(
   description="career-ops-reiterated {mode}"
 )
 ```
+
+**`scan` and `apply` must run directly in the main session — NOT as subagents.** Subagents do not have access to MCP tools (Playwright). Load `_shared.md` + the mode file and execute inline.
 
 Execute the instructions from the loaded mode file.

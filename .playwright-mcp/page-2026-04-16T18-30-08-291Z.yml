@@ -1,0 +1,150 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - banner [ref=e5]:
+        - generic [ref=e6]:
+          - generic [ref=e7]:
+            - link "SAP Logo" [ref=e9] [cursor=pointer]:
+              - /url: https://sap.com
+            - link "Careers" [ref=e11] [cursor=pointer]:
+              - /url: https://jobs.sap.com/
+              - generic [ref=e12]: Careers
+          - navigation "Main links" [ref=e13]
+          - generic "Open menu" [ref=e19] [cursor=pointer]:
+            - button "Open menu" [ref=e20]:
+              - img "icon-Burger" [ref=e22]:
+                - img [ref=e24]
+      - generic:
+        - link "Skip to main content":
+          - /url: "#content"
+    - generic [ref=e29]:
+      - heading "Development Manager (f/m/d) for AI Core SDK" [level=1] [ref=e33]
+      - generic [ref=e36]: Software-Design and Development
+      - link "Apply now »" [ref=e41] [cursor=pointer]:
+        - /url: /talentcommunity/apply/1384612933/?locale=en_US
+    - main [ref=e43]:
+      - generic [ref=e47]:
+        - generic [ref=e54]:
+          - paragraph [ref=e55]:
+            - strong [ref=e56]: We help the world run better
+            - generic [ref=e57]: "At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll find a place where you can be yourself, prioritize your wellbeing, and truly belong. What's in it for you? Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed."
+          - paragraph [ref=e58]
+          - strong [ref=e60]: What you'll build
+          - generic [ref=e61]: As a development manager (f/m/d), you will be at the forefront of enabling enterprise-grade generative AI. You will lead the team owning the SAP Cloud SDK for AI, ensuring our products provide a world-class experience for developers building the next generation of AI-powered SAP applications.
+          - generic [ref=e62]: You will work with a highly skilled team that is based in Potsdam, Germany. As leader of our team, you will have the unique opportunity to shape the tools that thousands of developers use to build AI-powered SAP applications — working at the intersection of developer experience, SDK engineering, generative AI, and enterprise software.
+          - generic [ref=e63]: Our team fosters a dynamic and innovative work environment with an open-minded and flat-hierarchy culture within the global enterprise business. We offer room for experimentation, embrace promising new ideas, and are open to change less fruitful habits. We are a multi-cultural team with diverse personalities and bright, fact-driven minds that like to challenge each other to ultimately achieve the best possible outcome for our customers.
+          - strong [ref=e65]: What you bring
+          - list [ref=e66]:
+            - listitem [ref=e67]:
+              - generic [ref=e68]: Proven leadership track record as a manager or in a similar leading role
+            - listitem [ref=e69]:
+              - generic [ref=e70]: "Strong technical background with hands-on coding experience in at least two of our core languages: Python, Java, or TypeScript"
+            - listitem [ref=e71]:
+              - generic [ref=e72]: Very good experience in coaching agile teams within a cloud engineering environment
+            - listitem [ref=e73]:
+              - generic [ref=e74]: Background in computer science, software engineering, or a related field
+            - listitem [ref=e75]:
+              - generic [ref=e76]: Fluent English language skills, both written and spoken
+          - generic [ref=e78]: Beneficial
+          - list [ref=e79]:
+            - listitem [ref=e80]:
+              - generic [ref=e81]: Good knowledge of SAP
+            - listitem [ref=e82]:
+              - generic [ref=e83]: Good German knowledge
+          - strong [ref=e85]: Where you belong
+          - generic [ref=e86]: Our team develops the official SAP Cloud SDK for AI — the Python, Java, and TypeScript libraries that make SAP AI Core, the Generative AI Hub, and the Orchestration Service accessible to developers building enterprise AI applications. We are an integral part of the SAP Business AI area within SAP, driven by our mission to provide best-in-class developer experiences that empower customers to harness the full potential of generative AI in their business processes.
+          - paragraph [ref=e87]: "#SAPAICareers #SAPBusinessAICareers"
+          - paragraph [ref=e88]
+          - paragraph [ref=e89]:
+            - strong [ref=e90]: Bring out your best
+            - generic [ref=e91]:
+              - text: SAP innovations help more than four hundred thousand customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with two hundred million users and more than one hundred thousand employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, you can bring out your best.
+              - strong [ref=e92]: We win with inclusion
+              - text: SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better world.
+              - text: "SAP is committed to the values of Equal Employment Opportunity and provides accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com."
+              - text: "For SAP employees: Only permanent roles are eligible for the"
+            - generic [ref=e93]:
+              - link "SAP Employee Referral Program" [ref=e94] [cursor=pointer]:
+                - /url: https://one.int.sap/me@sap/jobs_and_hiring/employee_referral/region/0000/lang/en
+              - generic [ref=e95]: ", according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training."
+          - paragraph [ref=e96]:
+            - strong [ref=e97]: AI Usage in the Recruitment Process
+          - paragraph [ref=e98]:
+            - text: For information on the responsible use of AI in our recruitment process, please refer to our
+            - link "Guidelines for Ethical Usage of AI in the Recruiting Process" [ref=e100] [cursor=pointer]:
+              - /url: https://jobs.sap.com/content/Ethical_usage_of_AI_in_the_recruiting_process/?locale=en_US
+            - text: .
+          - paragraph [ref=e101]
+          - paragraph [ref=e102]:
+            - text: Please note that any violation of these guidelines may result in disqualification from the hiring process.
+            - generic [ref=e103]: "Requisition ID: 451908 | Work Area: Software-Design and Development | Expected Travel: 0 - 10% | Career Status: Management | Employment Type: Regular Full Time | Additional Locations: #LI-Hybrid"
+          - paragraph [ref=e104]:
+            - generic [ref=e105]:
+              - strong [ref=e106]: "Job Segment:"
+              - text: Cloud, ERP, Developer, Software Engineer, Computer Science, Technology, Engineering
+        - generic [ref=e108]:
+          - link "Apply now »" [ref=e112] [cursor=pointer]:
+            - /url: /talentcommunity/apply/1384612933/?locale=en_US
+          - generic [ref=e116]:
+            - generic [ref=e117]: Requisition ID
+            - generic [ref=e118]: "451908"
+          - generic [ref=e122]:
+            - generic [ref=e123]: Posted Date
+            - generic [ref=e124]: Apr 16, 2026
+          - generic [ref=e128]:
+            - generic [ref=e129]: Work Area
+            - generic [ref=e130]: Software-Design and Development
+          - generic [ref=e134]:
+            - generic [ref=e135]: Career Status
+            - generic [ref=e136]: Management
+          - generic [ref=e140]:
+            - generic [ref=e141]: Employment Type
+            - generic [ref=e142]: Regular Full Time
+          - generic [ref=e146]:
+            - generic [ref=e147]: Expected Travel
+            - generic [ref=e148]: 0 - 10%
+          - generic [ref=e152]:
+            - generic [ref=e153]: Location
+            - paragraph [ref=e155]:
+              - generic [ref=e156]: Potsdam, DE, 14469
+          - complementary "Find similar jobs" [ref=e159]:
+            - generic [ref=e160]: Find similar jobs
+            - generic [ref=e161]:
+              - link "SAP Jobs in Germany," [ref=e162] [cursor=pointer]:
+                - /url: /go/SAP-Jobs-in-Germany/850601/
+              - link "Java Jobs in Germany," [ref=e163] [cursor=pointer]:
+                - /url: /go/Java-Jobs-in-Germany/840601/
+              - link "Engineering Jobs in Germany," [ref=e164] [cursor=pointer]:
+                - /url: /go/Engineering-Jobs-in-Germany/835301/
+              - link "Computer Science Jobs in Germany," [ref=e165] [cursor=pointer]:
+                - /url: /go/Computer-Science-Jobs-in-Germany/830101/
+              - link "Cloud Jobs in Germany" [ref=e166] [cursor=pointer]:
+                - /url: /go/Cloud-Jobs-in-Germany/862001/
+          - generic [ref=e168]:
+            - generic [ref=e169]: Job alert
+            - generic [ref=e172]:
+              - text: 
+              - generic [ref=e173]:
+                - generic [ref=e174]: "Select how often (in days) to receive an alert:"
+                - spinbutton "Select how often (in days) to receive an alert:" [ref=e175]: "7"
+              - button "Create Alert" [ref=e177] [cursor=pointer]:
+                - generic [ref=e178]: ✉
+                - text: Create Alert
+    - generic [ref=e181]:
+      - heading "How is your experience with this page?" [level=4] [ref=e182]
+      - link "Let us know" [ref=e183] [cursor=pointer]:
+        - /url: mailto:careers@sap.com?subject=SAP%20Careers%20page%20feedback&body=Page%20URL%3A%20https%3A%2F%2Fjobs.sap.com%2Fjob%2FPotsdam-Development-Manager-%2528fmd%2529-for-AI-Core-SDK-14469%2F1384612933%2F%0A%0AWhat%20were%20you%20trying%20to%20do%3F%0A%0AWhat%20worked%20or%20didn%E2%80%99t%20work%3F%0A%0AAnything%20else%20you%E2%80%99d%20like%20us%20to%20know%3F%0A
+  - dialog "consent banner":
+    - generic [ref=e187]:
+      - generic [ref=e188]:
+        - generic [ref=e190]: Diese Website verwendet Cookies und verwandte Technologien entsprechend der Beschreibung in unserer Cookie-Erklärung, u. A. zum fehlerfreien Betrieb, zur Analyse, für eine verbesserte Benutzerfreundlichkeit oder zu Werbezwecken. Sie können unserer Verwendung dieser Technologien zustimmen oder Ihre eigenen Präferenzen verwalten.
+        - generic [ref=e191]:
+          - button "Alle annehmen" [active] [ref=e192] [cursor=pointer]
+          - button "Alle ablehnen" [ref=e193] [cursor=pointer]
+          - button "Einstellungen verwalten" [ref=e194] [cursor=pointer]
+      - generic [ref=e195]:
+        - link "Datenschutzerklärung" [ref=e196] [cursor=pointer]:
+          - /url: https://jobs.sap.com/content/SAP-Privacy-Statement-Careers/
+        - text: "|"
+        - link "Cookie-Erklärung" [ref=e197] [cursor=pointer]:
+          - /url: https://www.sap.com/about/legal/privacy/cookies.html

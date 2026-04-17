@@ -1,0 +1,217 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-1776321376"
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - navigation [ref=e8]:
+        - generic [ref=e9]:
+          - button "menu" [ref=e10] [cursor=pointer]
+          - link "Amazon Jobs home page" [ref=e12] [cursor=pointer]:
+            - /url: /en
+            - generic [ref=e14]: Amazon Jobs home page
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - combobox "Search for jobs by title or keyword" [ref=e21]
+            - generic [ref=e23]:
+              - text: h
+              - combobox "search job by location" [ref=e25]
+          - button "Search jobs" [ref=e26] [cursor=pointer]
+        - menu [ref=e30] [cursor=pointer]: My career
+      - generic: h
+      - generic [ref=e31]:
+        - generic [ref=e35]:
+          - generic [ref=e37]:
+            - heading "Product Manager, EU Co-Branded Credit Cards, Amazon Payment Products" [level=1] [ref=e38]
+            - paragraph [ref=e40]: "Job ID: 10373224 | Amazon EU SARL (Germany Branch) - D70"
+          - link "Apply now for Product Manager, EU Co-Branded Credit Cards, Amazon Payment Products" [ref=e43] [cursor=pointer]:
+            - /url: https://www.amazon.jobs/applicant/jobs/10373224/apply
+            - text: Apply now
+        - generic [ref=e45]:
+          - generic [ref=e47]:
+            - generic [ref=e48]:
+              - heading "Description" [level=2] [ref=e49]
+              - paragraph [ref=e50]:
+                - text: Join Amazon's Payment Products Team to support the development and enhancement of co-branded credit card offerings in Germany.
+                - text: As the Product Manager for DE CBCC, you will own critical business operations including monthly, quarterly, and weekly business reviews, manage strategic initiatives with our banking partner, and drive customer-facing improvements that enhance the cardmember experience.
+                - text: Key job responsibilities
+                - text: You will own the end-to-end preparation and delivery of internal business reviews for the DE CBCC program, synthesize data from Finance, Marketing, and Business Intelligence teams to create compelling narratives that inform leadership decisions and drive program improvements. Additionally, you will lead the preparation and execution of Steer Committee meetings with our banking partner, ensuring alignment on strategic priorities and operational performance.
+                - text: You will co-own the Know Your Customer review process for Germany, working closely with legal, compliance, and risk teams to ensure our program meets all regulatory requirements while maintaining a seamless customer experience.
+                - text: Customer Experience and Product Development by leading the revamp and launch of a new Existing Cardmember page for DE CBCC, transforming how current cardmembers engage with their credit card benefits and account management. This initiative requires deep customer insights, collaboration with UX and marketing teams, and data-driven decision.
+                - text: You will manage all Vendor Funds Installments offers in partnership with retail teams, optimizing promotional strategies that drive card acquisition and usage while delivering value to customers. You will also own the coordination of KSE across the EU CBCC, ensuring alignment between teams and partners.
+            - generic [ref=e51]:
+              - heading "Basic Qualifications" [level=2] [ref=e52]
+              - paragraph [ref=e53]:
+                - text: "- Bachelor's degree in Management, Business Administration, Economics, Engineering, or Marketing"
+                - text: "- Experience dealing well with ambiguity, prioritizing needs, and delivering measurable results in an agile environment"
+                - text: "- Experience in product, program, or project management leading cross-functional teams in delivery of major new products or services"
+                - text: "- Speak, write and read fluently in German and English"
+            - generic [ref=e54]:
+              - heading "Preferred Qualifications" [level=2] [ref=e55]
+              - paragraph [ref=e56]:
+                - text: "- Experience as a product manager or owner"
+                - text: "- Experience working cross functionally across several teams"
+                - text: "- Experience that includes strong analytical skills, attention to detail, and effective communication abilities"
+                - text: Amazon is an equal opportunities employer. We believe passionately that employing a diverse workforce is central to our success. We make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify and build. Protecting your privacy and the security of your data is a longstanding top priority for Amazon. Please consult our Privacy Notice (
+                - link "https://www.amazon.jobs/en/privacy_page" [ref=e57] [cursor=pointer]:
+                  - /url: https://www.amazon.jobs/en/privacy_page
+                - text: ) to know more about how we collect, use and transfer the personal data of our candidates.
+                - text: m/w/d
+                - text: Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit
+                - link "https://amazon.jobs/content/en/how-we-hire/accommodations" [ref=e58] [cursor=pointer]:
+                  - /url: https://amazon.jobs/content/en/how-we-hire/accommodations
+                - text: for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+          - generic [ref=e60]:
+            - generic [ref=e61]:
+              - heading "Job details" [level=2] [ref=e63]
+              - list [ref=e64]:
+                - listitem [ref=e65]:
+                  - generic [ref=e66]:
+                    - img "location"
+                    - list [ref=e67]:
+                      - listitem [ref=e68]: DEU, BY, Munich
+                - listitem [ref=e69]:
+                  - generic [ref=e70]:
+                    - img "category"
+                    - list [ref=e71]:
+                      - link "Job category Project/Program/Product Management--Non-Tech" [ref=e72] [cursor=pointer]:
+                        - /url: /en/job_categories/project-program-product-management-non-tech
+                        - text: Project/Program/Product Management--Non-Tech
+            - generic [ref=e77]:
+              - heading "Share this job" [level=2] [ref=e80]
+              - list [ref=e82]:
+                - listitem [ref=e83]:
+                  - link "Share with facebook" [ref=e84] [cursor=pointer]:
+                    - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.amazon.jobs%2Fen%2Fjobs%2F10373224%2Fproduct-manager-eu-co-branded-credit-cards-amazon-payment-products
+                    - text: b
+                - listitem [ref=e85]:
+                  - link "Share with linkedin" [ref=e86] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.amazon.jobs%2Fen%2Fjobs%2F10373224%2Fproduct-manager-eu-co-branded-credit-cards-amazon-payment-products&title=Product%20Manager%2C%20EU%20Co-Branded%20Credit%20Cards%2C%20Amazon%20Payment%20Products&summary=Join%20Amazon%27s%20Payment%20Products%20Team%20to%20support%20the%20development%20and%20enhancement%20of%20co-branded%20credit%20card%20offerings%20in%20Germany.%20%3Cbr%2F%3EAs%20the%20Product%20Manager%20for%20DE%20CBCC%2C%20you%20will%20own%20critical%20business%20operations%20including%20monthly%2C%20quarterly%2C%20and...
+                    - text: d
+                - listitem [ref=e87]:
+                  - link "Share with twitter" [ref=e88] [cursor=pointer]:
+                    - /url: https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.amazon.jobs%2Fen%2Fjobs%2F10373224
+                    - text: j
+                - listitem [ref=e89]:
+                  - link "Share with email" [ref=e90] [cursor=pointer]:
+                    - /url: mailto:?body=https%3A%2F%2Fwww.amazon.jobs%2Fen%2Fjobs%2F10373224&subject=Take%20a%20look%20at%20this%20job
+                    - text: l
+                - listitem [ref=e91]:
+                  - link "Print this job" [ref=e92] [cursor=pointer]:
+                    - /url: "#"
+                    - text: m
+    - generic [ref=e93]:
+      - generic [ref=e96]:
+        - generic [ref=e97]: JOIN US ON
+        - list [ref=e98]:
+          - listitem [ref=e99]:
+            - link "Join us on facebook" [ref=e100] [cursor=pointer]:
+              - /url: https://www.facebook.com/InsideAmazon/?Amazon.jobs=footer
+              - text: b
+          - listitem [ref=e101]:
+            - link "Join us on linkedin" [ref=e102] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/amazon?Amazon.jobs=footer
+              - text: d
+          - listitem [ref=e103]:
+            - link "Join us on instagram" [ref=e104] [cursor=pointer]:
+              - /url: https://www.instagram.com/insideamazon/?Amazon.jobs=footer
+              - text: c
+          - listitem [ref=e105]:
+            - link "Join us on twitter" [ref=e106] [cursor=pointer]:
+              - /url: https://twitter.com/amazonnews?Amazon.jobs=footer
+              - text: j
+        - generic [ref=e107]:
+          - generic [ref=e108]: DOWNLOAD OUR APP
+          - list [ref=e109]:
+            - listitem [ref=e110]:
+              - link "Download Amazon A to Z from App Store" [ref=e111] [cursor=pointer]:
+                - /url: https://apple.co/4mW6qxK
+                - img [ref=e112]
+            - listitem [ref=e113]:
+              - link "Download Amazon A to Z from Google Play" [ref=e114] [cursor=pointer]:
+                - /url: https://bit.ly/46JGIYu
+                - img [ref=e115]
+      - generic [ref=e119]:
+        - generic [ref=e120]:
+          - text: Find Careers
+          - list [ref=e121]:
+            - listitem [ref=e122]:
+              - link "Job Categories" [ref=e123] [cursor=pointer]:
+                - /url: /content/en/job-categories
+            - listitem [ref=e124]:
+              - link "Teams" [ref=e125] [cursor=pointer]:
+                - /url: /content/en/teams
+            - listitem [ref=e126]:
+              - link "Locations" [ref=e127] [cursor=pointer]:
+                - /url: /content/en/locations
+            - listitem [ref=e128]:
+              - link "Military careers" [ref=e129] [cursor=pointer]:
+                - /url: /content/en/career-programs/military
+            - listitem [ref=e130]:
+              - link "Hourly" [ref=e131] [cursor=pointer]:
+                - /url: /content/en/hourly
+        - generic [ref=e132]:
+          - text: Working At Amazon
+          - list [ref=e133]:
+            - listitem [ref=e134]:
+              - link "Culture" [ref=e135] [cursor=pointer]:
+                - /url: /content/en/our-workplace
+            - listitem [ref=e136]:
+              - link "Benefits" [ref=e137] [cursor=pointer]:
+                - /url: /en/benefits
+            - listitem [ref=e138]:
+              - link "Amazon Newsletter" [ref=e139] [cursor=pointer]:
+                - /url: https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_campaign=newslettersubscribers&utm_content=amazonnewssignup&utm_medium=amazonjobs&utm_source=footer
+            - listitem [ref=e140]:
+              - link "Inclusive experiences" [ref=e141] [cursor=pointer]:
+                - /url: /content/en/our-workplace/inclusive-experiences
+            - listitem [ref=e142]:
+              - link "Leadership Principles" [ref=e143] [cursor=pointer]:
+                - /url: /content/en/our-workplace/leadership-principles
+        - generic [ref=e144]:
+          - text: Help
+          - list [ref=e145]:
+            - listitem [ref=e146]:
+              - link "FAQ" [ref=e147] [cursor=pointer]:
+                - /url: /content/en/faq
+            - listitem [ref=e148]:
+              - link "How We Hire" [ref=e149] [cursor=pointer]:
+                - /url: /content/en/how-we-hire#onlineapp
+            - listitem [ref=e150]:
+              - link "Application status" [ref=e151] [cursor=pointer]:
+                - /url: https://www.amazon.jobs/applicant/check_application_status
+            - listitem [ref=e152]:
+              - link "Accommodations" [ref=e153] [cursor=pointer]:
+                - /url: /content/en/how-we-hire/accommodations
+            - listitem [ref=e154]:
+              - link "Legal disclosures and notices" [ref=e155] [cursor=pointer]:
+                - /url: /content/en/legal-disclosures-and-notices
+        - combobox "English" [ref=e161] [cursor=pointer]: English
+      - generic [ref=e163]:
+        - generic [ref=e165]:
+          - generic [ref=e166]: Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+          - generic [ref=e167]:
+            - link "Privacy and Data" [ref=e168] [cursor=pointer]:
+              - /url: /en/privacy_page
+            - link "Impressum" [ref=e169] [cursor=pointer]:
+              - /url: /en/impressum
+            - link "Cookies" [ref=e170] [cursor=pointer]:
+              - /url: /en/cookies
+          - generic [ref=e171]: © 1996-2026, Amazon.com, Inc. or its affiliates
+        - generic [ref=e172]:
+          - generic [ref=e173]:
+            - generic [ref=e174]:
+              - heading "Notice of Right to Opt-Out Sharing" [level=3] [ref=e175]
+              - button [ref=e176] [cursor=pointer]
+            - paragraph [ref=e177]: We use cookies and similar tools to provide and improve our site and your candidate experience. We also use operational cookies to make our site work. If you agree, we will set certain analytics cookies to help us improve our website as explained in our cookies notice, as well as set advertising cookies to display ads. Advertising cookies includes first and third-party cookies, which store or access standard device information such as a unique identifier. Third-parties use cookies to serve you with relevant advertisements and job recommendations based on your interactions with Amazon.Jobs and third-party sites. We will only set analytics or advertising cookies if you accept them. Select “Accept all” to consent or “Customize cookies” to make more detailed choices and learn more.
+            - paragraph [ref=e178]:
+              - text: For more information about how we use cookies and information we collect, please navigate to your country’s cookie notice (if applicable) via our
+              - link "Privacy Notice and Data Policy page" [ref=e179] [cursor=pointer]:
+                - /url: /privacy_page?region_id=region_eu
+              - text: .
+          - list [ref=e181]:
+            - listitem [ref=e182]:
+              - button "Accept" [ref=e183] [cursor=pointer]: Accept all
+            - listitem [ref=e184]:
+              - button "Reject" [ref=e185] [cursor=pointer]: Continue without accepting
+            - listitem [ref=e186]:
+              - button "Customize" [ref=e187] [cursor=pointer]: Customize cookies

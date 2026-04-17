@@ -1,0 +1,708 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - link "Zum Hauptinhalt wechseln" [ref=e3] [cursor=pointer]:
+      - /url: "#content"
+      - paragraph [ref=e4]: Zum Hauptinhalt wechseln
+    - generic [ref=e10]:
+      - generic [ref=e11]: Karriere
+      - list
+    - generic [ref=e14]:
+      - generic [ref=e15]: Öffnet sich in einem neuen Tab
+      - link "Homepage von Karriere" [ref=e16] [cursor=pointer]:
+        - /url: https://www.zeiss.com/career/de/home.html
+        - generic:
+          - generic:
+            - img
+      - generic [ref=e18]:
+        - navigation "Hauptnavigation" [ref=e19]:
+          - list [ref=e20]:
+            - listitem [ref=e21]:
+              - link "Arbeiten bei ZEISS" [ref=e22] [cursor=pointer]:
+                - /url: https://www.zeiss.com/career/de/arbeiten-bei-zeiss.html
+                - generic [ref=e23]: Arbeiten bei ZEISS
+            - listitem [ref=e24]:
+              - link "Arbeitsbereiche" [ref=e25] [cursor=pointer]:
+                - /url: https://www.zeiss.com/career/de/arbeitsbereiche.html
+                - generic [ref=e26]: Arbeitsbereiche
+                - img [ref=e30]
+            - listitem [ref=e32]:
+              - link "Standorte" [ref=e33] [cursor=pointer]:
+                - /url: https://www.zeiss.com/career/de/standorte.html
+                - generic [ref=e34]: Standorte
+                - img [ref=e38]
+            - listitem [ref=e40]:
+              - link "Bewerbung" [ref=e41] [cursor=pointer]:
+                - /url: https://www.zeiss.com/career/de/bewerbung.html
+                - generic [ref=e42]: Bewerbung
+        - navigation "Zusätzliche Navigation" [ref=e43]:
+          - list [ref=e44]:
+            - listitem [ref=e45]:
+              - link "ZEISS Karriere Kontakt" [ref=e46] [cursor=pointer]:
+                - /url: https://www.zeiss.com/career/de/kontakt.html
+                - generic [ref=e47]: Kontakt
+      - generic [ref=e48]:
+        - link "Auf Website suchen" [ref=e51] [cursor=pointer]:
+          - /url: "#search"
+          - generic:
+            - generic:
+              - img
+        - link "Stellensuche" [ref=e55] [cursor=pointer]:
+          - /url: https://www.zeiss.com/career/de/stellensuche.html
+          - generic:
+            - generic: Stellensuche
+            - generic:
+              - generic:
+                - img
+  - main [ref=e57]:
+    - generic [ref=e59]:
+      - generic [ref=e71]:
+        - heading "Jobsuche" [level=1] [ref=e72]:
+          - generic [ref=e73]: Jobsuche
+        - generic [ref=e74]: Stellenangebote bei ZEISS
+      - generic [ref=e80]:
+        - paragraph [ref=e86]: "Hier findest Du eine Übersicht unserer offenen Jobs weltweit. Über die Filterfunktion oder Stichwortsuche kannst Du die ausgeschriebenen Stellen nach Deinen Präferenzen eingrenzen. Bei Fragen schaue gerne in unserem FAQ-Bereich unter dem Reiter Bewerbung vorbei. Bewirb Dich jetzt und werde Teil von #teamZEISS."
+        - generic [ref=e101]:
+          - generic [ref=e104]:
+            - generic [ref=e105]:
+              - generic [ref=e107]: Filter
+              - generic [ref=e108] [cursor=pointer]:
+                - img [ref=e312]
+                - paragraph [ref=e109]: Filter zurücksetzen
+            - generic [ref=e112] [cursor=pointer]:
+              - generic [ref=e113]:
+                - generic: Suche nach Rolle oder Schlüsselwort
+                - generic [ref=e114]:
+                  - textbox "Suche nach Rolle oder Schlüsselwort" [ref=e314]: Architect
+                  - img [ref=e839]
+              - generic [ref=e841]:
+                - button "(Senior) Endpoint Security Engineer (f/m/x)" [ref=e940]
+                - button "(Senior) Entwicklungsingenieur Elektrotechnik / Automatisierungstechnik (m/w/x)" [ref=e941]
+                - button "(Senior) System Engineer Photonic Integrated Circuits (m/f/x)" [ref=e942]
+                - button "Abschlussarbeit Data Science / Mechanikdesign (m/w/x)" [ref=e943]
+                - button "Abschlussarbeit im Bereich Prozessdigitalisierung (m/w/x)" [ref=e944]
+                - button "Abschlussarbeit im Bereich Systemlabor / FEM-Simulation (m/w/x)" [ref=e945]
+                - button "Anlagen- und Instandhaltungsmechatroniker (m/w/x) - 1 Jahr befristet" [ref=e946]
+                - button "Anlagenbediener Bereich chemisch Nickel (m/w/x) - 1 Jahr befristet" [ref=e947]
+                - button "Anlagenbediener/-in Eloxalautomat (m/w/x) - 1 Jahr befristet" [ref=e948]
+                - button "Anlagenbediener/-in Handgalvanik (m/w/x) - 1 Jahr befristet" [ref=e949]
+                - button "Anlagenbediener/in für Reproduktionstechnik (m/w/x) - 1 Jahr befristet" [ref=e950]
+                - button "Application Specialist Integrated Photonics in Semiconductor Manufacturing (m/f/x)" [ref=e951]
+                - button "Assistenz Leiter Strategic Procurement & Excellence/Strategie (m/w/x)" [ref=e952]
+                - button "Auftragssachbearbeiter (m/w/x) - befristet auf 24 Monate" [ref=e953]
+                - button "Ausbildung – Chemielaborant (m/w/x), Beginn Herbst 2026" [ref=e954]
+                - button "Ausbildung – Feinoptiker (m/w/x), Beginn Sommer 2026" [ref=e955]
+                - button "Ausbildung – Industriemechaniker (m/w/x), Beginn Sommer 2026" [ref=e956]
+                - button "Ausbildung – Mechatroniker (m/w/x), Beginn Sommer 2026" [ref=e957]
+                - button "Ausbildung – Zerspanungsmechaniker (m/w/x), Beginn Herbst 2026" [ref=e958]
+                - button "Bereichsassistenz Microoptics (m/w/x)" [ref=e959]
+                - button "Brandschutzbeauftragte/r (m/w/x)" [ref=e960]
+                - button "Category Manager im Bereich medizinische Disposables, Implants & Instrumente (m/w/x)" [ref=e961]
+                - button "Chemielaborant – Instrumentelle Analytik und Nassanalytik (m/w/x)" [ref=e962]
+                - button "Chemisch-Technische Assistenz (m/w/x)" [ref=e963]
+                - button "Claim Manager Construction (m/w/x)" [ref=e964]
+                - button "Commerical/Revenue Manager (f/m/x) @ Carl ZEISS Extended Reality (XRX)" [ref=e965]
+                - button "Content Marketing Manager - Ophthalmology Products (m/f/x)" [ref=e966]
+                - button "Customer Support Engineer (m/w/x) - befristet auf 2 Jahre" [ref=e967]
+                - button "Data & AI Analyst (m/w/x) - Real Estate Digital Transformation" [ref=e968]
+                - button "Digital Forensic Analyst (f/m/d)" [ref=e969]
+                - button "Digital Procurement Manager (m/w/x)" [ref=e970]
+                - button "Digital Project Manager (m/w/x)" [ref=e971]
+                - button "Doktorand für numerische Modellierung (m/w/x)" [ref=e972]
+                - button "Duales Studium – BWL - Spedition, Transport und Logistik (m/w/x), Beginn Herbst 2026" [ref=e973]
+                - button "Duales Studium – Data Science und Künstliche Intelligenz (m/w/x), Beginn Herbst 2026" [ref=e974]
+                - button "Duales Studium – Elektrotechnik/Automatisierungstechnik mit Schwerpunkt Industrielle Elektronik (m/w/x), Beginn Herbst 2026" [ref=e975]
+                - button "Duales Studium – Elektrotechnik/Automatisierungstechnik mit Schwerpunkt Prozessautomation (m/w/x), Beginn Herbst 2026" [ref=e976]
+                - button "Duales Studium – Informatik mit Studienrichtung Allgemeine Informatik (m/w/x), Beginn Herbst 2026" [ref=e977]
+                - button "Duales Studium – Mechatronik & Automation (m/w/x), Beginn Herbst 2026" [ref=e978]
+                - button "Duales Studium – Mechatronik (m/w/x), Beginn Herbst 2026" [ref=e979]
+                - button "Duales Studium – Praktische Informatik (m/w/x), Beginn Herbst 2026" [ref=e980]
+                - button "Duales Studium – Produktionstechnik (m/w/x), Beginn Herbst 2026" [ref=e981]
+                - button "Duales Studium – Wirtschaftsingenieurwesen Digitale Industrie (m/w/x), Beginn Herbst 2026" [ref=e982]
+                - button "ERP Consultant MM und SD (m/w/x)" [ref=e983]
+                - button "EVENT | ZEISS European Summer School 2026" [ref=e984]
+                - button "Electronical Engineer - R&D Biometry (2 Jahre befristet) (m/w/x)" [ref=e985]
+                - button "Elektronikentwickler – Videotechnologie Medizintechnik (m/w/x)" [ref=e986]
+                - button "Elektronikingenieur Lifecycle Engineering / Produktpflege Medizintechnik (m/w/x)" [ref=e987]
+                - button "Embedded Software Architekt (m/w/x)" [ref=e988]
+                - 'button "Embedded Systems Internship: Zephyr RTOS & Microcontroller Platforms (f/m/x)" [ref=e989]'
+            - generic [ref=e116]:
+              - generic [ref=e119] [cursor=pointer]:
+                - generic: Standort
+                - generic [ref=e120]:
+                  - textbox "Standort" [ref=e318]
+                  - img [ref=e990]
+              - generic "15 Elemente ausgewählt" [ref=e992]:
+                - button "15 Elemente ausgewählt" [ref=e993] [cursor=pointer]:
+                  - generic [ref=e994]: 15 Elemente ausgewählt
+                  - img [ref=e996]
+            - generic [ref=e125] [cursor=pointer]:
+              - generic: Tätigkeitskategorie
+              - generic [ref=e126]:
+                - textbox "Tätigkeitskategorie" [ref=e322]
+                - img [ref=e324]
+            - generic [ref=e131] [cursor=pointer]:
+              - generic: Voll-/ Teilzeit
+              - generic [ref=e132]:
+                - button [ref=e133]
+                - img [ref=e327]
+            - generic [ref=e134]:
+              - paragraph [ref=e135]: Suchergebnisse
+              - generic [ref=e999]: "338"
+          - generic [ref=e138]:
+            - generic [ref=e1001]:
+              - generic [ref=e1002]:
+                - generic [ref=e1003]:
+                  - img [ref=e1004]
+                  - paragraph [ref=e1007]: München, Oberkochen, Germany
+                - generic [ref=e1008]:
+                  - img [ref=e1009]
+                  - paragraph [ref=e1012]: Petaling Jaya, Malaysia
+                - generic [ref=e1013]:
+                  - img [ref=e1014]
+                  - paragraph [ref=e1017]: Vollzeit
+                - generic [ref=e1018]:
+                  - img [ref=e1019]
+                  - paragraph [ref=e1021]: Information Technology
+              - generic [ref=e1022]:
+                - generic [ref=e1023]: (Senior) Endpoint Security Engineer (f/m/x)
+                - link "zur Stellenbeschreibung" [ref=e1024] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Senior-Endpoint-Security-Engineer--f-m-x-_JR_1044693-1
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1026]
+            - generic [ref=e1030]:
+              - generic [ref=e1031]:
+                - generic [ref=e1032]:
+                  - img [ref=e1033]
+                  - paragraph [ref=e1036]: Oberkochen, Germany
+                - generic [ref=e1037]:
+                  - img [ref=e1038]
+                  - paragraph [ref=e1041]: Vollzeit
+                - generic [ref=e1042]:
+                  - img [ref=e1043]
+                  - paragraph [ref=e1045]: Product & Solution Generation
+              - generic [ref=e1046]:
+                - generic [ref=e1047]: (Senior) Entwicklungsingenieur Elektrotechnik / Automatisierungstechnik (m/w/x)
+                - link "zur Stellenbeschreibung" [ref=e1048] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Entwicklungsingenieur-Elektrotechnik---Schaltschrankbau--m-w-x-_JR_1042895
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1050]
+            - generic [ref=e1054]:
+              - generic [ref=e1055]:
+                - generic [ref=e1056]:
+                  - img [ref=e1057]
+                  - paragraph [ref=e1060]: Jena, Germany
+                - generic [ref=e1061]:
+                  - img [ref=e1062]
+                  - paragraph [ref=e1065]: Vollzeit
+                - generic [ref=e1066]:
+                  - img [ref=e1067]
+                  - paragraph [ref=e1069]: Product & Solution Generation
+              - generic [ref=e1070]:
+                - generic [ref=e1071]: (Senior) System Engineer Photonic Integrated Circuits (m/f/x)
+                - link "zur Stellenbeschreibung" [ref=e1072] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Jena/System-Engineer-PIC--m-f-x-_JR_1039207-1
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1074]
+            - generic [ref=e1078]:
+              - generic [ref=e1079]:
+                - generic [ref=e1080]:
+                  - img [ref=e1081]
+                  - paragraph [ref=e1084]: Oberkochen, Germany
+                - generic [ref=e1085]:
+                  - img [ref=e1086]
+                  - paragraph [ref=e1089]: Vollzeit
+                - generic [ref=e1090]:
+                  - img [ref=e1091]
+                  - paragraph [ref=e1093]: Administration & Support Services
+              - generic [ref=e1094]:
+                - generic [ref=e1095]: Abschlussarbeit Data Science / Mechanikdesign (m/w/x)
+                - link "zur Stellenbeschreibung" [ref=e1096] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Abschlussarbeit-Data-Science---Mechanikdesign--m-w-x-_JR_1046609-1
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1098]
+            - generic [ref=e1102]:
+              - generic [ref=e1103]:
+                - generic [ref=e1104]:
+                  - img [ref=e1105]
+                  - paragraph [ref=e1108]: Jena, Germany
+                - generic [ref=e1109]:
+                  - img [ref=e1110]
+                  - paragraph [ref=e1113]: Vollzeit
+                - generic [ref=e1114]:
+                  - img [ref=e1115]
+                  - paragraph [ref=e1117]: Administration & Support Services
+              - generic [ref=e1118]:
+                - generic [ref=e1119]: Abschlussarbeit im Bereich Prozessdigitalisierung (m/w/x)
+                - link "zur Stellenbeschreibung" [ref=e1120] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Jena/Abschlussarbeit-im-Bereich-Prozessdigitalisierung--m-w-x-_JR_1041484
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1122]
+            - generic [ref=e1126]:
+              - generic [ref=e1127]:
+                - generic [ref=e1128]:
+                  - img [ref=e1129]
+                  - paragraph [ref=e1132]: Oberkochen, Germany
+                - generic [ref=e1133]:
+                  - img [ref=e1134]
+                  - paragraph [ref=e1137]: Vollzeit
+                - generic [ref=e1138]:
+                  - img [ref=e1139]
+                  - paragraph [ref=e1141]: Administration & Support Services
+              - generic [ref=e1142]:
+                - generic [ref=e1143]: Abschlussarbeit im Bereich Systemlabor / FEM-Simulation (m/w/x)
+                - link "zur Stellenbeschreibung" [ref=e1144] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Abschlussarbeit-im-Bereich-Systemlabor---FEM-Simulation--m-w-x-_JR_1046736-1
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1146]
+            - generic [ref=e1150]:
+              - generic [ref=e1151]:
+                - generic [ref=e1152]:
+                  - img [ref=e1153]
+                  - paragraph [ref=e1156]: Oberkochen, Germany
+                - generic [ref=e1157]:
+                  - img [ref=e1158]
+                  - paragraph [ref=e1161]: Vollzeit
+                - generic [ref=e1162]:
+                  - img [ref=e1163]
+                  - paragraph [ref=e1165]: Production
+              - generic [ref=e1166]:
+                - generic [ref=e1167]: Anlagen- und Instandhaltungsmechatroniker (m/w/x) - 1 Jahr befristet
+                - link "zur Stellenbeschreibung" [ref=e1168] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Anlagen--und-Instandhaltungsmechatroniker--m-w-x----1-Jahr-befristet_JR_1048510
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1170]
+            - generic [ref=e1174]:
+              - generic [ref=e1175]:
+                - generic [ref=e1176]:
+                  - img [ref=e1177]
+                  - paragraph [ref=e1180]: Oberkochen, Germany
+                - generic [ref=e1181]:
+                  - img [ref=e1182]
+                  - paragraph [ref=e1185]: Vollzeit
+                - generic [ref=e1186]:
+                  - img [ref=e1187]
+                  - paragraph [ref=e1189]: Production
+              - generic [ref=e1190]:
+                - generic [ref=e1191]: Anlagenbediener Bereich chemisch Nickel (m/w/x) - 1 Jahr befristet
+                - link "zur Stellenbeschreibung" [ref=e1192] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Anlagenbediener-Bereich-chemisch-Nickel--m-w-x----1-Jahr-befristet_JR_1047489-3
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1194]
+            - generic [ref=e1198]:
+              - generic [ref=e1199]:
+                - generic [ref=e1200]:
+                  - img [ref=e1201]
+                  - paragraph [ref=e1204]: Oberkochen, Germany
+                - generic [ref=e1205]:
+                  - img [ref=e1206]
+                  - paragraph [ref=e1209]: Vollzeit
+                - generic [ref=e1210]:
+                  - img [ref=e1211]
+                  - paragraph [ref=e1213]: Production
+              - generic [ref=e1214]:
+                - generic [ref=e1215]: Anlagenbediener/-in Eloxalautomat (m/w/x) - 1 Jahr befristet
+                - link "zur Stellenbeschreibung" [ref=e1216] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Anlagenbediener--in-Eloxalautomat--m-w-x----1-Jahr-befristet_JR_1047540
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1218]
+            - generic [ref=e1222]:
+              - generic [ref=e1223]:
+                - generic [ref=e1224]:
+                  - img [ref=e1225]
+                  - paragraph [ref=e1228]: Oberkochen, Germany
+                - generic [ref=e1229]:
+                  - img [ref=e1230]
+                  - paragraph [ref=e1233]: Vollzeit
+                - generic [ref=e1234]:
+                  - img [ref=e1235]
+                  - paragraph [ref=e1237]: Production
+              - generic [ref=e1238]:
+                - generic [ref=e1239]: Anlagenbediener/-in Handgalvanik (m/w/x) - 1 Jahr befristet
+                - link "zur Stellenbeschreibung" [ref=e1240] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Anlagenbediener--in-Handgalvanik--m-w-x----1-Jahr-befristet_JR_1047495
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1242]
+            - generic [ref=e1246]:
+              - generic [ref=e1247]:
+                - generic [ref=e1248]:
+                  - img [ref=e1249]
+                  - paragraph [ref=e1252]: Oberkochen, Germany
+                - generic [ref=e1253]:
+                  - img [ref=e1254]
+                  - paragraph [ref=e1257]: Vollzeit
+                - generic [ref=e1258]:
+                  - img [ref=e1259]
+                  - paragraph [ref=e1261]: Production
+              - generic [ref=e1262]:
+                - generic [ref=e1263]: Anlagenbediener/in für Reproduktionstechnik (m/w/x) - 1 Jahr befristet
+                - link "zur Stellenbeschreibung" [ref=e1264] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Anlagenbediener-in-fr-Reproduktionstechnik--m-w-x----1-Jahr-befristet_JR_1047506
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1266]
+            - generic [ref=e1270]:
+              - generic [ref=e1271]:
+                - generic [ref=e1272]:
+                  - img [ref=e1273]
+                  - paragraph [ref=e1276]: Oberkochen, Germany
+                - generic [ref=e1277]:
+                  - img [ref=e1278]
+                  - paragraph [ref=e1281]: Vollzeit
+                - generic [ref=e1282]:
+                  - img [ref=e1283]
+                  - paragraph [ref=e1285]: Production
+              - generic [ref=e1286]:
+                - generic [ref=e1287]: Application Specialist Integrated Photonics in Semiconductor Manufacturing (m/f/x)
+                - link "zur Stellenbeschreibung" [ref=e1288] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Application-Specialist-Integrated-Photonics-in-Semiconductor-Manufacturing--m-f-x-_JR_1046127-1
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1290]
+            - generic [ref=e1294]:
+              - generic [ref=e1295]:
+                - generic [ref=e1296]:
+                  - img [ref=e1297]
+                  - paragraph [ref=e1300]: Jena, Germany
+                - generic [ref=e1301]:
+                  - img [ref=e1302]
+                  - paragraph [ref=e1305]: Vollzeit
+                - generic [ref=e1306]:
+                  - img [ref=e1307]
+                  - paragraph [ref=e1309]: Administration & Support Services
+              - generic [ref=e1310]:
+                - generic [ref=e1311]: Assistenz Leiter Strategic Procurement & Excellence/Strategie (m/w/x)
+                - link "zur Stellenbeschreibung" [ref=e1312] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Jena/Leiter-Strategic-Procurement---Excellence-Strategie--m-w-x-_JR_1046859
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1314]
+            - generic [ref=e1318]:
+              - generic [ref=e1319]:
+                - generic [ref=e1320]:
+                  - img [ref=e1321]
+                  - paragraph [ref=e1324]: Braunschweig, Germany
+                - generic [ref=e1325]:
+                  - img [ref=e1326]
+                  - paragraph [ref=e1329]: Vollzeit
+                - generic [ref=e1330]:
+                  - img [ref=e1331]
+                  - paragraph [ref=e1333]: Sales
+              - generic [ref=e1334]:
+                - generic [ref=e1335]: Auftragssachbearbeiter (m/w/x) - befristet auf 24 Monate
+                - link "zur Stellenbeschreibung" [ref=e1336] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Braunschweig/Auftragssachbearbeiter--m-w-x----befristet-auf-24-Monate_JR_1044046-1
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1338]
+            - generic [ref=e1342]:
+              - generic [ref=e1343]:
+                - generic [ref=e1344]:
+                  - img [ref=e1345]
+                  - paragraph [ref=e1348]: Oberkochen, Germany
+                - generic [ref=e1349]:
+                  - img [ref=e1350]
+                  - paragraph [ref=e1353]: Vollzeit
+                - generic [ref=e1354]:
+                  - img [ref=e1355]
+                  - paragraph [ref=e1357]: Administration & Support Services
+              - generic [ref=e1358]:
+                - generic [ref=e1359]: Ausbildung – Chemielaborant (m/w/x), Beginn Herbst 2026
+                - link "zur Stellenbeschreibung" [ref=e1360] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Ausbildung---Chemielaborant--m-w-x---Beginn-Herbst-2026_JR_1042669
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1362]
+            - generic [ref=e1366]:
+              - generic [ref=e1367]:
+                - generic [ref=e1368]:
+                  - img [ref=e1369]
+                  - paragraph [ref=e1372]: Jena, Germany
+                - generic [ref=e1373]:
+                  - img [ref=e1374]
+                  - paragraph [ref=e1377]: Vollzeit
+                - generic [ref=e1378]:
+                  - img [ref=e1379]
+                  - paragraph [ref=e1381]: Administration & Support Services
+              - generic [ref=e1382]:
+                - generic [ref=e1383]: Ausbildung – Feinoptiker (m/w/x), Beginn Sommer 2026
+                - link "zur Stellenbeschreibung" [ref=e1384] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Jena/Ausbildung---Feinoptiker--m-w-x---Beginn-Sommer-2026_JR_1042236
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1386]
+            - generic [ref=e1390]:
+              - generic [ref=e1391]:
+                - generic [ref=e1392]:
+                  - img [ref=e1393]
+                  - paragraph [ref=e1396]: Wetzlar, Germany
+                - generic [ref=e1397]:
+                  - img [ref=e1398]
+                  - paragraph [ref=e1401]: Vollzeit
+                - generic [ref=e1402]:
+                  - img [ref=e1403]
+                  - paragraph [ref=e1405]: Administration & Support Services
+              - generic [ref=e1406]:
+                - generic [ref=e1407]: Ausbildung – Feinoptiker (m/w/x), Beginn Sommer 2026
+                - link "zur Stellenbeschreibung" [ref=e1408] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Wetzlar/Ausbildung---Feinoptiker--m-w-x---Beginn-Sommer-2026_JR_1043313
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1410]
+            - generic [ref=e1414]:
+              - generic [ref=e1415]:
+                - generic [ref=e1416]:
+                  - img [ref=e1417]
+                  - paragraph [ref=e1420]: Jena, Germany
+                - generic [ref=e1421]:
+                  - img [ref=e1422]
+                  - paragraph [ref=e1425]: Vollzeit
+                - generic [ref=e1426]:
+                  - img [ref=e1427]
+                  - paragraph [ref=e1429]: Administration & Support Services
+              - generic [ref=e1430]:
+                - generic [ref=e1431]: Ausbildung – Industriemechaniker (m/w/x), Beginn Sommer 2026
+                - link "zur Stellenbeschreibung" [ref=e1432] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Jena/Ausbildung---Industriemechaniker--m-w-x---Beginn-Sommer-2026_JR_1042265-2
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1434]
+            - generic [ref=e1438]:
+              - generic [ref=e1439]:
+                - generic [ref=e1440]:
+                  - img [ref=e1441]
+                  - paragraph [ref=e1444]: Jena, Germany
+                - generic [ref=e1445]:
+                  - img [ref=e1446]
+                  - paragraph [ref=e1449]: Vollzeit
+                - generic [ref=e1450]:
+                  - img [ref=e1451]
+                  - paragraph [ref=e1453]: Administration & Support Services
+              - generic [ref=e1454]:
+                - generic [ref=e1455]: Ausbildung – Mechatroniker (m/w/x), Beginn Sommer 2026
+                - link "zur Stellenbeschreibung" [ref=e1456] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Jena/Ausbildung---Mechatroniker--m-w-x---Beginn-Sommer-2026_JR_1042269
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1458]
+            - generic [ref=e1462]:
+              - generic [ref=e1463]:
+                - generic [ref=e1464]:
+                  - img [ref=e1465]
+                  - paragraph [ref=e1468]: Oberkochen, Germany
+                - generic [ref=e1469]:
+                  - img [ref=e1470]
+                  - paragraph [ref=e1473]: Vollzeit
+                - generic [ref=e1474]:
+                  - img [ref=e1475]
+                  - paragraph [ref=e1477]: Administration & Support Services
+              - generic [ref=e1478]:
+                - generic [ref=e1479]: Ausbildung – Zerspanungsmechaniker (m/w/x), Beginn Herbst 2026
+                - link "zur Stellenbeschreibung" [ref=e1480] [cursor=pointer]:
+                  - /url: https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Ausbildung---Zerspanungsmechaniker--m-w-x---Beginn-Herbst-2026_JR_1042302-2
+                  - text: zur Stellenbeschreibung
+                  - img [ref=e1482]
+            - generic [ref=e817]:
+              - button [disabled] [ref=e818]:
+                - img [ref=e819]
+              - button [disabled] [ref=e821]:
+                - img [ref=e822]
+              - generic [ref=e824]:
+                - generic [ref=e825]: Page
+                - button "1" [ref=e828] [cursor=pointer]:
+                  - generic [ref=e829]: "1"
+                  - img [ref=e830]
+                - generic [ref=e832]: of 17
+              - button [ref=e833] [cursor=pointer]:
+                - img [ref=e834]
+              - button [ref=e836] [cursor=pointer]:
+                - img [ref=e837]
+  - contentinfo [ref=e141]:
+    - link "Zurück nach oben" [ref=e146] [cursor=pointer]:
+      - /url: "#to-top"
+      - generic [ref=e147]: Zurück nach oben
+      - img [ref=e150]
+    - generic [ref=e158]:
+      - generic [ref=e159]: Verwandte ZEISS Websites
+      - link "ZEISS Gruppe" [ref=e160] [cursor=pointer]:
+        - /url: https://www.zeiss.de
+    - generic [ref=e165]:
+      - generic [ref=e166]:
+        - list [ref=e169]:
+          - listitem [ref=e170]:
+            - button "Häufig verwendet":
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Häufig verwendet
+            - generic [ref=e172]:
+              - link "Arbeitsbereiche" [ref=e173] [cursor=pointer]:
+                - /url: https://www.zeiss.com/career/de/arbeitsbereiche.html
+              - link "Bewerbungsablauf" [ref=e174] [cursor=pointer]:
+                - /url: https://www.zeiss.com/career/de/bewerbung.html
+              - link "ZEISS in Deutschland" [ref=e175] [cursor=pointer]:
+                - /url: https://www.zeiss.com/career/de/standorte/deutschland.html
+        - list [ref=e178]:
+          - listitem [ref=e179]:
+            - button "Über ZEISS":
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Über ZEISS
+            - generic [ref=e181]:
+              - link "ZEISS im Überblick" [ref=e182] [cursor=pointer]:
+                - /url: https://www.zeiss.de/unternehmen
+              - link "Karriere" [ref=e183] [cursor=pointer]:
+                - /url: https://www.zeiss.de/karriere
+              - link "Newsroom" [ref=e184] [cursor=pointer]:
+                - /url: https://www.zeiss.de/newsroom
+              - link "Compliance" [ref=e185] [cursor=pointer]:
+                - /url: https://www.zeiss.de/compliance
+        - list [ref=e188]:
+          - listitem [ref=e189]:
+            - button "Social Media":
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Social Media
+            - generic [ref=e191]:
+              - link "Facebook" [ref=e192] [cursor=pointer]:
+                - /url: https://www.facebook.com/zeisskarriere
+              - link "Instagram" [ref=e193] [cursor=pointer]:
+                - /url: https://www.instagram.com/zeisscareer/
+              - link "LinkedIn" [ref=e194] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/zeiss/
+              - link "YouTube" [ref=e195] [cursor=pointer]:
+                - /url: https://www.youtube.com/@ZEISSCareer
+      - generic [ref=e196]:
+        - generic [ref=e198] [cursor=pointer]:
+          - generic [ref=e199]: ZEISS Bereich wählen
+          - generic [ref=e200]: ZEISS Gruppe
+          - img [ref=e203]
+        - generic [ref=e205]:
+          - list [ref=e207]:
+            - listitem [ref=e208]:
+              - link "Cinematography" [ref=e209] [cursor=pointer]:
+                - /url: https://www.zeiss.de/photonics-and-optics/cinematografie.html
+            - listitem [ref=e210]:
+              - link "Hunting" [ref=e211] [cursor=pointer]:
+                - /url: https://www.zeiss.de/photonics-and-optics/jagd.html
+            - listitem [ref=e212]:
+              - link "Nature Observation" [ref=e213] [cursor=pointer]:
+                - /url: https://www.zeiss.de/photonics-and-optics/naturbeobachtung.html
+            - listitem [ref=e214]:
+              - link "Planetariums" [ref=e215] [cursor=pointer]:
+                - /url: https://www.zeiss.de/planetariums/home.html
+            - listitem [ref=e216]:
+              - link "Simulation Projection Solutions" [ref=e217] [cursor=pointer]:
+                - /url: https://www.zeiss.de/simulation-projection-solutions/home.html
+            - listitem [ref=e218]:
+              - link "Vision Care" [ref=e219] [cursor=pointer]:
+                - /url: https://www.zeiss.de/vision-care/home.html
+          - list [ref=e221]:
+            - listitem [ref=e222]:
+              - link "Digital Solutions & Software Development" [ref=e223] [cursor=pointer]:
+                - /url: https://www.zeiss.de/digital-innovation/home.html
+            - listitem [ref=e224]:
+              - link "Industrial Quality Solutions" [ref=e225] [cursor=pointer]:
+                - /url: https://www.zeiss.de/messtechnik/home.html
+            - listitem [ref=e226]:
+              - link "OEM Solutions" [ref=e227] [cursor=pointer]:
+                - /url: https://www.zeiss.com/oem-solutions/home.html
+            - listitem [ref=e228]:
+              - link "Research Microscopy Solutions" [ref=e229] [cursor=pointer]:
+                - /url: https://www.zeiss.de/mikroskopie/home.html
+            - listitem [ref=e230]:
+              - link "Spectroscopy" [ref=e231] [cursor=pointer]:
+                - /url: https://www.zeiss.de/spectroscopy/home.html
+            - listitem [ref=e232]:
+              - link "ZEISS Group" [ref=e233] [cursor=pointer]:
+                - /url: https://www.zeiss.de/corporate/home.html
+          - list [ref=e235]:
+            - listitem [ref=e236]:
+              - link "Extended Reality" [ref=e237] [cursor=pointer]:
+                - /url: https://www.zeiss.com/extended-reality/en/home.html
+            - listitem [ref=e238]:
+              - link "Medical Technology" [ref=e239] [cursor=pointer]:
+                - /url: https://www.zeiss.de/meditec/home.html
+            - listitem [ref=e240]:
+              - link "Photography" [ref=e241] [cursor=pointer]:
+                - /url: https://www.zeiss.de/photonics-and-optics/fotografie.html
+            - listitem [ref=e242]:
+              - link "Semiconductor Manufacturing Technology" [ref=e243] [cursor=pointer]:
+                - /url: https://www.zeiss.de/semiconductor-manufacturing-technology/home.html
+            - listitem [ref=e244]:
+              - link "Sunlens" [ref=e245] [cursor=pointer]:
+                - /url: https://www.zeiss.com/sunlens/de/home.html
+        - generic [ref=e247] [cursor=pointer]:
+          - generic [ref=e248]: Website auswählen
+          - generic [ref=e249]: Internationale Website (Deutsch)
+          - img [ref=e252]
+        - list [ref=e255]:
+          - listitem [ref=e256]:
+            - button "Sprache auswählen":
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Sprache auswählen
+            - list [ref=e260]:
+              - listitem [ref=e261]:
+                - link "Seite in Global website (English) öffnen" [ref=e262] [cursor=pointer]:
+                  - /url: https://www.zeiss.com/career/en/job-search.html
+                  - text: Global website (English)
+              - listitem [ref=e263]:
+                - link "Seite in Internationale Website (Deutsch) öffnen" [ref=e264] [cursor=pointer]:
+                  - /url: https://www.zeiss.com/career/de/stellensuche.html
+                  - text: Internationale Website (Deutsch)
+              - listitem [ref=e265]:
+                - link "Seite in 全球网站（中文 (简体)） öffnen" [ref=e266] [cursor=pointer]:
+                  - /url: https://www.zeiss.com/career/zh_cn/job-search.html
+                  - text: 全球网站（中文 (简体)）
+              - listitem [ref=e267]:
+                - link "Seite in 全球網站 (中文 (繁體)) öffnen" [ref=e268] [cursor=pointer]:
+                  - /url: https://www.zeiss.com/career/zh_tw/job-search.html
+                  - text: 全球網站 (中文 (繁體))
+              - listitem [ref=e269]:
+                - link "Seite in Sitio web global (Español) öffnen" [ref=e270] [cursor=pointer]:
+                  - /url: https://www.zeiss.com/career/es/busqueda-de-empleo.html
+                  - text: Sitio web global (Español)
+              - listitem [ref=e271]:
+                - link "Seite in Site web international (Français) öffnen" [ref=e272] [cursor=pointer]:
+                  - /url: https://www.zeiss.com/career/fr/recherche-demploi.html
+                  - text: Site web international (Français)
+          - listitem [ref=e273]:
+            - button "Standort wählen":
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Standort wählen
+    - list [ref=e283]:
+      - listitem [ref=e284]:
+        - generic [ref=e286]:
+          - link "Kontakt" [ref=e287] [cursor=pointer]:
+            - /url: https://www.zeiss.com/career/de/kontakt.html
+          - link "Impressum" [ref=e288] [cursor=pointer]:
+            - /url: https://www.zeiss.de/impressum
+          - link "Rechtshinweise" [ref=e289] [cursor=pointer]:
+            - /url: https://www.zeiss.de/corporate/rechtliches/rechtshinweise.html
+          - link "Datenschutz" [ref=e290] [cursor=pointer]:
+            - /url: https://www.zeiss.de/datenschutz
+            - text: Datenschutzhinweis
+          - link "Cookie-Hinweis" [ref=e291] [cursor=pointer]:
+            - /url: https://www.zeiss.de/cookies
+          - link "Cookie-Einstellungen" [ref=e292] [cursor=pointer]:
+            - /url: "#"
+  - dialog "Datenschutzeinstellungen" [ref=e295]:
+    - generic [ref=e296]:
+      - generic [ref=e297]:
+        - generic:
+          - heading "Datenschutzeinstellungen" [level=2] [ref=e298]
+          - generic [ref=e299]:
+            - generic [ref=e300]:
+              - paragraph [ref=e301]: Wir nutzen verschiedene Tracking-Technologien, um dir ein besseres Website-Erlebnis zu bieten. Wenn du auf „Alle akzeptieren“ klickst, stimmst du der Verwendung von Tracking-Technologien zu, um Anmeldedaten zu speichern und eine sichere Anmeldung zu ermöglichen (technisch notwendig), um Statistiken zu sammeln, die unsere Website-Funktionalität verbessern (Statistiken), um erweiterte Funktionen bereitzustellen (funktional) und um auf deine Interessen zugeschnittene Inhalte zu liefern (Marketing). Wenn du der Verwendung von Marketing-Cookies zustimmst, erlaubst du uns auch, Browser-Fingerprinting-Technologien zu aktivieren, um die Website-Analyse und Leistungserkenntnisse zu verbessern. Weitere Infos und Anpassungsoptionen findest du unter „Cookie-Einstellungen“, wo du deine Einstellungen ändern kannst. Du kannst deine Zustimmung jederzeit widerrufen.
+              - paragraph [ref=e302]:
+                - text: Weitere Informationen zur Nutzung von Trackingtechnologien finden Sie in unserer
+                - link "Datenschutzhinweis" [ref=e303] [cursor=pointer]:
+                  - /url: https://www.zeiss.de/datenschutz
+                - text: .
+            - link "Weitere Informationen zum Datenschutz, wird in neuer registerkarte geöffnet" [ref=e304] [cursor=pointer]:
+              - /url: https://www.zeiss.de/cookies
+              - text: Cookie-Hinweis
+            - link "Cookie-Hinweis, wird in neuer registerkarte geöffnet" [ref=e305] [cursor=pointer]:
+              - /url: https://www.zeiss.com/publisher
+              - text: Rechtliche Hinweise
+      - generic [ref=e307]:
+        - button "Cookie-Einstellungen, Öffnet das Einstellungscenter-Dialogfeld" [ref=e308] [cursor=pointer]: Cookie-Einstellungen
+        - generic [ref=e309]:
+          - button "Alle ablehnen" [ref=e310] [cursor=pointer]
+          - button "Alle akzeptieren" [ref=e311] [cursor=pointer]

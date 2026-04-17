@@ -4,7 +4,7 @@ Scans configured job portals, filters by title relevance, and adds new offers to
 
 ## Recommended execution
 
-Run as a sub-agent to avoid consuming main context:
+Run as a subagent to avoid consuming main context:
 
 ```
 Agent(
@@ -73,15 +73,14 @@ Levels are additive — all run, results are merged and deduplicated.
 2. **Read history**: `data/scan-history.jsonl` → URLs already seen
 3. **Read dedup sources**: `data/applications.jsonl` + `data/pipeline.md`
 
-4. **Level 1 — Playwright scan** (parallel in batches of 3–5):
+4. **Level 1 — Playwright scan** (parallel in batches of 3-5):
    - For each company in `tracked_companies` with `enabled: true` and `careers_url` defined:
    - a. `browser_navigate` to the `careers_url`
    - b. `browser_snapshot` to read all job listings
    - c. If the page has filters/departments, navigate relevant sections
    - d. For each job listing extract: `{title, url, company}`
    - e. If the page paginates, navigate additional pages
-   - f. Accumulate in candidate list
-   - g. If `careers_url` fails (404, redirect), try `scan_query` as fallback and note for URL update
+   - f. If `careers_url` fails (404, redirect, timeout), skip and note for URL update
 
 5. **Level 2 — Greenhouse APIs** (parallel):
    - For each company in `tracked_companies` with `api:` defined and `enabled: true`:
@@ -109,7 +108,7 @@ Levels are additive — all run, results are merged and deduplicated.
 
 WebSearch results may be stale (Google caches results for weeks or months). To avoid evaluating expired offers, verify with Playwright each new URL from Level 3. Levels 1 and 2 are inherently real-time and do not require this check.
 
-For each new URL from Level 3 (sequential — NEVER Playwright in parallel):
+For each new URL from Level 3 (run sequentially in the main context — liveness checks are lightweight and don't need parallel subagents):
 - a. `browser_navigate` to the URL
 - b. `browser_snapshot` to read content
 - c. Classify:

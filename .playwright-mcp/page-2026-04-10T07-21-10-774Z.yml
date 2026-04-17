@@ -1,0 +1,231 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e7]:
+    - paragraph [ref=e9]:
+      - text: We use cookies to personalise content and to analyse our traffic. We also share information about your use of our site with our analytics partners. View our
+      - link "cookies page" [ref=e10] [cursor=pointer]:
+        - /url: https://www.rolls-royce.com/site-services/use-of-cookies.aspx
+      - text: .
+    - generic [ref=e11]:
+      - button "Accept all cookies" [ref=e12] [cursor=pointer]:
+        - generic [ref=e13]: Accept all cookies
+      - button "Decline cookies" [ref=e14] [cursor=pointer]:
+        - generic [ref=e15]: Decline cookies
+      - button "Change cookie preferences" [ref=e16] [cursor=pointer]:
+        - generic [ref=e17]: Change cookie preferences
+  - generic [ref=e18]:
+    - text:  
+    - generic [ref=e19]:
+      - banner [ref=e20]:
+        - generic [ref=e22]:
+          - text: 
+          - generic [ref=e23]:
+            - figure [ref=e24]:
+              - link "Rolls-Royce – link to home page" [ref=e25] [cursor=pointer]:
+                - /url: /de
+                - img "Rolls-Royce – link to home page" [ref=e26]
+            - text:   
+            - generic [ref=e27]:
+              - link "menu":
+                - /url: "#mob-menu-wrap"
+                - generic [ref=e28] [cursor=pointer]: menu
+      - main:
+        - generic [ref=e33]:
+          - paragraph [ref=e34]:
+            - img "Loading results" [ref=e35]
+          - heading "Rolls‑Royce Karrieren" [level=1] [ref=e42]:
+            - generic [ref=e43]: Rolls‑Royce
+            - generic [ref=e44]: Karrieren
+          - generic [ref=e51]:
+            - generic [ref=e52]:
+              - textbox "search jobs" [ref=e53]:
+                - /placeholder: Suchen
+              - generic [ref=e54] [cursor=pointer]: 
+            - generic [ref=e56]:
+              - generic [ref=e57]: "Beliebte Suchanfragen:"
+              - generic [ref=e58]:
+                - link "Ingenieur" [ref=e59] [cursor=pointer]:
+                  - /url: /de/stellenangebote?search=Engineer
+                - link "Friedrichshafen" [ref=e60] [cursor=pointer]:
+                  - /url: https://careers.rolls-royce.com/de/stellenangebote?country=Germany&city=Friedrichshafen
+                - link "Werkstudent" [ref=e61] [cursor=pointer]:
+                  - /url: https://careers.rolls-royce.com/de/stellenangebote?country=Germany&seniority=Intern_Graduate
+          - generic [ref=e67]:
+            - generic [ref=e69]:
+              - paragraph [ref=e70]: Filter Jobs
+              - link "Clear All" [ref=e71] [cursor=pointer]:
+                - /url: javascript:;
+                - generic [ref=e72]: Clear All
+            - generic [ref=e75]:
+              - generic [ref=e76]:
+                - link "Seniority " [ref=e77] [cursor=pointer]:
+                  - /url: javascript:;
+                  - text: Seniority
+                  - generic [ref=e78]: 
+                - list
+              - generic [ref=e80]:
+                - link "Country " [ref=e81] [cursor=pointer]:
+                  - /url: javascript:;
+                  - text: Country
+                  - generic [ref=e82]: 
+                - list
+              - generic [ref=e84]:
+                - link "City " [ref=e85] [cursor=pointer]:
+                  - /url: javascript:;
+                  - text: City
+                  - generic [ref=e86]: 
+                - list
+              - generic [ref=e88]:
+                - link "Department " [ref=e89] [cursor=pointer]:
+                  - /url: javascript:;
+                  - text: Department
+                  - generic [ref=e90]: 
+                - list
+              - generic [ref=e92]:
+                - link "Employment Type " [ref=e93] [cursor=pointer]:
+                  - /url: javascript:;
+                  - text: Employment Type
+                  - generic [ref=e94]: 
+                - list
+        - generic [ref=e97]:
+          - generic [ref=e101]:
+            - heading "Wir halten Sie auf dem Laufenden" [level=2] [ref=e102]
+            - paragraph [ref=e104]: Wenn Sie unserem Personalteam Ihren Lebenslauf und Ihre Berufserfahrung zur Verfügung stellen, informieren wir Sie über passende zukünftige Stellenangebote und halten Sie außerdem über aktuelle Neuigkeiten, Events und Geschichten rund um die Menschen bei Rolls‑Royce auf dem Laufenden.
+          - generic [ref=e107]:
+            - article [ref=e108]:
+              - link "Students & graduates" [ref=e109] [cursor=pointer]:
+                - /url: /de/studierende-und-absolventen
+              - img "Students & graduates" [ref=e111]
+              - generic [ref=e112]:
+                - paragraph [ref=e113]: Students & graduates
+                - paragraph [ref=e114]
+                - paragraph [ref=e115]: Our Emerging Talent Community, dedicated to work experience, apprenticeships, school leavers, internships, and graduate programmes.
+            - article [ref=e116]:
+              - link "Professionals" [ref=e117] [cursor=pointer]:
+                - /url: /de/fachkraefte
+              - img "Professionals" [ref=e119]
+              - generic [ref=e120]:
+                - paragraph [ref=e121]: Professionals
+                - paragraph [ref=e122]
+                - paragraph [ref=e123]: For industry professionals across engineering, supply chain, procurement, finance, project management, HR, marketing, sales, legal, PR & comms, and more.
+        - img "pattern" [ref=e125]
+      - contentinfo [ref=e126]:
+        - generic [ref=e128]:
+          - generic [ref=e131]:
+            - generic [ref=e133]:
+              - paragraph [ref=e134]: See what’s possible when The Power of You meets Infinite Potential
+              - paragraph [ref=e135]: Rolls‑Royce develops and delivers complex power and propulsion solutions for safety-critical applications in the air, at sea and on land.
+            - list [ref=e137]:
+              - listitem [ref=e138]:
+                - link "Home" [ref=e139] [cursor=pointer]:
+                  - /url: /de
+              - listitem [ref=e140]:
+                - link "Stellenangebote" [ref=e141] [cursor=pointer]:
+                  - /url: /de/stellenangebote
+              - listitem [ref=e142]:
+                - link "Studierende und Absolventen" [ref=e143] [cursor=pointer]:
+                  - /url: /de/studierende-und-absolventen
+              - listitem [ref=e144]:
+                - link "Fachkräfte" [ref=e145] [cursor=pointer]:
+                  - /url: /de/fachkraefte
+              - listitem [ref=e146]:
+                - link "Unsere Standorte" [ref=e147] [cursor=pointer]:
+                  - /url: /de/unsere-standorte
+              - listitem [ref=e148]:
+                - link "Unser Versprechen" [ref=e149] [cursor=pointer]:
+                  - /url: /de/unser-angebot/zweck-und-verhalten
+              - listitem [ref=e150]:
+                - link "Geschichten" [ref=e151] [cursor=pointer]:
+                  - /url: /de/geschichten
+            - generic [ref=e152]:
+              - text: Follow us
+              - list [ref=e154]:
+                - listitem [ref=e155]:
+                  - link "Facebook" [ref=e156] [cursor=pointer]:
+                    - /url: https://www.facebook.com/RollsRoyceGroup
+                    - generic [ref=e157]: 
+                    - generic: Facebook
+                - listitem [ref=e158]:
+                  - link "Twitter" [ref=e159] [cursor=pointer]:
+                    - /url: https://twitter.com/rollsroyce
+                    - generic [ref=e160]: 
+                    - generic: Twitter
+                - listitem [ref=e161]:
+                  - link "Youtube" [ref=e162] [cursor=pointer]:
+                    - /url: https://www.youtube.com/user/RollsRoyceplc
+                    - generic [ref=e163]: 
+                    - generic: Youtube
+                - listitem [ref=e164]:
+                  - link "Linkedin" [ref=e165] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/rolls-royce
+                    - generic [ref=e166]: 
+                    - generic: Linkedin
+                - listitem [ref=e167]:
+                  - link "Instagram" [ref=e168] [cursor=pointer]:
+                    - /url: https://www.instagram.com/rollsroycegroup
+                    - generic [ref=e169]: 
+                    - generic: Instagram
+                - listitem [ref=e170]:
+                  - link "Flickr" [ref=e171] [cursor=pointer]:
+                    - /url: https://www.flickr.com/photos/rolls-royceplc
+                    - generic [ref=e172]: 
+                    - generic: Flickr
+              - text: Stay in touch
+              - generic [ref=e173]:
+                - paragraph [ref=e174]:
+                  - link "Sign up to get the latest news" [ref=e175] [cursor=pointer]:
+                    - /url: https://www.rolls-royce.com/investors/investor-contacts/alert-service.aspx
+                    - generic [ref=e176]: 
+                    - text: Sign up to get the latest news
+                - paragraph [ref=e177]:
+                  - link "Contact us" [ref=e178] [cursor=pointer]:
+                    - /url: /de/contact-us
+                    - generic [ref=e179]: 
+                    - text: Contact us
+          - generic [ref=e180]:
+            - generic [ref=e181]:
+              - img "Rolls-Royce Careers" [ref=e182]
+              - paragraph [ref=e184]: © Rolls‑Royce plc 2026. All rights reserved.
+            - generic [ref=e185]:
+              - list:
+                - listitem [ref=e186]:
+                  - text: "|"
+                  - link "Site map" [ref=e187] [cursor=pointer]:
+                    - /url: /de/site-map
+                - listitem [ref=e188]:
+                  - text: "|"
+                  - link "Privacy statement" [ref=e189] [cursor=pointer]:
+                    - /url: /de/site-services/privacy-statement
+                - listitem [ref=e190]:
+                  - text: "|"
+                  - link "Use of cookies" [ref=e191] [cursor=pointer]:
+                    - /url: https://www.rolls-royce.com/site-services/use-of-cookies.aspx
+                - listitem [ref=e192]:
+                  - text: "|"
+                  - link "Cookie Settings" [ref=e193] [cursor=pointer]:
+                    - /url: "##"
+                - listitem [ref=e194]:
+                  - text: "|"
+                  - link "Accessibility" [ref=e195] [cursor=pointer]:
+                    - /url: https://www.rolls-royce.com/site-services/accessibility
+                - listitem [ref=e196]:
+                  - link "Legal Information" [ref=e197] [cursor=pointer]:
+                    - /url: https://www.rolls-royce.com/site-services/legal-information.aspx
+        - link "Back to Top " [ref=e198] [cursor=pointer]:
+          - /url: "#MainForm"
+          - strong [ref=e199]: Back to Top
+          - text: 
+  - generic [ref=e200]:
+    - generic [ref=e201]:
+      - generic [ref=e202]:
+        - text: Reading time
+        - generic [ref=e203]: 1 min
+      - link "Close" [ref=e205] [cursor=pointer]:
+        - /url: javascript:void(0);
+        - text: Close
+        - generic [ref=e206]: 
+    - generic [ref=e207]:
+      - img "Loader"
+    - link " Close" [ref=e211] [cursor=pointer]:
+      - /url: javascript:void(0);
+      - generic [ref=e212]: 
+      - text: Close

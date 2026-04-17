@@ -1,0 +1,310 @@
+- generic [active] [ref=e1]:
+  - main:
+    - generic:
+      - generic [ref=e4]:
+        - text: 
+        - generic [ref=e5]:
+          - figure [ref=e6]:
+            - link "Rolls-Royce – link to home page" [ref=e7] [cursor=pointer]:
+              - /url: /de
+              - img "Rolls-Royce – link to home page" [ref=e8]
+          - text:   
+          - generic [ref=e9]:
+            - link "menu":
+              - /url: "#mob-menu-wrap"
+              - generic [ref=e10] [cursor=pointer]: menu
+      - text:  
+      - generic [ref=e22]: Accepting applications until filled
+      - generic [ref=e23]:
+        - generic [ref=e30]:
+          - paragraph [ref=e31]: Rolls‑Royce
+          - heading "Manager (m/w/d) globaler Produktsupport für mobile Lösungen" [level=1] [ref=e32]
+          - list [ref=e34]:
+            - listitem [ref=e35]: Full time
+            - listitem [ref=e36]: Professionals
+            - listitem [ref=e37]: Services
+            - listitem [ref=e38]: Friedrichshafen, Germany
+            - listitem [ref=e39]: Posted 03 Feb 2026
+        - img "Banner image" [ref=e41]
+      - complementary [ref=e47]:
+        - link "Select" [ref=e48] [cursor=pointer]:
+          - /url: javascript:void(0);
+      - generic [ref=e54]:
+        - heading "Job Description" [level=2] [ref=e55]
+        - heading "Aufgaben - Das erwartet Sie bei uns:" [level=2] [ref=e56]
+        - list [ref=e57]:
+          - listitem [ref=e58]:
+            - paragraph [ref=e59]: Technischer Produkt Support für mobile Antriebssystemlösungen verschiedener Baureihen
+          - listitem [ref=e60]:
+            - paragraph [ref=e61]: Ganzheitliche Verantwortung für systematische Feldthemen vom Auftreten des Problem bis Ausrollen der Lösung im Feld
+          - listitem [ref=e62]:
+            - paragraph [ref=e63]: "Leiten, Koordinieren und Abstimmen folgender Prozessschritte:"
+          - listitem [ref=e64]:
+            - paragraph [ref=e65]: Erstellung einer datenbasierten Feldanalyse zur Feststellung der Systematik
+          - listitem [ref=e66]:
+            - paragraph [ref=e67]: Ursachenanlayse und Definition einer temporären Abhilfemaßnahme
+          - listitem [ref=e68]:
+            - paragraph [ref=e69]: Entwickeln und Qualifizieren einer nachhaltigen, dauerhaften Abhilfemaßnahme
+          - listitem [ref=e70]:
+            - paragraph [ref=e71]: Einführen der Lösung mittels Korrekturmaßnahme im Feld
+          - listitem [ref=e72]:
+            - paragraph [ref=e73]: Mitarbeit in Entwicklungsprojekten für neue Produktlösungen inkl. Markteinführung neuer Produkte
+          - listitem [ref=e74]:
+            - paragraph [ref=e75]: Bewertung und Abarbeitung potenzieller Produktsicherheitsthemen , Verifizierung und Priorisierung von systematischen Feldproblemen (FiRe Sharepoint).
+        - heading "Qualifikationen - Was wir uns wünschen:" [level=2] [ref=e76]
+        - list [ref=e77]:
+          - listitem [ref=e78]:
+            - paragraph [ref=e79]: Erfolgreich abgeschlossenes Studium im Bereich Elektrotechnik, Maschinenbau, Automatisierungstechnik, Steuerungs- und Regelungstechnik, bzw. Techniker/Meister (m/w/d) oder vergleichbare Qualifikation und mehrjährige Erfahrung.
+          - listitem [ref=e80]:
+            - paragraph [ref=e81]: Gute Kenntnisse in Motor-, Regel- und Steuerungstechnik.
+          - listitem [ref=e82]:
+            - paragraph [ref=e83]: Erfahrung im Projektmanagement.
+          - listitem [ref=e84]:
+            - paragraph [ref=e85]: Verhandlungssichere Englischkenntnisse in Wort und Schrift.
+          - listitem [ref=e86]:
+            - paragraph [ref=e87]: Sicheres Auftreten, gutes Verhandlungsgeschick und Durchsetzungsfähigkeit.
+          - listitem [ref=e88]:
+            - paragraph [ref=e89]: Organisationsfähigkeit, systematische und selbständige Arbeitsweise.
+          - listitem [ref=e90]:
+            - paragraph [ref=e91]: Flexibilität und Teamfähigkeit.
+          - listitem [ref=e92]:
+            - paragraph [ref=e93]: Bereitschaft zu gelegentlichen weltweiten Reisetätigkeit.
+        - heading "Warum Rolls‑Royce Power Systems – Das bieten wir Ihnen:" [level=2] [ref=e94]:
+          - generic [ref=e95]: "Warum Rolls‑Royce Power Systems – Das bieten wir Ihnen:"
+        - list [ref=e96]:
+          - listitem [ref=e97]:
+            - paragraph [ref=e98]: Gesunde und faire Arbeitsbedingungen durch Tarifbindung (Metall- und Elektroindustrie)
+          - listitem [ref=e99]:
+            - paragraph [ref=e100]: Betriebseigene Krankenkasse BKK MTU für unsere Mitarbeitenden und Familienangehörigen
+          - listitem [ref=e101]:
+            - paragraph [ref=e102]:
+              - generic [ref=e103]:
+                - text: Umfangreiches betriebliches
+                - generic [ref=e104]: Gesundheitsmanagement
+                - text: inklusive
+                - generic [ref=e105]: Firmenfitnessprogramm
+                - text: (EGYM Wellpass)
+          - listitem [ref=e106]:
+            - paragraph [ref=e107]: Attraktive betriebliche Altersvorsorge – Mit uns für das Alter sparen!
+          - listitem [ref=e108]:
+            - paragraph [ref=e109]:
+              - generic [ref=e110]: Berufsunfähigkeitsversicherung
+              - text: – Absicherung für alle Fälle!
+          - listitem [ref=e111]:
+            - paragraph [ref=e112]:
+              - generic [ref=e113]: Mobilitätsunterstützung
+              - text: im Alltag – JobTicket und Jobrad
+          - listitem [ref=e114]:
+            - paragraph [ref=e115]: Corporate Benefits Programm – Attraktive Mitarbeiterrabatte auf zahlreiche starke Marken
+        - paragraph [ref=e116]:
+          - text: Wir sind ein Arbeitgeber, der sich für Chancengleichheit einsetzt. Wir setzen uns für die Entwicklung einer vielfältigen Belegschaft und eines integrativen Arbeitsumfelds ein. Wir glauben, dass Menschen mit unterschiedlichen Hintergründen und Kulturen uns unterschiedliche Perspektiven geben. Und je mehr Perspektiven wir haben, desto erfolgreicher werden wir sein. Durch den Aufbau einer Kultur des Respekts und der Wertschätzung geben wir jedem, der hier arbeitet, die Möglichkeit, sein volles Potenzial auszuschöpfen.
+          - link "Hier" [ref=e118] [cursor=pointer]:
+            - /url: https://www.rolls-royce.com/sustainability/our-people.aspx#section-diversity-and-inclusion
+          - text: erfahren Sie mehr über unsere globale Inklusionsstrategie.
+        - paragraph [ref=e119]:
+          - generic [ref=e120]:
+            - generic [ref=e121]: Ihr Ansprechpartner
+            - text: "Wolf SingerE-mail: careers"
+            - generic [ref=e122]: "@ps.rolls-royce.com"
+        - paragraph [ref=e123]:
+          - generic [ref=e124]: "Hinweis:"
+          - text: Bitte bewerben Sie sich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. auch E-Mail) können nicht berücksichtigt werden.
+        - heading "Type of Contract" [level=2] [ref=e125]
+        - text: Permanent
+      - generic [ref=e126]:
+        - generic [ref=e129]:
+          - heading "Unser Versprechen" [level=2] [ref=e132]
+          - generic [ref=e134]:
+            - link "" [ref=e135] [cursor=pointer]:
+              - /url: javascript:;
+              - generic [ref=e136]: 
+            - link "" [ref=e137] [cursor=pointer]:
+              - /url: javascript:;
+              - generic [ref=e138]: 
+        - generic [ref=e144]:
+          - generic "Slide" [ref=e145]:
+            - img "Flexible Reward Package" [ref=e147]
+            - heading "Flexibles Prämienpaket" [level=3] [ref=e149]
+            - link "Flexibles Prämienpaket" [ref=e150] [cursor=pointer]:
+              - /url: https://careers.rolls-royce.com/de/unser-angebot/verguetung
+              - text: Link
+          - generic "Slide" [ref=e151]:
+            - img "Extraordinary Leadership" [ref=e153]
+            - heading "Außergewöhnliche Führung" [level=3] [ref=e155]
+            - link "Außergewöhnliche Führung" [ref=e156] [cursor=pointer]:
+              - /url: https://careers.rolls-royce.com/de/unser-angebot/aussergewoehnliche-fuehrung
+              - text: Link
+          - generic "Slide" [ref=e157]:
+            - img "Engagement Programmes" [ref=e159]
+            - heading "Engagement-Programme" [level=3] [ref=e161]
+            - link "Engagement-Programme" [ref=e162] [cursor=pointer]:
+              - /url: https://careers.rolls-royce.com/de/unser-angebot/engagement-und-anerkennung
+              - text: Link
+          - generic "Slide" [ref=e163]:
+            - img "Continuous Learning & Development" [ref=e165]
+            - heading "Kontinuierliches Lernen und Weiterentwicklung" [level=3] [ref=e167]
+            - link "Kontinuierliches Lernen und Weiterentwicklung" [ref=e168] [cursor=pointer]:
+              - /url: https://careers.rolls-royce.com/de/unser-angebot/faehigkeiten-und-kompetenzen
+              - text: Link
+          - generic "Slide" [ref=e169]:
+            - img "A Culture of Performance" [ref=e171]
+            - heading "Leistungsorientierte Kultur" [level=3] [ref=e173]
+            - link "Leistungsorientierte Kultur" [ref=e174] [cursor=pointer]:
+              - /url: https://careers.rolls-royce.com/de/unser-angebot/leistung
+              - text: Link
+          - generic "Slide" [ref=e175]:
+            - img "Tailored Career Pathways" [ref=e177]
+            - heading "Maßgeschneiderte Karrierewege" [level=3] [ref=e179]
+            - link "Maßgeschneiderte Karrierewege" [ref=e180] [cursor=pointer]:
+              - /url: https://careers.rolls-royce.com/de/unser-angebot/talentfoerderung
+              - text: Link
+          - generic "Slide" [ref=e181]:
+            - img "Shaping the Modern World" [ref=e183]
+            - heading "Wir gestalten die moderne Welt" [level=3] [ref=e185]
+            - link "Wir gestalten die moderne Welt" [ref=e186] [cursor=pointer]:
+              - /url: https://careers.rolls-royce.com/de/unser-angebot/zweck-und-verhalten
+              - text: Link
+      - generic [ref=e191]:
+        - generic [ref=e193]:
+          - heading "Bewerben Sie sich noch heute" [level=2] [ref=e194]
+          - paragraph [ref=e196]: Bewerben Sie sich jetzt und entfalten Sie Ihr grenzenloses Potenzial.
+        - link "Bewerben " [ref=e198] [cursor=pointer]:
+          - /url: https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Friedrichshafen/Manager--m-w-d--globaler-Produktsupport-fr-mobile-Lsungen_JR6146555-3/apply
+          - generic [ref=e199]: Bewerben
+          - generic [ref=e200]: 
+      - generic [ref=e207]:
+        - generic [ref=e209]:
+          - paragraph [ref=e211]: Job-Benachrichtigung erstellen
+          - paragraph [ref=e213]: Erstellen Sie eine personalisierte Benachrichtigung, und wir informieren Sie automatisch über neue Stellenangebote, die zu Ihrem Profil passen.
+          - text: 
+        - generic [ref=e215]:
+          - paragraph [ref=e217]: Werden Sie Teil der Talent Community
+          - paragraph [ref=e219]: Erhalten Sie aktuelle Neuigkeiten, Geschichten und Updates zu den Menschen bei Rolls‑Royce in Ihrer Region.
+          - text: 
+      - generic [ref=e224]:
+        - generic [ref=e226]:
+          - heading "Remind me to apply" [level=3] [ref=e228]
+          - paragraph [ref=e230]: Choose a date and time that's convenient and we'll remind you to apply.
+        - generic [ref=e233]:
+          - textbox "Email" [ref=e235]
+          - generic [ref=e237]:
+            - textbox [ref=e238]
+            - paragraph: Date
+            - button "Open calendar" [ref=e239] [cursor=pointer]
+          - generic [ref=e241]:
+            - textbox [ref=e242]
+            - paragraph: Time
+            - button "Open time picker" [ref=e243] [cursor=pointer]
+          - button "Remind me" [ref=e245] [cursor=pointer]
+      - img "pattern" [ref=e247]
+  - contentinfo [ref=e248]:
+    - generic [ref=e250]:
+      - generic [ref=e251]:
+        - link "share" [ref=e253] [cursor=pointer]:
+          - /url: javascript:;
+        - text:    
+      - link "Apply" [ref=e254] [cursor=pointer]:
+        - /url: https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Friedrichshafen/Manager--m-w-d--globaler-Produktsupport-fr-mobile-Lsungen_JR6146555-3/apply
+    - generic [ref=e256]:
+      - generic [ref=e259]:
+        - generic [ref=e261]:
+          - paragraph [ref=e262]: See what’s possible when The Power of You meets Infinite Potential
+          - paragraph [ref=e263]: Rolls‑Royce develops and delivers complex power and propulsion solutions for safety-critical applications in the air, at sea and on land.
+        - list [ref=e265]:
+          - listitem [ref=e266]:
+            - link "Home" [ref=e267] [cursor=pointer]:
+              - /url: /en
+          - listitem [ref=e268]:
+            - link "Jobs" [ref=e269] [cursor=pointer]:
+              - /url: /en/jobs
+          - listitem [ref=e270]:
+            - link "Students & Graduates" [ref=e271] [cursor=pointer]:
+              - /url: /en/students-and-graduates
+          - listitem [ref=e272]:
+            - link "Professionals" [ref=e273] [cursor=pointer]:
+              - /url: /en/professionals
+          - listitem [ref=e274]:
+            - link "Our Locations" [ref=e275] [cursor=pointer]:
+              - /url: /en/our-locations
+          - listitem [ref=e276]:
+            - link "Our Offer" [ref=e277] [cursor=pointer]:
+              - /url: /en/our-offer/purpose-and-behaviours
+          - listitem [ref=e278]:
+            - link "Stories" [ref=e279] [cursor=pointer]:
+              - /url: /en/stories
+        - generic [ref=e280]:
+          - text: Follow us
+          - list [ref=e282]:
+            - listitem [ref=e283]:
+              - link "Facebook" [ref=e284] [cursor=pointer]:
+                - /url: https://www.facebook.com/RollsRoyceGroup
+                - generic [ref=e285]: 
+                - generic: Facebook
+            - listitem [ref=e286]:
+              - link "Twitter" [ref=e287] [cursor=pointer]:
+                - /url: https://twitter.com/rollsroyce
+                - generic [ref=e288]: 
+                - generic: Twitter
+            - listitem [ref=e289]:
+              - link "Youtube" [ref=e290] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/RollsRoyceplc
+                - generic [ref=e291]: 
+                - generic: Youtube
+            - listitem [ref=e292]:
+              - link "Linkedin" [ref=e293] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/rolls-royce
+                - generic [ref=e294]: 
+                - generic: Linkedin
+            - listitem [ref=e295]:
+              - link "Instagram" [ref=e296] [cursor=pointer]:
+                - /url: https://www.instagram.com/rollsroycegroup
+                - generic [ref=e297]: 
+                - generic: Instagram
+            - listitem [ref=e298]:
+              - link "Flickr" [ref=e299] [cursor=pointer]:
+                - /url: https://www.flickr.com/photos/rolls-royceplc
+                - generic [ref=e300]: 
+                - generic: Flickr
+          - text: Stay in touch
+          - generic [ref=e301]:
+            - paragraph [ref=e302]:
+              - link "Sign up to get the latest news" [ref=e303] [cursor=pointer]:
+                - /url: https://www.rolls-royce.com/investors/investor-contacts/alert-service.aspx
+                - generic [ref=e304]: 
+                - text: Sign up to get the latest news
+            - paragraph [ref=e305]:
+              - link "Contact us" [ref=e306] [cursor=pointer]:
+                - /url: /en/contact-us
+                - generic [ref=e307]: 
+                - text: Contact us
+      - generic [ref=e308]:
+        - generic [ref=e309]:
+          - img "Rolls-Royce Careers" [ref=e310]
+          - paragraph [ref=e312]: © Rolls‑Royce plc 2026. All rights reserved.
+        - generic [ref=e313]:
+          - list:
+            - listitem [ref=e314]:
+              - text: "|"
+              - link "Site map" [ref=e315] [cursor=pointer]:
+                - /url: /en/site-map
+            - listitem [ref=e316]:
+              - text: "|"
+              - link "Privacy statement" [ref=e317] [cursor=pointer]:
+                - /url: /en/site-services/privacy-statement
+            - listitem [ref=e318]:
+              - text: "|"
+              - link "Use of cookies" [ref=e319] [cursor=pointer]:
+                - /url: https://www.rolls-royce.com/site-services/use-of-cookies.aspx
+            - listitem [ref=e320]:
+              - text: "|"
+              - link "Cookie Settings" [ref=e321] [cursor=pointer]:
+                - /url: "##"
+            - listitem [ref=e322]:
+              - text: "|"
+              - link "Accessibility" [ref=e323] [cursor=pointer]:
+                - /url: https://www.rolls-royce.com/site-services/accessibility
+            - listitem [ref=e324]:
+              - link "Legal Information" [ref=e325] [cursor=pointer]:
+                - /url: https://www.rolls-royce.com/site-services/legal-information.aspx
+    - text: 
+  - img [ref=e326]

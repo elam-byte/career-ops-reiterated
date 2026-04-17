@@ -1,0 +1,806 @@
+- generic [ref=e1]:
+  - dialog "Ihre Datenschutz-Einstellungen" [active] [ref=e2]:
+    - generic [ref=e3]:
+      - link "Cookiebot von Usercentrics - öffnet in einem neuen Fenster" [ref=e6] [cursor=pointer]:
+        - /url: https://www.cookiebot.com/de/was-steckt-hinter-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2
+        - img [ref=e7]
+      - tablist [ref=e34]:
+        - tab "Zustimmung" [selected] [ref=e35] [cursor=pointer]
+        - tab "Details" [ref=e36] [cursor=pointer]
+        - tab "Über Cookies" [ref=e37] [cursor=pointer]
+      - tabpanel "Zustimmung" [ref=e39]:
+        - generic [ref=e41]:
+          - heading "Ihre Datenschutz-Einstellungen" [level=2] [ref=e42]
+          - generic [ref=e43]:
+            - paragraph [ref=e44]: Deloitte setzt Cookies ein, um die einwandfreie Funktion unserer Webseite zu gewährleisten, statistische Analysen zur Optimierung unserer Webseite durchzuführen und zusammen mit Drittanbietern Inhalte und Werbung zu personalisieren.
+            - paragraph [ref=e45]:
+              - text: Wenn Sie auf
+              - strong [ref=e46]: "\"Optionale Cookies akzeptieren\""
+              - text: klicken, stimmen Sie der Platzierung dieser Cookies auf Ihrem Gerät zu. Sie können diese Cookies jederzeit ablehnen oder verwalten, indem Sie auf
+              - strong [ref=e47]: "\"Cookie-Einstellungen\""
+              - text: klicken. Je nach den von Ihnen gewählten Cookie-Präferenzen kann es sein, dass die volle Funktionalität oder das personalisierte Nutzererlebnis dieser Website nicht zur Verfügung stehen.
+            - paragraph [ref=e48]: Darüber hinaus willigen Sie gem. Art. 49 Abs. 1 DSGVO ein, dass auch Anbieter in den USA Ihre Daten verarbeiten. In diesem Fall ist es möglich, dass die übermittelten Daten durch lokale Behörden verarbeitet werden.
+            - paragraph [ref=e49]:
+              - text: Weitere Informationen finden Sie im
+              - link "Cookie-Hinweis" [ref=e50] [cursor=pointer]:
+                - /url: https://www2.deloitte.com/de/de/legal/cookies.html
+              - text: .
+        - group "Einwilligungsauswahl" [ref=e57]:
+          - generic [ref=e58]: Einwilligungsauswahl
+          - generic [ref=e59]:
+            - generic [ref=e60]:
+              - strong [ref=e62]: Unbedingt erforderliche Cookies
+              - generic [ref=e63]:
+                - checkbox "Unbedingt erforderliche Cookies" [checked] [disabled]
+            - generic [ref=e64]:
+              - strong [ref=e66] [cursor=pointer]: Funktionale Cookies
+              - switch "Funktionale Cookies" [ref=e68] [cursor=pointer]
+            - generic [ref=e69]:
+              - strong [ref=e71] [cursor=pointer]: Performance Cookies
+              - switch "Performance Cookies" [ref=e73] [cursor=pointer]
+            - generic [ref=e74]:
+              - strong [ref=e76] [cursor=pointer]: Cookies für Marketingzwecke
+              - switch "Cookies für Marketingzwecke" [ref=e78] [cursor=pointer]
+      - generic [ref=e82]:
+        - button "Nur erforderliche Cookies setzen" [ref=e83] [cursor=pointer]
+        - button "Alle Cookies akzeptieren" [ref=e84] [cursor=pointer]
+  - banner [ref=e86]:
+    - navigation "Mobile Hauptnavigation" [ref=e87]:
+      - generic [ref=e88]:
+        - link "Jobsuche Deloitte" [ref=e90] [cursor=pointer]:
+          - /url: https://www.deloitte.com/de/de/careers.html
+          - img "Jobsuche Deloitte" [ref=e91]
+        - button "Hauptmenü öffnen" [ref=e93] [cursor=pointer]:
+          - img [ref=e94]
+  - main [ref=e99]:
+    - img "A career built around" [ref=e102]
+    - list "Sprunglinks" [ref=e105]:
+      - listitem "Zum Abschnitt Stellenanzeige springen" [ref=e106] [cursor=pointer]: Stellenanzeige
+      - listitem "Zum Abschnitt Ähnliche Jobs springen" [ref=e107] [cursor=pointer]: Ähnliche Jobs
+      - listitem "Zum Abschnitt Video springen" [ref=e108] [cursor=pointer]: Video
+      - listitem "Zum Abschnitt Events springen" [ref=e109] [cursor=pointer]: Events
+    - navigation "Breadcrumb-Navigation" [ref=e110]:
+      - link "Zurück zur Suche" [ref=e111] [cursor=pointer]:
+        - /url: /
+        - img [ref=e112]
+        - generic [ref=e115]: Zurück zur Suche
+      - text: "|"
+      - link "Advisory" [ref=e116] [cursor=pointer]:
+        - /url: /advisory-jobs_-bu12
+    - generic [ref=e118]:
+      - generic [ref=e119]:
+        - generic [ref=e123]:
+          - heading "Agile Projektmanager Softwareentwicklung / öffentlicher Sektor (m/w/d)" [level=1] [ref=e124]
+          - generic [ref=e125]:
+            - paragraph [ref=e126]:
+              - text: Du willst im Bereich
+              - strong [ref=e127]: Strategy, Risk & Transactions – Advisory – Digital Risk
+              - text: unsere
+              - strong [ref=e128]
+              - text: "Kunden dabei unterstützen, digitale Risiken in Chancen zu verwandeln? Unser Team entwickelt innovative Services, um digitale Risiken zu reduzieren, Bedrohungen zu vermeiden und das Wachstum unserer Mandanten durch eine risikovermeidende Digitalisierung zu fördern. Sichere unseren gemeinsamen Erfolg und mach mit uns den Unterschied: als"
+              - strong [ref=e129]: Agile Projektmanager Softwareentwicklung / öffentlicher Sektor (m/w/d).
+            - paragraph [ref=e130]:
+              - text: "Standorte:"
+              - strong [ref=e131]: Berlin
+              - strong [ref=e132]: ", Frankfurt (Main)"
+              - strong [ref=e133]: und Leipzig
+              - text: .
+        - generic [ref=e134]:
+          - generic [ref=e138]:
+            - heading "Dein Impact:" [level=3] [ref=e139]
+            - generic [ref=e140]:
+              - paragraph [ref=e141]:
+                - text: Als
+                - strong [ref=e142]: Agile Projektmanager Softwareentwicklung / öffentlicher Sektor (m/w/d)
+                - text: übernimmst du herausfordernde Steuerungsaufgaben in agilen Softwareentwicklungsprojekten.
+              - list [ref=e143]:
+                - listitem [ref=e144]:
+                  - strong [ref=e145]: "Steuerung:"
+                  - text: Du übernimmst die Verantwortung für die erfolgreiche Umsetzung von Softwareentwicklungsprojekten oder Teilprojekten auf Basis agiler Methoden.
+                - listitem [ref=e146]:
+                  - strong [ref=e147]: "Interdisziplinäre Zusammenarbeit:"
+                  - text: Durch eine enge Zusammenarbeit mit den verschiedenen Teams aus dem Projekt bzw. dem Betrieb stellst du eine effektive Kommunikation und Koordination sicher.
+                - listitem [ref=e148]:
+                  - strong [ref=e149]: "Anforderungsanalyse und Lösungskonzeption:"
+                  - text: Kundenanforderungen analysierst und verstehst du im Detail und unterstützt damit bei der Erstellung der Lösungskonzepte.
+                - listitem [ref=e150]:
+                  - strong [ref=e151]: "Kommunikation:"
+                  - text: Die Pflege einer engen Kommunikation mit Kunden und Stakeholdern ermöglicht dir eine angemessene Berücksichtigung ihrer Bedürfnisse und Erwartungen im Projektverlauf.
+                - listitem [ref=e152]:
+                  - strong [ref=e153]: "Qualität und Termintreue:"
+                  - text: Du gewährleistest mit deinen Teams eine kontinuierlich hohe Qualität und sorgst für eine termingerechte Umsetzung.
+          - generic [ref=e157]:
+            - heading "Dein Skillset:" [level=3] [ref=e158]
+            - list [ref=e160]:
+              - listitem [ref=e161]:
+                - strong [ref=e162]: Abschluss eines MINT-Studiengangs
+                - text: oder eine vergleichbare Ausbildung und mindestens 2 Jahre Berufserfahrung im Bereich Softwareentwicklung
+              - listitem [ref=e163]:
+                - strong [ref=e164]: Ausgeprägtes Verständnis
+                - text: des Ablaufs komplexer Softwareentwicklungsprojekte und der Aktivitäten im Software Development Lifecycle (SDLC)
+              - listitem [ref=e165]:
+                - strong [ref=e166]: Erfahrung
+                - text: mit agilen Softwareentwicklungsprozessen, idealerweise ist eine SAFe-Zertifizierung vorhanden.
+              - listitem [ref=e167]:
+                - strong [ref=e168]: Teamfähigkeit
+                - text: und Kommunikationsstärke sowie eine selbständige und strukturierte Arbeitsweise
+              - listitem [ref=e169]:
+                - strong [ref=e170]: Deutsch und Englisch
+                - text: sehr gut in Wort und Schrift. Reisebereitschaft ist nicht erforderlich.
+          - generic [ref=e174]:
+            - heading "Deine Chance:" [level=3] [ref=e175]
+            - list [ref=e177]:
+              - listitem [ref=e178]:
+                - strong [ref=e179]: Best-in-class Weiterbildung
+                - text: an der Deloitte University sowie im Rahmen individueller Qualifikationsangebote und Trainings
+              - listitem [ref=e180]:
+                - strong [ref=e181]: Umfassende Entwicklungschancen
+                - text: durch strukturierte Karriereplanung, Inclusive Leadership, Entsendungsprogramme, projektbasierte Job-Rotation sowie Förderung sozialen Engagements und Corporate Volunteering
+              - listitem [ref=e182]:
+                - strong [ref=e183]: Vereinbarkeit von Beruf & Familie
+                - text: dank Mobile Working & Teilzeit, Sabbaticals und Familienservice, z. B. zur Unterstützung für pflegende Angehörige, Elternzeit-Beratung und vielem mehr
+              - listitem [ref=e184]:
+                - strong [ref=e185]: Gesundheit & Fitness im Fokus
+                - text: durch regelmäßige Gesundheitstage, Kooperationen mit Fitness-Anbietern und die Unterstützung von Sport- und Teamevents
+              - listitem [ref=e186]:
+                - strong [ref=e187]: Attraktive Arbeitgeberleistungen
+                - text: inklusive Bike- und Pkw-Leasing, Firmen-Smartphone zur privaten Nutzung sowie flexiblen Arbeitsmodellen wie z. B. Vertrauensarbeitszeit und EU Remote Working
+              - listitem [ref=e188]:
+                - strong [ref=e189]: Vielfältige Gestaltungsräume
+                - text: und
+                - strong [ref=e190]: aktive Förderung
+                - text: einer inklusiven Unternehmenskultur - u. a. durch unsere Diversity & Inclusion Mitarbeiter:innen-Netzwerke
+      - generic [ref=e192]:
+        - heading "Job Visitenkarte" [level=2] [ref=e193]
+        - generic [ref=e194]:
+          - generic [ref=e195]: Agile Projektmanager Softwareentwicklung / öffentlicher Sektor (m/w/d)
+          - generic [ref=e196]:
+            - heading "JOB-ID:" [level=3] [ref=e197]
+            - generic [ref=e198]: "48488"
+          - generic [ref=e199]:
+            - heading "STANDORT" [level=3] [ref=e200]
+            - list [ref=e201]:
+              - listitem [ref=e202]:
+                - link "Berlin," [ref=e204] [cursor=pointer]:
+                  - /url: /jobs-in-berlin-_c2
+              - listitem [ref=e205]:
+                - link "Leipzig," [ref=e207] [cursor=pointer]:
+                  - /url: /jobs-in-leipzig-_c9
+              - listitem [ref=e208]:
+                - link "Frankfurt (Main)" [ref=e210] [cursor=pointer]:
+                  - /url: /jobs-in-frankfurt-_c5
+          - generic [ref=e211]:
+            - heading "JOBART" [level=3] [ref=e212]
+            - generic [ref=e213]: Vollzeit
+          - generic [ref=e214]:
+            - heading "KEYWORDS" [level=3] [ref=e215]
+            - list [ref=e216]:
+              - listitem [ref=e217]:
+                - link "Berufserfahrene" [ref=e218] [cursor=pointer]:
+                  - /url: /search?jobtypecluster=2
+              - listitem [ref=e219]:
+                - link "Advisory" [ref=e220] [cursor=pointer]:
+                  - /url: /search?job_function=15
+              - listitem [ref=e221]:
+                - link "Digital Risk" [ref=e222] [cursor=pointer]:
+                  - /url: /search?industry=Digital%20Risk
+          - generic [ref=e223]:
+            - heading "GESCHÄFTSBEREICH" [level=3] [ref=e224]
+            - generic [ref=e225]:
+              - text: Lerne den Geschäftsbereich
+              - link "Advisory" [ref=e226] [cursor=pointer]:
+                - /url: /advisory-jobs_-bu12
+              - text: kennen.
+          - generic [ref=e227]:
+            - heading "ZIELGRUPPE" [level=3] [ref=e228]
+            - generic [ref=e229]:
+              - text: Finde heraus, welche Möglichkeiten wir für
+              - link "Berufserfahrene" [ref=e230] [cursor=pointer]:
+                - /url: /berufserfahrene-_jtc1
+              - text: bieten.
+          - generic [ref=e231]:
+            - heading "DIESEN JOB TEILEN" [level=3] [ref=e232]
+            - list [ref=e233]:
+              - listitem [ref=e234]:
+                - link "Diesen Job über Facebook teilen" [ref=e235] [cursor=pointer]:
+                  - /url: https://www.facebook.com/sharer/sharer.php?u=https://job.deloitte.com/job-agile-projektmanager-softwareentwicklung-oeffentlicher-sektor-mwd-_48488%3Futm_source=facebook%26utm_medium=social-job-link%26utm_content=
+                  - img [ref=e236]
+              - listitem [ref=e238]:
+                - link "Diesen Job über LinkedIn teilen" [ref=e239] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/sharing/share-offsite/?url=https://job.deloitte.com/job-agile-projektmanager-softwareentwicklung-oeffentlicher-sektor-mwd-_48488%3Futm_source=linkedin%26utm_medium=social-job-link%26utm_content=
+                  - img [ref=e240]
+              - listitem [ref=e242]:
+                - link "Diesen Job per Mail teilen" [ref=e243] [cursor=pointer]:
+                  - /url: mailto:?subject=Toller Job bei Deloitte&body=Hallo , %0D%0Aschau dir mal diesen Job an:%0D%0Ahttps://job.deloitte.com/job-agile-projektmanager-softwareentwicklung-oeffentlicher-sektor-mwd-_48488
+                  - img [ref=e244]
+    - generic [ref=e248]:
+      - generic [ref=e250]:
+        - heading "Bist du bereit? Mach mit uns den Unterschied!" [level=2] [ref=e251]
+        - paragraph [ref=e253]: Unser Recruiting-Team freut sich auf deine Bewerbungsunterlagen (CV sowie Abitur-, Hochschul- und Arbeitszeugnisse) über unser Online-Formular. Ein Anschreiben und ein Bewerbungsfoto sind bei uns nicht erforderlich.
+        - generic [ref=e254]:
+          - paragraph [ref=e255]:
+            - text: "Gleiche Chancen für alle: Wir freuen uns über Bewerbungen von Menschen, die so vielfältig sind wie wir – unabhängig von Alter, Behinderung, ethnischer Herkunft und Nationalität, Geschlecht, Religion, sexueller Orientierung oder sozialer Herkunft. Noch Fragen? Alle Infos zu unserem Bewerbungsprozess findest du in unseren"
+            - link "Bewerbungs-FAQs" [ref=e256] [cursor=pointer]:
+              - /url: /bewerbung/faq
+            - text: .
+          - paragraph [ref=e257]: "Bewerbungsfrist: Solange der Job angezeigt wird, kannst du dich schnell und bequem online bewerben. Jobs werden häufig an verschiedenen Standorten mehrfach besetzt und du kannst flexibel jeden Monat beginnen - sofern nicht im Stellentext genannt, gibt es keinen Bewerbungsschluss."
+      - generic [ref=e259]:
+        - button "Internationales Arbeitsumfeld - Akkordeon öffnen/schließen" [ref=e261] [cursor=pointer]:
+          - generic [ref=e263]: Internationales Arbeitsumfeld
+          - img [ref=e265]
+        - button "Weiterbildungs-Programme - Akkordeon öffnen/schließen" [ref=e269] [cursor=pointer]:
+          - generic [ref=e271]: Weiterbildungs-Programme
+          - img [ref=e273]
+        - button "Kollegiale Arbeitsatmosphäre - Akkordeon öffnen/schließen" [ref=e277] [cursor=pointer]:
+          - generic [ref=e279]: Kollegiale Arbeitsatmosphäre
+          - img [ref=e281]
+        - button "Remote Work - Akkordeon öffnen/schließen" [ref=e285] [cursor=pointer]:
+          - generic [ref=e287]: Remote Work
+          - img [ref=e289]
+    - generic [ref=e293]:
+      - heading "Job Matching" [level=2] [ref=e294]
+      - generic [ref=e295]:
+        - paragraph [ref=e296]: Du bist dir nicht sicher, ob die Stelle zu dir passt?
+        - paragraph [ref=e297]: "Finde es heraus: Lade deinen Lebenslauf hoch und lass dir passende Stellen vorschlagen."
+      - link "Nutze unser Job Matching" [ref=e299] [cursor=pointer]:
+        - /url: https://de-job.deloitte.com/careers?sort_by=relevance&hl=de&hrm_action=uploadresume&utm_campaign=B0BY5OFZ
+        - text: Nutze unser
+        - generic [ref=e300]: Job Matching
+    - generic [ref=e301]:
+      - generic [ref=e305]:
+        - heading "Gemeinsam zum Ziel" [level=2] [ref=e306]
+        - generic [ref=e307]:
+          - paragraph [ref=e308]: Wir suchen engagierte Fachleute mit Leidenschaft für ihren Beruf und dem Ehrgeiz, sich weiterzuentwickeln. Mithilfe der folgenden Schritte versuchen wir, so viel wie möglich über dich und deine Kenntnisse und Fähigkeiten herauszufinden. Der Personalverantwortliche wird dich durch diesen Prozess leiten.
+          - paragraph [ref=e309]: Wir freuen uns auf deine Bewerbung. Bei Deloitte heißen wir jede:n willkommen, der Qualität und Ehrgeiz mitbringt.
+      - generic [ref=e310]:
+        - generic [ref=e313]:
+          - img [ref=e315]
+          - generic [ref=e324]:
+            - heading "Unser Bewerbungsprozess" [level=3] [ref=e325]
+            - generic [ref=e326]: Wir verraten dir, wie du dich am besten vorbereiten und was du bei deiner Bewerbung beachten solltest.
+          - link "Erfahre hier mehr" [ref=e328] [cursor=pointer]:
+            - /url: /bewerbung/bewerbungsprozess
+            - text: Erfahre hier mehr
+            - img [ref=e329]
+        - generic [ref=e334]:
+          - img [ref=e336]
+          - generic [ref=e342]:
+            - heading "Du hast noch Fragen?" [level=3] [ref=e343]
+            - generic [ref=e344]: Hier findest du unsere Bewerbungs-FAQs, in denen häufig gestellte Fragen direkt beantwortet werden.
+          - link "Bewerbungs-FAQs" [ref=e346] [cursor=pointer]:
+            - /url: /bewerbung/faq
+            - text: Bewerbungs-FAQs
+            - img [ref=e347]
+    - generic [ref=e351]:
+      - list [ref=e353]:
+        - listitem [ref=e354]:
+          - link "Ähnliche Jobs" [ref=e355] [cursor=pointer]:
+            - /url: "#tab-1"
+        - listitem [ref=e356]:
+          - link "Zuletzt angesehene Jobs" [ref=e357] [cursor=pointer]:
+            - /url: "#tab-2"
+        - listitem [ref=e358]:
+          - link "Deine Favoriten" [ref=e359] [cursor=pointer]:
+            - /url: "#tab-3"
+      - generic [ref=e362]:
+        - heading "Unsere Auswahl aus 6 Jobs für dich" [level=2] [ref=e364]
+        - region "Karussell mit Job-Angeboten" [ref=e366]:
+          - button "Vorherige Ansicht" [ref=e367] [cursor=pointer]:
+            - img [ref=e368]
+          - group "Karussell-Slides" [ref=e371]:
+            - group "Slide 1 von 3" [ref=e372]:
+              - list [ref=e373]:
+                - listitem [ref=e374]:
+                  - generic [ref=e375]:
+                    - generic [ref=e376]:
+                      - heading "Cloud Engineer Softwareentwicklung / öffentlicher Sektor (m/w/d)" [level=3] [ref=e377]:
+                        - link "Cloud Engineer Softwareentwicklung / öffentlicher Sektor (m/w/d)" [ref=e378] [cursor=pointer]:
+                          - /url: /job-cloud-engineer-softwareentwicklung-oeffentlicher-sektor-mwd-_49000
+                      - generic [ref=e379]: Frankfurt (Main), Berlin, Leipzig
+                    - list [ref=e381]:
+                      - listitem [ref=e382]:
+                        - link "Filtert Ergebnisse nach Berufserfahrene" [ref=e383] [cursor=pointer]:
+                          - /url: /search?jobtypecluster=
+                          - text: Berufserfahrene
+                      - listitem [ref=e384]:
+                        - link "Filtert Ergebnisse nach Advisory" [ref=e385] [cursor=pointer]:
+                          - /url: /search?job_function=15
+                          - text: Advisory
+                      - listitem [ref=e386]:
+                        - link "Filtert Ergebnisse nach Digital Risk" [ref=e387] [cursor=pointer]:
+                          - /url: /search?industry=Digital%20Risk
+                          - text: Digital Risk
+                      - listitem [ref=e388]:
+                        - link "Filtert Ergebnisse nach Cloud" [ref=e389] [cursor=pointer]:
+                          - /url: /cloud-jobs-_pr16
+                          - text: Cloud
+              - list [ref=e390]:
+                - listitem [ref=e391]:
+                  - generic [ref=e392]:
+                    - generic [ref=e393]:
+                      - heading "(Senior) IT-Manager Software Engineering / Digitale Sicherheit (m/w/d)" [level=3] [ref=e394]:
+                        - link "(Senior) IT-Manager Software Engineering / Digitale Sicherheit (m/w/d)" [ref=e395] [cursor=pointer]:
+                          - /url: /job-senior-it-manager-software-engineering-digitale-sicherheit-mwd-_49101
+                      - generic [ref=e396]: München, Hamburg, Frankfurt (Main)
+                      - generic [ref=e397]: +2 weitere Standorte
+                    - list [ref=e399]:
+                      - listitem [ref=e400]:
+                        - link "Filtert Ergebnisse nach Berufserfahrene" [ref=e401] [cursor=pointer]:
+                          - /url: /search?jobtypecluster=
+                          - text: Berufserfahrene
+                      - listitem [ref=e402]:
+                        - link "Filtert Ergebnisse nach Advisory" [ref=e403] [cursor=pointer]:
+                          - /url: /search?job_function=15
+                          - text: Advisory
+                      - listitem [ref=e404]:
+                        - link "Filtert Ergebnisse nach Digital Risk" [ref=e405] [cursor=pointer]:
+                          - /url: /search?industry=Digital%20Risk
+                          - text: Digital Risk
+            - group [ref=e406]:
+              - list [ref=e407]:
+                - listitem [ref=e408]:
+                  - generic [ref=e409]:
+                    - generic [ref=e410]:
+                      - heading [level=3] [ref=e411]:
+                        - link [ref=e412] [cursor=pointer]:
+                          - /url: /job-senior-consultant-manager-it-projektmanagement-softwareentwicklung-mwd-_49042
+                          - text: Senior Consultant / Manager IT-Projektmanagement Softwareentwicklung (m/w/d)
+                      - generic [ref=e413]: Stuttgart, Nürnberg, München
+                      - generic [ref=e414]: +8 weitere Standorte
+                    - list [ref=e416]:
+                      - listitem [ref=e417]:
+                        - link [ref=e418] [cursor=pointer]:
+                          - /url: /search?jobtypecluster=
+                          - text: Berufserfahrene
+                      - listitem [ref=e419]:
+                        - link [ref=e420] [cursor=pointer]:
+                          - /url: /search?job_function=15
+                          - text: Advisory
+                      - listitem [ref=e421]:
+                        - link [ref=e422] [cursor=pointer]:
+                          - /url: /search?industry=Digital%20Risk
+                          - text: Digital Risk
+              - list [ref=e423]:
+                - listitem [ref=e424]:
+                  - generic [ref=e425]:
+                    - generic [ref=e426]:
+                      - heading [level=3] [ref=e427]:
+                        - link [ref=e428] [cursor=pointer]:
+                          - /url: /job-senior-product-owner-im-public-sektor-mwd-_49853
+                          - text: Senior Product Owner im Public Sektor (m/w/d)
+                      - generic [ref=e429]: Leipzig, Berlin, Frankfurt (Main)
+                    - list [ref=e431]:
+                      - listitem [ref=e432]:
+                        - link [ref=e433] [cursor=pointer]:
+                          - /url: /search?jobtypecluster=
+                          - text: Berufserfahrene
+                      - listitem [ref=e434]:
+                        - link [ref=e435] [cursor=pointer]:
+                          - /url: /search?job_function=15
+                          - text: Advisory
+                      - listitem [ref=e436]:
+                        - link [ref=e437] [cursor=pointer]:
+                          - /url: /search?industry=Digital%20Risk
+                          - text: Digital Risk
+                      - listitem [ref=e438]:
+                        - link [ref=e439] [cursor=pointer]:
+                          - /url: /business-technology-center-jobs-_pr15
+                          - text: Business & Technology Center
+                      - listitem [ref=e440]:
+                        - link [ref=e441] [cursor=pointer]:
+                          - /url: /public-services-jobs-_pr17
+                          - text: Public Services
+            - group [ref=e442]:
+              - list [ref=e443]:
+                - listitem [ref=e444]:
+                  - generic [ref=e445]:
+                    - generic [ref=e446]:
+                      - heading [level=3] [ref=e447]:
+                        - link [ref=e448] [cursor=pointer]:
+                          - /url: /job-senior-it-consultant-cloud-transformation-digital-risk-mwd-_49103
+                          - text: Senior IT-Consultant Cloud Transformation Digital Risk (m/w/d)
+                      - generic [ref=e449]: München, Hamburg, Frankfurt (Main)
+                      - generic [ref=e450]: +2 weitere Standorte
+                    - list [ref=e452]:
+                      - listitem [ref=e453]:
+                        - link [ref=e454] [cursor=pointer]:
+                          - /url: /search?jobtypecluster=
+                          - text: Berufserfahrene
+                      - listitem [ref=e455]:
+                        - link [ref=e456] [cursor=pointer]:
+                          - /url: /search?job_function=15
+                          - text: Advisory
+                      - listitem [ref=e457]:
+                        - link [ref=e458] [cursor=pointer]:
+                          - /url: /search?industry=Digital%20Risk
+                          - text: Digital Risk
+                      - listitem [ref=e459]:
+                        - link [ref=e460] [cursor=pointer]:
+                          - /url: /cloud-jobs-_pr16
+                          - text: Cloud
+              - list [ref=e461]:
+                - listitem [ref=e462]:
+                  - generic [ref=e463]:
+                    - generic [ref=e464]:
+                      - heading [level=3] [ref=e465]:
+                        - link [ref=e466] [cursor=pointer]:
+                          - /url: /job-senior-consultant-ma-it-post-merger-integration-carve-out-mwd-_48507
+                          - text: Senior Consultant M&A IT - Post-Merger-Integration & Carve-out (m/w/d)
+                      - generic [ref=e467]: Berlin, Düsseldorf, Stuttgart
+                      - generic [ref=e468]: +4 weitere Standorte
+                    - list [ref=e470]:
+                      - listitem [ref=e471]:
+                        - link [ref=e472] [cursor=pointer]:
+                          - /url: /search?jobtypecluster=
+                          - text: Berufserfahrene
+                      - listitem [ref=e473]:
+                        - link [ref=e474] [cursor=pointer]:
+                          - /url: /search?job_function=15
+                          - text: Advisory
+                      - listitem [ref=e475]:
+                        - link [ref=e476] [cursor=pointer]:
+                          - /url: /search?industry=M%26A
+                          - text: M&A
+                      - listitem [ref=e477]:
+                        - link [ref=e478] [cursor=pointer]:
+                          - /url: /mergers-and-acquisitions-jobs-_pr3
+                          - text: Mergers and Acquisitions
+          - button "Nächste Ansicht" [ref=e479] [cursor=pointer]:
+            - img [ref=e480]
+        - group "Karussell-Navigation - Seite auswählen" [ref=e483]:
+          - button "Aktuelle Seite 1 von 3" [ref=e484] [cursor=pointer]
+          - button "Zu Seite 2 von 3 wechseln" [ref=e485] [cursor=pointer]
+          - button "Zu Seite 3 von 3 wechseln" [ref=e486] [cursor=pointer]
+        - button "alle Jobs zeigen" [ref=e488] [cursor=pointer]
+    - generic [ref=e490]:
+      - heading "A career built around you" [level=2] [ref=e491]
+      - generic [ref=e493]:
+        - img [ref=e495]
+        - generic [ref=e500]: Wir haben noch mehr Insights für dich
+        - generic [ref=e501]: Um dieses Video und ähnliche Inhalte anzusehen, ändere bitte deine Cookie-Einstellungen
+        - link "Cookie-Einstellungen" [ref=e503] [cursor=pointer]:
+          - /url: javascript:Cookiebot.renew()
+    - generic [ref=e505]:
+      - generic [ref=e506]:
+        - heading "Was dich im Advisory erwartet" [level=2] [ref=e507]
+        - paragraph [ref=e509]: Wenn Unternehmen vor großen Veränderungen stehen, bist du gefragt. Im Bereich Strategy, Risk & Transactions im Advisory bei Deloitte entwickelst du Lösungen für komplexe Herausforderungen – strategisch, analytisch und nachhaltig.
+      - region "Karussell mit Insights" [ref=e511]:
+        - button "Vorherige Ansicht" [ref=e512] [cursor=pointer]:
+          - img [ref=e513]
+        - group "Karussell-Slides" [ref=e516]:
+          - group "Slide 1 von 6" [ref=e517]:
+            - generic [ref=e519]:
+              - generic [ref=e520]:
+                - generic:
+                  - img "Portrait von Merlin Smeenk, Jobcast-Testimonial"
+                - generic [ref=e522]:
+                  - blockquote [ref=e525]:
+                    - paragraph [ref=e526]: "Wie begleitet man ein Unternehmen durch die Insolvenz, ohne die Menschen dahinter aus dem Blick zu verlieren? Merlin erzählt, wie er mit seinem Team einen Bike-Hersteller vom ersten Pitch bis zum erfolgreichen Verkauf unterstützt hat – immer mit dem Fokus auf die Sorgen und Wünsche der Mitarbeitenden. Gerade in herausfordernden Situationen zählt mehr als Zahlen: Rücksicht nehmen, vor Ort sein, zuhören und eine Atmosphäre schaffen, in der echte Perspektiven entstehen."
+                  - generic [ref=e527]:
+                    - button "Abspielen" [ref=e529] [cursor=pointer]:
+                      - img [ref=e530]
+                    - generic [ref=e533]:
+                      - generic [ref=e534]: 0:00
+                      - generic [ref=e537]: 2:00
+                  - generic [ref=e539]:
+                    - generic [ref=e540]: Merlin
+                    - generic [ref=e541]: Turnaround & Restructuring
+                    - generic [ref=e542]: Director
+              - button "Transkript" [ref=e544] [cursor=pointer]:
+                - heading "Transkript" [level=3] [ref=e545]
+                - img [ref=e547]
+          - group [ref=e550]:
+            - generic [ref=e552]:
+              - generic [ref=e555]:
+                - blockquote [ref=e558]:
+                  - paragraph [ref=e559]: Welchen Herausforderungen müssen sich Banken stellen, wenn sich das Marktumfeld verändert? Diese Frage hat Anne fasziniert - und heute ist sie aktiv dabei, die Antworten zu gestalten. Als Senior Managerin im Bereich Restructuring Services unterstützt sie Banken bei Transformationen und komplexen Kreditportfoliotransaktionen - von der Strategie bis zum Verkauf. Hör rein in Annes Jobcast und erfahre mehr über spannende Transaktionsprozesse, intensive Investorengespräche und was sie besonders an Deloitte schätzt.
+                - generic [ref=e560]:
+                  - button [ref=e562] [cursor=pointer]:
+                    - img [ref=e563]
+                  - generic [ref=e566]:
+                    - generic [ref=e567]: 0:00
+                    - generic [ref=e570]: 2:00
+                - generic [ref=e572]:
+                  - generic [ref=e573]: Anne
+                  - generic [ref=e574]: Financial Services Industry
+                  - generic [ref=e575]: Senior Managerin
+              - button [ref=e577] [cursor=pointer]:
+                - heading [level=3] [ref=e578]: Transkript
+                - img [ref=e580]
+          - group [ref=e583]:
+            - generic [ref=e585]:
+              - generic [ref=e588]:
+                - blockquote [ref=e591]:
+                  - paragraph [ref=e592]: "Wie sieht die Zukunft der Sparkassen aus? Wie gelingt digitale Transformation? Lea gibt im Jobcast Einblicke in ihre Arbeit mit Sparkassen und der Sparkassen-Finanzgruppe: Strategien entwickeln, Mitarbeitende einbinden, Veränderung gestalten. Sie zeigt, wie wichtig zwischenmenschliche Beziehungen, Empathie und aktives Zuhören in der Beratung sind – und wie zunehmend Verständnis für die Vereinbarkeit von Familie und Beruf gelebt wird."
+                - generic [ref=e593]:
+                  - button [ref=e595] [cursor=pointer]:
+                    - img [ref=e596]
+                  - generic [ref=e599]:
+                    - generic [ref=e600]: 0:00
+                    - generic [ref=e603]: 0:00
+                - generic [ref=e605]:
+                  - generic [ref=e606]: Lea
+                  - generic [ref=e607]: Financial Services Industry
+                  - generic [ref=e608]: Director
+              - button [ref=e610] [cursor=pointer]:
+                - heading [level=3] [ref=e611]: Transkript
+                - img [ref=e613]
+          - group [ref=e616]:
+            - generic [ref=e618]:
+              - generic [ref=e621]:
+                - blockquote [ref=e624]:
+                  - paragraph [ref=e625]: Was macht eigentlich eine Aktuarin? Lilian erklärt es dir in 2 Minuten und verrät dir außerdem, warum Deloitte genau der richtige Arbeitgeber ist, um als Versicherungsmathematikerin durchzustarten.
+                - generic [ref=e626]:
+                  - button [ref=e628] [cursor=pointer]:
+                    - img [ref=e629]
+                  - generic [ref=e632]:
+                    - generic [ref=e633]: 0:00
+                    - generic [ref=e636]: 2:00
+                - generic [ref=e638]:
+                  - generic [ref=e639]: Lilian
+                  - generic [ref=e640]: Actuarial & Insurance Services
+                  - generic [ref=e641]: Senior Managerin
+              - button [ref=e643] [cursor=pointer]:
+                - heading [level=3] [ref=e644]: Transkript
+                - img [ref=e646]
+          - group [ref=e649]:
+            - generic [ref=e651]:
+              - generic [ref=e654]:
+                - blockquote [ref=e657]:
+                  - paragraph [ref=e658]: Sarah hilft Unternehmen im Bereich Turnaround & Restructuring in Krisensituationen. Was sie bei ihren Projekten schon alles gelernt hat, was für sie ein gutes Team ausmacht und an welchen spannenden Themen sie arbeitet, erfährst du im Jobcast.
+                - generic [ref=e659]:
+                  - button [ref=e661] [cursor=pointer]:
+                    - img [ref=e662]
+                  - generic [ref=e665]:
+                    - generic [ref=e666]: 0:00
+                    - generic [ref=e669]: 2:00
+                - generic [ref=e671]:
+                  - generic [ref=e672]: Sarah
+                  - generic [ref=e673]: Turnaround & Restructuring
+                  - generic [ref=e674]: Managerin
+              - button [ref=e676] [cursor=pointer]:
+                - heading [level=3] [ref=e677]: Transkript
+                - img [ref=e679]
+          - group [ref=e682]:
+            - generic [ref=e684]:
+              - generic [ref=e687]:
+                - blockquote [ref=e690]:
+                  - paragraph [ref=e691]: Du willst Kunden ganzheitlich entlang des M&A Deal Cycle begleiten? Saskia berät Mandanten bei der Umsetzung komplexer M&A-Transaktionen mit Fokus auf Change Kommunikation & Management. Hör rein und erfahre mehr!
+                - generic [ref=e692]:
+                  - button [ref=e694] [cursor=pointer]:
+                    - img [ref=e695]
+                  - generic [ref=e698]:
+                    - generic [ref=e699]: 0:00
+                    - generic [ref=e702]: 1:00
+                - generic [ref=e704]:
+                  - generic [ref=e705]: Saskia
+                  - generic [ref=e706]: M&A
+                  - generic [ref=e707]: Managerin
+              - button [ref=e709] [cursor=pointer]:
+                - heading [level=3] [ref=e710]: Transkript
+                - img [ref=e712]
+        - button "Nächste Ansicht" [ref=e715] [cursor=pointer]:
+          - img [ref=e716]
+      - group "Karussell-Navigation - Seite auswählen" [ref=e719]:
+        - button "Aktuelle Seite 1 von 6" [ref=e720] [cursor=pointer]
+        - button "Zu Seite 2 von 6 wechseln" [ref=e721] [cursor=pointer]
+        - button "Zu Seite 3 von 6 wechseln" [ref=e722] [cursor=pointer]
+        - button "Zu Seite 4 von 6 wechseln" [ref=e723] [cursor=pointer]
+        - button "Zu Seite 5 von 6 wechseln" [ref=e724] [cursor=pointer]
+        - button "Zu Seite 6 von 6 wechseln" [ref=e725] [cursor=pointer]
+    - generic [ref=e728]:
+      - 'img "Gruppenfoto der Talent Acquisition Teamleads bei Deloitte: Karolin, Lea, Anja, Julia, Silja, Jakob" [ref=e730]'
+      - generic [ref=e731]:
+        - generic [ref=e734]:
+          - heading "Team Talent Acquisition Aleksandra, Lea, Anja, Julia, Silja, Lisa und ihre Teams stehen dir bei Fragen gerne zur Verfügung." [level=3] [ref=e735]:
+            - text: Team Talent Acquisition
+            - text: Aleksandra, Lea, Anja, Julia, Silja, Lisa und ihre Teams stehen dir bei Fragen gerne zur Verfügung.
+          - heading "Dein Kontakt bei Fragen rund um Karrierethemen Wir freuen uns, von dir zu hören! Bitte bewirb dich aus Datenschutzgründen ausschließlich über unser Online-Bewerbungssystem via des Buttons \"Jetzt bewerben\". Bewerbungen via E-Mail können wir leider nicht berücksichtigen." [level=3] [ref=e736]:
+            - text: Dein Kontakt bei Fragen rund um Karrierethemen
+            - text: Wir freuen uns, von dir zu hören! Bitte bewirb dich aus Datenschutzgründen ausschließlich über unser Online-Bewerbungssystem via des Buttons "Jetzt bewerben". Bewerbungen via E-Mail können wir leider nicht berücksichtigen.
+        - list [ref=e738]:
+          - listitem [ref=e739]:
+            - link "career@deloitte.de" [ref=e740] [cursor=pointer]:
+              - /url: mailto:career@deloitte.de
+              - generic [ref=e741]: career@deloitte.de
+              - img [ref=e743]
+          - listitem [ref=e746]:
+            - link "+49 211 87724111" [ref=e747] [cursor=pointer]:
+              - /url: tel:+49 211 87724111
+              - generic [ref=e748]: +49 211 87724111
+              - img [ref=e750]
+    - generic [ref=e757]:
+      - heading "Making an impact that matters." [level=2] [ref=e758]
+      - generic [ref=e759]:
+        - paragraph [ref=e760]: Deloitte bietet führende Prüfungs- und Beratungsleistungen in den Bereichen Audit & Assurance, Tax & Legal, Consulting und Advisory für nahezu 90% der Fortune Global 500®-Unternehmen und Tausende von privaten Unternehmen an. Wir liefern innovative Denkansätze, lösen komplexe Herausforderungen und ermöglichen nachhaltiges Wachstum. Gleichzeitig eröffnen wir hervorragende Karrierechancen für unsere rund 470.000 Mitarbeitenden weltweit. Ganz gleich, ob BWL oder MINT – Diversity fördert Innovation durch unterschiedliche Sichtweisen und Charaktere. Die Zeiten, bei Deloitte einzusteigen, waren nie spannender.
+        - paragraph [ref=e761]:
+          - strong [ref=e762]: Mach mit uns den Unterschied!
+    - generic [ref=e765]:
+      - heading "Entdecke weitere Jobs" [level=2] [ref=e766]
+      - generic [ref=e767]:
+        - generic [ref=e768]:
+          - heading "Unsere Top Trends" [level=3] [ref=e770]
+          - list [ref=e771]:
+            - listitem [ref=e772]:
+              - link "Accounting Jobs" [ref=e773] [cursor=pointer]:
+                - /url: /accounting-ifrs-jobs-_pr22
+            - listitem [ref=e774]:
+              - link "Automotive Jobs" [ref=e775] [cursor=pointer]:
+                - /url: /automotive-jobs-_pr6
+            - listitem [ref=e776]:
+              - link "Bank Jobs" [ref=e777] [cursor=pointer]:
+                - /url: /banking-jobs-_pr164
+            - listitem [ref=e778]:
+              - link "Cloud Jobs" [ref=e779] [cursor=pointer]:
+                - /url: /cloud-jobs-_pr16
+            - listitem [ref=e780]:
+              - link "Cyber Security Jobs" [ref=e781] [cursor=pointer]:
+                - /url: /cyber-security-jobs-_pr24
+            - listitem [ref=e782]:
+              - link "Data & Analytics Jobs" [ref=e783] [cursor=pointer]:
+                - /url: /ai-data-analytics-jobs-_pr1
+            - listitem [ref=e784]:
+              - link "Mathematiker Jobs (m/w/d)" [ref=e785] [cursor=pointer]:
+                - /url: /mathematiker-jobs-_pr4
+            - listitem [ref=e786]:
+              - link "Mergers & Acquisition Jobs" [ref=e787] [cursor=pointer]:
+                - /url: /mergers-and-acquisitions-jobs-_pr3
+            - listitem [ref=e788]:
+              - link "Restrukturierung Jobs" [ref=e789] [cursor=pointer]:
+                - /url: /restrukturierung-jobs-_pr25
+            - listitem [ref=e790]:
+              - link "Salesforce Jobs" [ref=e791] [cursor=pointer]:
+                - /url: /salesforce-jobs-_pr2
+            - listitem [ref=e792]:
+              - link "SAP Berater Jobs (m/w/d)" [ref=e793] [cursor=pointer]:
+                - /url: /sap-consultant-jobs-_pr23
+            - listitem [ref=e794]:
+              - link "Steuerberatung Jobs" [ref=e795] [cursor=pointer]:
+                - /url: /steuerberatung-jobs-_pr12
+            - listitem [ref=e796]:
+              - link "Sustainability Jobs" [ref=e797] [cursor=pointer]:
+                - /url: /sustainability-jobs-_pr19
+            - listitem [ref=e798]:
+              - link "Versicherung Jobs" [ref=e799] [cursor=pointer]:
+                - /url: /versicherung-jobs-_pr35
+            - listitem [ref=e800]:
+              - link "Wirtschaftsprüfer Jobs (m/w/d)" [ref=e801] [cursor=pointer]:
+                - /url: /wirtschaftspruefer-jobs-_pr8
+        - generic [ref=e802]:
+          - heading "Top Jobs" [level=3] [ref=e804]
+          - list [ref=e805]:
+            - listitem [ref=e806]:
+              - link "Aktuar Jobs (m/w/d)" [ref=e807] [cursor=pointer]:
+                - /url: /aktuar-jobs-_pr186
+            - listitem [ref=e808]:
+              - link "Auditor Jobs (m/w/d)" [ref=e809] [cursor=pointer]:
+                - /url: /auditor-jobs-_pr136
+            - listitem [ref=e810]:
+              - link "AWS Jobs" [ref=e811] [cursor=pointer]:
+                - /url: /aws-jobs-_pr46
+            - listitem [ref=e812]:
+              - link "Bilanzbuchhalter Jobs (m/w/d)" [ref=e813] [cursor=pointer]:
+                - /url: /bilanzbuchhalter-jobs-_pr96
+            - listitem [ref=e814]:
+              - link "Business Continuity Manager (m/w/d)" [ref=e815] [cursor=pointer]:
+                - /url: /business-continuity-manager-jobs-_pr134
+            - listitem [ref=e816]:
+              - link "Cloud Engineer Jobs (m/w/d)" [ref=e817] [cursor=pointer]:
+                - /url: /cloud-engineer-jobs-_pr163
+            - listitem [ref=e818]:
+              - link "Compliance Jobs" [ref=e819] [cursor=pointer]:
+                - /url: /compliance-jobs-_pr95
+            - listitem [ref=e820]:
+              - link "Consultant Finance (m/w/d)" [ref=e821] [cursor=pointer]:
+                - /url: /consultant-finance-jobs-_pr188
+            - listitem [ref=e822]:
+              - link "Controlling Jobs" [ref=e823] [cursor=pointer]:
+                - /url: /controlling-jobs-_pr38
+            - listitem [ref=e824]:
+              - link "DevOps Engineer Jobs (m/w/d)" [ref=e825] [cursor=pointer]:
+                - /url: /devops-engineer-jobs-_pr196
+            - listitem [ref=e826]:
+              - link "Diplom Finanzwirt Jobs (m/w/d)" [ref=e827] [cursor=pointer]:
+                - /url: /diplom-finanzwirt-steuerberatung-_ljp14
+            - listitem [ref=e828]:
+              - link "Energiewirtschaft Jobs" [ref=e829] [cursor=pointer]:
+                - /url: /energiewirtschaft-jobs-_pr192
+            - listitem [ref=e830]:
+              - link "HR Jobs" [ref=e831] [cursor=pointer]:
+                - /url: /hr-jobs-_pr45
+            - listitem [ref=e832]:
+              - link "Internal Audit Jobs" [ref=e833] [cursor=pointer]:
+                - /url: /internal-audit-jobs-_pr137
+            - listitem [ref=e834]:
+              - link "IT Jobs" [ref=e835] [cursor=pointer]:
+                - /url: /it-jobs-_pr44
+            - listitem [ref=e836]:
+              - link "Payroll Specialist Jobs (m/w/d)" [ref=e837] [cursor=pointer]:
+                - /url: /payroll-specialist-jobs-_pr175
+            - listitem [ref=e838]:
+              - link "Private Equity Jobs" [ref=e839] [cursor=pointer]:
+                - /url: /private-equity-jobs-_pr139
+            - listitem [ref=e840]:
+              - link "Projektmanager Jobs (m/w/d)" [ref=e841] [cursor=pointer]:
+                - /url: /projektmanagement-jobs-_pr50
+            - listitem [ref=e842]:
+              - link "Risk Manager Jobs (m/w/d)" [ref=e843] [cursor=pointer]:
+                - /url: /risk-manager-jobs-_pr135
+            - listitem [ref=e844]:
+              - link "Sachbearbeiter Jobs (m/w/d)" [ref=e845] [cursor=pointer]:
+                - /url: /sachbearbeiter-jobs-_pr49
+            - listitem [ref=e846]:
+              - link "Steuerfachangestellte Jobs (m/w/d)" [ref=e847] [cursor=pointer]:
+                - /url: /steuerfachangestellte-jobs-_pr43
+            - listitem [ref=e848]:
+              - link "Steuerfachwirt Jobs (m/w/d)" [ref=e849] [cursor=pointer]:
+                - /url: /steuerfachwirt-steuerfachangestellter-bilanzbuchhalter-_ljp10
+            - listitem [ref=e850]:
+              - link "Strategy Consultant Jobs (m/w/d)" [ref=e851] [cursor=pointer]:
+                - /url: /strategy-consultant-jobs-_pr197
+            - listitem [ref=e852]:
+              - link "Tax Manager Jobs (m/w/d)" [ref=e853] [cursor=pointer]:
+                - /url: /tax-manager-jobs-_pr195
+            - listitem [ref=e854]:
+              - link "Treasury Jobs" [ref=e855] [cursor=pointer]:
+                - /url: /treasury-jobs-_pr138
+            - listitem [ref=e856]:
+              - link "Wirtschaftsinformatik Jobs" [ref=e857] [cursor=pointer]:
+                - /url: /wirtschaftsinformatik-jobs-_pr51
+  - contentinfo [ref=e858]:
+    - generic [ref=e860]:
+      - heading "Folge Deloitte Deutschland Karriere auf unseren Kanälen." [level=2] [ref=e861]
+      - list [ref=e862]:
+        - listitem [ref=e863]:
+          - link "Facebook" [ref=e864] [cursor=pointer]:
+            - /url: https://www.facebook.com/Deloitte.Deutschland
+            - img [ref=e865]
+        - listitem [ref=e867]:
+          - link "LinkedIn" [ref=e868] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/deloitte/
+            - img [ref=e869]
+        - listitem [ref=e871]:
+          - link "YouTube" [ref=e872] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/DeloitteDeutschland
+            - img [ref=e873]
+        - listitem [ref=e875]:
+          - link "Instagram" [ref=e876] [cursor=pointer]:
+            - /url: https://www.instagram.com/deloittedeutschlandkarriere/?hl=de
+            - img [ref=e877]
+        - listitem [ref=e882]:
+          - link "Glassdoor" [ref=e883] [cursor=pointer]:
+            - /url: https://www.glassdoor.de/%C3%9Cberblick/Arbeit-bei-Deloitte-EI_IE2763.11,19.htm
+            - img [ref=e884]
+        - listitem [ref=e886]:
+          - link "Kununu" [ref=e887] [cursor=pointer]:
+            - /url: https://www.kununu.com/de/deloitte-deutschland
+            - img [ref=e888]
+    - list [ref=e892]:
+      - listitem [ref=e893]:
+        - link "Über Deloitte" [ref=e894] [cursor=pointer]:
+          - /url: https://www.deloitte.com/de/de/about/about-deloitte.html
+      - listitem [ref=e895]:
+        - link "Rechtliche Hinweise" [ref=e896] [cursor=pointer]:
+          - /url: https://www.deloitte.com/de/de/legal/legal.html
+      - listitem [ref=e897]:
+        - link "Cookies" [ref=e898] [cursor=pointer]:
+          - /url: https://www.deloitte.com/de/de/legal/Cookies.html
+      - listitem [ref=e899]:
+        - link "Impressum" [ref=e900] [cursor=pointer]:
+          - /url: https://www.deloitte.com/de/de/legal/impressum
+      - listitem [ref=e901]:
+        - link "Datenschutzhinweise Bewerber:innen" [ref=e902] [cursor=pointer]:
+          - /url: /privacy
+      - listitem [ref=e903]:
+        - link "Barrierefreiheitserklärung" [ref=e904] [cursor=pointer]:
+          - /url: /accessibility
+      - listitem [ref=e905]:
+        - link "Sitemap" [ref=e906] [cursor=pointer]:
+          - /url: /sitemap
+    - paragraph [ref=e909]:
+      - text: © 2026 Deloitte bezieht sich auf Deloitte Touche Tohmatsu Limited (DTTL), ihr weltweites Netzwerk von Mitgliedsunternehmen und ihre verbundenen Unternehmen (zusammen die „Deloitte-Organisation“). DTTL (auch „Deloitte Global“ genannt) und jedes ihrer Mitgliedsunternehmen sowie ihre verbundenen Unternehmen sind rechtlich selbstständige und unabhängige Unternehmen, die sich gegenüber Dritten nicht gegenseitig verpflichten oder binden können. DTTL, jedes DTTL-Mitgliedsunternehmen und verbundene Unternehmen haften nur für ihre eigenen Handlungen und Unterlassungen und nicht für die der anderen. DTTL erbringt selbst keine Leistungen gegenüber Kunden. Weitere Informationen finden Sie unter
+      - link "www.deloitte.com/de/UeberUns" [ref=e910] [cursor=pointer]:
+        - /url: https://www.deloitte.com/de/de/about/about-deloitte.html
+      - text: .
+  - iframe [ref=e911]:
+    
